@@ -44,7 +44,7 @@ async function download(videoUrl, info) {
   const format = ytdl.chooseFormat(info.formats, { quality: 'highestaudio' });
 
   // Create a write stream to save the video
-  const fileName = `${info.videoDetails.title.replace(/[^\w\s]/gi, '')}.mp4`;
+  const fileName = `${info.videoDetails.title.replace(/[^\w\s]/gi, '').replace(/ /g, '')}.mp4`;
   const stream = fs.createWriteStream(fileName);
 
   // Pipe the video stream to the file
