@@ -1,0 +1,11127 @@
+1
+00:00:02,409 --> 00:00:08,600
+On a sunny day, in the lab far away,
+Two scientists dreamt up a wild thing.
+
+2
+00:00:09,879 --> 00:00:15,269
+Andres and Alan, with their heads
+up high, They built a dino A.
+
+3
+00:00:15,270 --> 00:00:15,620
+P.
+
+4
+00:00:15,840 --> 00:00:16,570
+I.
+
+5
+00:00:16,669 --> 00:00:17,270
+Oh my!
+
+6
+00:00:18,169 --> 00:00:24,894
+With Neon, the serverless most grands
+on the run, They changed the world!
+
+7
+00:00:25,255 --> 00:00:35,005
+The dinosaurs just for fun, creating
+hand points for four tails and scale
+
+8
+00:00:37,045 --> 00:00:39,805
+title data at everyone's finger.
+
+9
+00:00:39,805 --> 00:00:42,020
+Tips never hit
+
+10
+00:00:46,945 --> 00:00:47,365
+seriously.
+
+11
+00:00:47,365 --> 00:00:52,945
+I have watched that video like 12
+times at least, and I've laughed
+
+12
+00:00:53,365 --> 00:00:54,535
+every single time.
+
+13
+00:00:55,290 --> 00:00:55,710
+Same.
+
+14
+00:00:55,710 --> 00:00:58,600
+I feel like we're going to have to
+start acting those out or something.
+
+15
+00:00:59,669 --> 00:01:00,940
+It's just the only way
+
+16
+00:01:00,940 --> 00:01:04,090
+to, to improve them is to
+act them out ourselves.
+
+17
+00:01:05,060 --> 00:01:07,470
+That'll take a little bit longer
+than the amount of time that it
+
+18
+00:01:07,470 --> 00:01:08,779
+already takes me to make those.
+
+19
+00:01:12,099 --> 00:01:13,429
+Oh, welcome everybody.
+
+20
+00:01:15,399 --> 00:01:15,699
+Yes.
+
+21
+00:01:15,710 --> 00:01:17,409
+Thank you everyone for joining us.
+
+22
+00:01:17,410 --> 00:01:18,590
+We're trying a new format.
+
+23
+00:01:18,980 --> 00:01:21,450
+The believe in serverless, uh, community.
+
+24
+00:01:21,450 --> 00:01:23,070
+We're just going through
+the scientific method.
+
+25
+00:01:23,210 --> 00:01:26,310
+You know, we're computers
+scientists, so we can say that.
+
+26
+00:01:27,995 --> 00:01:34,365
+So we did, we've done Zoom, we've
+done Discord, uh, and now we're
+
+27
+00:01:34,365 --> 00:01:39,155
+gonna try, uh, what, what is this?
+
+28
+00:01:39,374 --> 00:01:40,125
+We're doing StreamYard.
+
+29
+00:01:40,164 --> 00:01:45,104
+So we're streaming live on, on
+YouTube and Twitch for that matter.
+
+30
+00:01:45,104 --> 00:01:48,855
+I know it's going to the Believe
+in Serverless Twitch, which is
+
+31
+00:01:48,855 --> 00:01:52,085
+new as of today that I made.
+
+32
+00:01:52,705 --> 00:01:57,464
+Uh, it's going to mine, which is
+not new, but has zero videos on it.
+
+33
+00:01:57,505 --> 00:01:58,545
+So this is actually number one.
+
+34
+00:01:59,050 --> 00:02:03,220
+After that, it's also going
+to the YouTube on the Believe
+
+35
+00:02:03,220 --> 00:02:04,400
+in Serverless YouTube channel.
+
+36
+00:02:04,400 --> 00:02:05,250
+So that's pretty chill.
+
+37
+00:02:06,300 --> 00:02:06,840
+Pretty cool.
+
+38
+00:02:06,860 --> 00:02:08,680
+Are we streaming on anything that you own,
+
+39
+00:02:08,850 --> 00:02:09,460
+Andres?
+
+40
+00:02:10,470 --> 00:02:12,770
+I'm trying Twitch.
+
+41
+00:02:12,780 --> 00:02:13,120
+We'll see.
+
+42
+00:02:13,120 --> 00:02:15,420
+I have no followers there, but let's see.
+
+43
+00:02:16,235 --> 00:02:18,235
+I'll check later if it
+actually sent it there.
+
+44
+00:02:18,685 --> 00:02:20,655
+It's kind of like the first time
+you write a blog post though.
+
+45
+00:02:20,655 --> 00:02:22,845
+It's you know, you're really just
+writing it for yourself So we're
+
+46
+00:02:22,845 --> 00:02:24,055
+just streaming for our yeah.
+
+47
+00:02:25,135 --> 00:02:26,625
+Yeah, i'll watch myself 10 times.
+
+48
+00:02:26,635 --> 00:02:31,454
+That's fine I don't like when I watch
+that video that we just that we just
+
+49
+00:02:31,465 --> 00:02:38,594
+played Yep Seriously, just that you're
+cracking up watching it over and over
+
+50
+00:02:38,604 --> 00:02:41,344
+sam says it felt like I was
+watching a disney musical
+
+51
+00:02:44,924 --> 00:02:46,514
+It's great, you know, it was
+
+52
+00:02:46,514 --> 00:02:46,734
+pretty
+
+53
+00:02:46,734 --> 00:02:47,054
+good
+
+54
+00:02:47,464 --> 00:02:48,194
+you guys andres.
+
+55
+00:02:48,194 --> 00:02:48,854
+Do you like my hat?
+
+56
+00:02:49,790 --> 00:02:50,820
+It's I love it.
+
+57
+00:02:50,950 --> 00:02:55,070
+It's it really actually makes
+you look like a punk rocker.
+
+58
+00:02:55,600 --> 00:02:57,320
+Uh, but not with the,
+
+59
+00:02:57,330 --> 00:02:57,940
+with the headphones.
+
+60
+00:02:57,940 --> 00:02:58,740
+I feel like it does.
+
+61
+00:02:58,890 --> 00:02:58,990
+I
+
+62
+00:02:58,990 --> 00:02:59,280
+agree.
+
+63
+00:03:00,480 --> 00:03:03,850
+Any big plugs and there we go.
+
+64
+00:03:03,910 --> 00:03:04,220
+Yeah.
+
+65
+00:03:04,299 --> 00:03:04,469
+Yeah.
+
+66
+00:03:04,469 --> 00:03:05,220
+It was a big plug.
+
+67
+00:03:05,800 --> 00:03:06,220
+Yes.
+
+68
+00:03:06,530 --> 00:03:06,709
+Yeah.
+
+69
+00:03:06,709 --> 00:03:11,280
+I asked my three year old to make this for
+me, but you can see the precision of these
+
+70
+00:03:11,280 --> 00:03:14,440
+spikes that she did not make it though.
+
+71
+00:03:14,790 --> 00:03:16,040
+Someone 30 years older than her
+
+72
+00:03:16,040 --> 00:03:16,420
+made it.
+
+73
+00:03:17,180 --> 00:03:20,880
+Um, yeah, you can see a T
+Rex made an appearance here.
+
+74
+00:03:21,334 --> 00:03:25,474
+Whatever this is called, and
+Lil Mo is right behind me.
+
+75
+00:03:25,475 --> 00:03:28,584
+Lil
+
+76
+00:03:28,765 --> 00:03:29,045
+Mo is
+
+77
+00:03:29,045 --> 00:03:29,814
+protecting me.
+
+78
+00:03:31,474 --> 00:03:31,974
+That's good.
+
+79
+00:03:31,974 --> 00:03:37,634
+We had a discussion yesterday on,
+uh, the live stream that Quadra was
+
+80
+00:03:37,635 --> 00:03:41,265
+doing, who would win in a fight to
+the death, a squirrel or a bear.
+
+81
+00:03:41,525 --> 00:03:45,390
+And honestly, I don't think That's
+like, why was that even a discussion?
+
+82
+00:03:45,400 --> 00:03:49,480
+Like, there's no way
+that a bear would win.
+
+83
+00:03:49,570 --> 00:03:50,530
+There's just no way.
+
+84
+00:03:53,260 --> 00:03:53,420
+I didn't catch it.
+
+85
+00:03:54,230 --> 00:03:57,719
+Uh, anyway, why don't you tell
+everybody what we're going to be
+
+86
+00:03:57,719 --> 00:03:58,810
+walking through today, Andres?
+
+87
+00:03:59,585 --> 00:04:00,085
+Cool.
+
+88
+00:04:00,095 --> 00:04:03,954
+So Neon just went GA this week.
+
+89
+00:04:03,965 --> 00:04:06,424
+It's a Postgres serverless database.
+
+90
+00:04:06,745 --> 00:04:11,144
+Um, so we decided to take it for a
+ride and what are we going to do?
+
+91
+00:04:11,334 --> 00:04:13,344
+Obviously something related to dinosaurs.
+
+92
+00:04:13,954 --> 00:04:20,485
+So we're going to, we're going to create a
+database, populate it with dinosaur data,
+
+93
+00:04:20,515 --> 00:04:22,365
+and we're going to build an API around it.
+
+94
+00:04:23,224 --> 00:04:25,094
+So that we can do stuff with it.
+
+95
+00:04:25,284 --> 00:04:31,075
+So that's the high level summary.
+
+96
+00:04:31,205 --> 00:04:31,715
+Yeah.
+
+97
+00:04:32,765 --> 00:04:37,595
+Let me check something real
+quick and we can be good to go.
+
+98
+00:04:37,755 --> 00:04:38,135
+Okay.
+
+99
+00:04:41,335 --> 00:04:41,545
+Let's
+
+100
+00:04:41,555 --> 00:04:41,835
+start.
+
+101
+00:04:41,845 --> 00:04:41,984
+Good
+
+102
+00:04:41,984 --> 00:04:42,215
+to go.
+
+103
+00:04:42,425 --> 00:04:42,895
+Okay, cool.
+
+104
+00:04:43,175 --> 00:04:46,334
+I got the dinosaur data from
+a website called like craggle.
+
+105
+00:04:47,035 --> 00:04:48,485
+Uh, first time I've used that site.
+
+106
+00:04:48,485 --> 00:04:51,495
+Apparently it's a website
+for data scientists.
+
+107
+00:04:52,025 --> 00:04:55,045
+I can't claim that it has every dinosaur.
+
+108
+00:04:55,735 --> 00:04:57,515
+in it, in this data set.
+
+109
+00:04:58,475 --> 00:05:01,755
+So I genuinely don't know how
+many number, how many that is.
+
+110
+00:05:02,605 --> 00:05:05,895
+But it has a lot, it has a
+decent amount of, of dinosaurs.
+
+111
+00:05:05,905 --> 00:05:09,794
+And then I, it's been a long
+time since I've done, uh, data
+
+112
+00:05:09,794 --> 00:05:11,854
+normalization, normalization in SQL.
+
+113
+00:05:12,135 --> 00:05:16,365
+So I asked chat GPT to normalize
+the data set into different,
+
+114
+00:05:17,235 --> 00:05:18,924
+into different Postgres tables.
+
+115
+00:05:20,685 --> 00:05:22,315
+So that's, uh, that's where
+we're starting, right?
+
+116
+00:05:22,315 --> 00:05:26,825
+And so you're, I think we delegated
+to you the responsible party
+
+117
+00:05:26,825 --> 00:05:32,135
+for walking us through the NEON
+experience and ingesting data.
+
+118
+00:05:32,924 --> 00:05:33,544
+Yep.
+
+119
+00:05:35,465 --> 00:05:36,385
+Let's bring you,
+
+120
+00:05:37,264 --> 00:05:37,884
+bring you up.
+
+121
+00:05:40,164 --> 00:05:42,155
+So this is NEON, the NEON console.
+
+122
+00:05:42,215 --> 00:05:43,864
+You can see there's a free tier.
+
+123
+00:05:44,214 --> 00:05:47,424
+Um, I obviously set up an account.
+
+124
+00:05:47,534 --> 00:05:48,505
+I logged in with GitHub.
+
+125
+00:05:49,155 --> 00:05:50,914
+Uh, super simple to set up the account.
+
+126
+00:05:51,409 --> 00:05:52,600
+And you're all set.
+
+127
+00:05:53,440 --> 00:05:53,690
+Right.
+
+128
+00:05:53,690 --> 00:05:55,080
+So what we start
+
+129
+00:05:55,090 --> 00:05:58,020
+here is, I'm sorry, this is
+the, uh, this is the web.
+
+130
+00:05:58,200 --> 00:05:59,669
+This is a browser that you're sharing.
+
+131
+00:06:00,430 --> 00:06:01,020
+Yes.
+
+132
+00:06:01,100 --> 00:06:01,329
+Yeah.
+
+133
+00:06:01,329 --> 00:06:02,730
+I guess you can't see the address bar.
+
+134
+00:06:02,760 --> 00:06:03,560
+I'm on Chrome.
+
+135
+00:06:03,730 --> 00:06:06,049
+This is, this is on the web.
+
+136
+00:06:06,049 --> 00:06:09,979
+So it's pretty nice,
+pretty simple to set up.
+
+137
+00:06:11,169 --> 00:06:17,629
+So once we're here, we can see, Hey,
+you're on the free tier, a single read,
+
+138
+00:06:17,629 --> 00:06:22,499
+write, compute that automatically scales
+to zero after five minutes of inactivity.
+
+139
+00:06:22,965 --> 00:06:28,455
+Right, so kind of evaluating those,
+the serverless aspects of this.
+
+140
+00:06:29,190 --> 00:06:33,820
+It's there, it turns off,
+but what do you think, Alan?
+
+141
+00:06:34,100 --> 00:06:34,590
+I don't know.
+
+142
+00:06:34,590 --> 00:06:36,620
+Uh, that's, that's an interesting one.
+
+143
+00:06:36,640 --> 00:06:41,200
+I, what I'm actually more interested in
+is how quickly it's back in available.
+
+144
+00:06:41,300 --> 00:06:45,830
+Like I get, I get the skill like turning
+off after a certain amount of time.
+
+145
+00:06:46,439 --> 00:06:47,509
+That's fine.
+
+146
+00:06:48,030 --> 00:06:49,659
+Especially if I'm not
+paying for that at the time.
+
+147
+00:06:50,140 --> 00:06:51,659
+Is it immediately available?
+
+148
+00:06:51,730 --> 00:06:55,240
+And we can dig into the docs in
+a bit, see how that pans out.
+
+149
+00:06:56,430 --> 00:06:58,600
+Uh, and we can also just test it directly.
+
+150
+00:06:58,800 --> 00:07:01,270
+Hey, do you have the
+pricing page available for.
+
+151
+00:07:01,570 --> 00:07:03,800
+For Neon, is that something
+that you have access to?
+
+152
+00:07:04,280 --> 00:07:05,140
+Let me see,
+
+153
+00:07:05,270 --> 00:07:06,860
+Neon pricing.
+
+154
+00:07:07,150 --> 00:07:08,820
+I'm, I'm on a new tab, so I'll switch
+
+155
+00:07:08,820 --> 00:07:09,040
+it.
+
+156
+00:07:10,465 --> 00:07:15,775
+Because it is, it is listed, like
+it's advertised as a serverless
+
+157
+00:07:15,935 --> 00:07:18,835
+Postgres service, right?
+
+158
+00:07:19,835 --> 00:07:20,304
+Yes.
+
+159
+00:07:20,824 --> 00:07:21,784
+I know, I know that answer.
+
+160
+00:07:21,794 --> 00:07:22,265
+Yes.
+
+161
+00:07:22,424 --> 00:07:24,875
+I was on that website, who
+knows how many times this week.
+
+162
+00:07:24,905 --> 00:07:25,255
+Okay.
+
+163
+00:07:26,934 --> 00:07:28,544
+And so, okay.
+
+164
+00:07:28,674 --> 00:07:30,114
+That does, can you zoom in a little bit?
+
+165
+00:07:30,894 --> 00:07:31,204
+Yes.
+
+166
+00:07:37,455 --> 00:07:37,915
+Okay,
+
+167
+00:07:38,515 --> 00:07:46,655
+so yeah, so we got where I'm at
+0 a month, it's fixed capacity,
+
+168
+00:07:46,785 --> 00:07:48,135
+we're at limited data, right?
+
+169
+00:07:48,145 --> 00:07:52,995
+Half a gig, um, the next
+year, 19 bucks a month.
+
+170
+00:07:53,374 --> 00:07:56,075
+Doesn't seem that, that hefty.
+
+171
+00:07:56,195 --> 00:08:02,045
+Uh, if you're used to running SQL server,
+definitely super cheap compared to that.
+
+172
+00:08:02,825 --> 00:08:06,265
+Um, it auto scales, instant read replica.
+
+173
+00:08:06,305 --> 00:08:08,545
+So that's probably good.
+
+174
+00:08:08,545 --> 00:08:10,135
+So it's instantly available to read.
+
+175
+00:08:10,144 --> 00:08:10,825
+That's nice.
+
+176
+00:08:12,775 --> 00:08:16,515
+Um, it's good that they
+have via marketplates.
+
+177
+00:08:16,565 --> 00:08:21,295
+I know that's a limitation sometimes.
+
+178
+00:08:22,115 --> 00:08:22,345
+Yeah.
+
+179
+00:08:22,345 --> 00:08:26,985
+Having that is actually, it really helps
+a lot when it comes to adoption rate.
+
+180
+00:08:27,514 --> 00:08:31,874
+I got, uh, the, the new vendor vetting
+process for a lot of companies is really,
+
+181
+00:08:31,874 --> 00:08:39,174
+really difficult to get approval for third
+party vendors, but it's helps drastically
+
+182
+00:08:39,225 --> 00:08:41,444
+when it's available inside of AWS.
+
+183
+00:08:42,099 --> 00:08:44,689
+It's just, it hardly feels
+like a new vendor because it
+
+184
+00:08:44,689 --> 00:08:46,240
+goes in and gets rolled up.
+
+185
+00:08:46,510 --> 00:08:48,540
+The costs get rolled up in your AWS bill.
+
+186
+00:08:49,610 --> 00:08:51,209
+And it helps for
+
+187
+00:08:51,490 --> 00:08:53,250
+like big org budgeting, right?
+
+188
+00:08:53,250 --> 00:08:57,770
+Usually if you're working with AWS
+already, you have a big partnership
+
+189
+00:08:57,770 --> 00:09:01,680
+with, uh, some spend in AWS and all that.
+
+190
+00:09:01,680 --> 00:09:06,300
+So you can bundle up that in your
+AWS spend when it goes through
+
+191
+00:09:06,300 --> 00:09:07,360
+the marketplace, I believe.
+
+192
+00:09:07,389 --> 00:09:09,560
+So that also helps, uh, bigger orgs.
+
+193
+00:09:11,490 --> 00:09:11,720
+Yep.
+
+194
+00:09:11,750 --> 00:09:16,030
+And obviously we got the last option,
+which is call us and we'll figure it out.
+
+195
+00:09:17,545 --> 00:09:22,675
+That's normal, normal, but
+this, like the pricing plan here
+
+196
+00:09:22,785 --> 00:09:24,694
+don't feel serverless to me.
+
+197
+00:09:25,025 --> 00:09:27,754
+A lot of people, you know, you and I
+gave a session for believe in serverless.
+
+198
+00:09:27,794 --> 00:09:31,595
+Like it was like the second one ever
+talking about what serverless mean.
+
+199
+00:09:32,104 --> 00:09:34,735
+And one of them was pay for what you use.
+
+200
+00:09:34,735 --> 00:09:36,915
+And these don't really look like that.
+
+201
+00:09:37,785 --> 00:09:40,755
+That's especially when,
+like, I don't even know.
+
+202
+00:09:41,305 --> 00:09:42,825
+Can you click on compute hours?
+
+203
+00:09:43,295 --> 00:09:44,185
+What does that mean?
+
+204
+00:09:45,975 --> 00:09:47,074
+What's a compute hour?
+
+205
+00:09:47,324 --> 00:09:48,324
+Compute hours, the metric.
+
+206
+00:09:48,825 --> 00:09:50,545
+or compute usage in NEON.
+
+207
+00:09:50,875 --> 00:09:54,225
+The quick math, compute hours
+equals compute size times
+
+208
+00:09:54,275 --> 00:09:55,645
+hours your compute runs.
+
+209
+00:09:56,555 --> 00:09:59,554
+Each pricing plan includes a
+certain number of compute hours.
+
+210
+00:09:59,554 --> 00:10:01,745
+How quickly you consume these
+hours depends on the size of your
+
+211
+00:10:01,745 --> 00:10:02,905
+compute and how long it runs.
+
+212
+00:10:04,020 --> 00:10:06,850
+It's I feel like it's saying the same
+thing over and over, which is fine.
+
+213
+00:10:08,090 --> 00:10:10,790
+Once you exceed the allocated
+amount of hours, you'll be billed
+
+214
+00:10:11,180 --> 00:10:12,530
+for overages in a given month.
+
+215
+00:10:12,929 --> 00:10:13,319
+OK,
+
+216
+00:10:14,710 --> 00:10:15,970
+it's like a phone plan.
+
+217
+00:10:16,619 --> 00:10:21,640
+I know it's doesn't say is it
+is it priced at the same rate or
+
+218
+00:10:21,650 --> 00:10:25,179
+do you get like AT& T and then
+you'll get charged a ton of money?
+
+219
+00:10:27,769 --> 00:10:27,979
+Yeah.
+
+220
+00:10:28,020 --> 00:10:28,570
+Interesting.
+
+221
+00:10:29,050 --> 00:10:29,750
+There's a lot.
+
+222
+00:10:30,420 --> 00:10:32,860
+OK, this is the FAQ for
+the for the pricing.
+
+223
+00:10:32,870 --> 00:10:33,240
+OK.
+
+224
+00:10:33,990 --> 00:10:34,260
+Yeah.
+
+225
+00:10:34,260 --> 00:10:35,520
+So plan comparisons.
+
+226
+00:10:35,980 --> 00:10:43,200
+I want to see if they have pricing
+metrics that feel serverless.
+
+227
+00:10:44,740 --> 00:10:46,930
+Can I just do the free tier?
+
+228
+00:10:46,940 --> 00:10:50,530
+A lot of times when you see, when
+you see tiers like this for something
+
+229
+00:10:50,540 --> 00:10:55,489
+that's added as serverless, really
+what you're paying for is, uh, support.
+
+230
+00:10:55,640 --> 00:10:57,979
+It's the, it's the general
+support tiers that you're paying
+
+231
+00:10:57,989 --> 00:10:59,839
+19 a month for, 69 a month for.
+
+232
+00:11:00,150 --> 00:11:04,060
+So I'm curious if it has at the
+bottom, like what, how much a compute
+
+233
+00:11:04,089 --> 00:11:10,400
+hour costs, how much, how much it
+costs for a gigabyte of storage.
+
+234
+00:11:10,814 --> 00:11:12,014
+Does it have that down at the bottom?
+
+235
+00:11:14,645 --> 00:11:14,984
+Maybe in the
+
+236
+00:11:18,265 --> 00:11:19,345
+FAQ.
+
+237
+00:11:19,355 --> 00:11:21,115
+Let's go throw it all the way down.
+
+238
+00:11:22,984 --> 00:11:25,824
+We might have to look at the docs later.
+
+239
+00:11:29,374 --> 00:11:30,174
+How is storage?
+
+240
+00:11:30,754 --> 00:11:32,285
+Do, uh, storage.
+
+241
+00:11:32,974 --> 00:11:35,334
+Expand the one that says, how
+is storage charged in NEON?
+
+242
+00:11:35,344 --> 00:11:36,444
+I'm actually curious about that one.
+
+243
+00:11:36,454 --> 00:11:37,304
+It's the third from the bottom.
+
+244
+00:11:37,939 --> 00:11:41,290
+Neon implements a unique storage
+engine that enables database
+
+245
+00:11:41,290 --> 00:11:43,240
+branching on copy on write.
+
+246
+00:11:44,670 --> 00:11:50,400
+Database branching on, gosh, I said
+it twice and I still don't understand.
+
+247
+00:11:55,819 --> 00:11:59,139
+So the cool thing, and we will dig
+into the branching thing, but it
+
+248
+00:11:59,139 --> 00:12:03,525
+seems like if you branch 10 times it's
+not going to Duplicate your storage
+
+249
+00:12:03,545 --> 00:12:07,554
+costs, um, which is interesting to do.
+
+250
+00:12:07,554 --> 00:12:09,845
+It says storage from Neon.
+
+251
+00:12:14,715 --> 00:12:16,965
+So Sam is helping us out.
+
+252
+00:12:16,975 --> 00:12:19,734
+He said that each plan has a
+different rate for storage.
+
+253
+00:12:20,915 --> 00:12:23,455
+Oh, I guess that's good.
+
+254
+00:12:23,504 --> 00:12:26,765
+I guess that I would almost consider
+that like a volume discount when
+
+255
+00:12:26,895 --> 00:12:28,294
+we're talking about paying more.
+
+256
+00:12:28,844 --> 00:12:29,244
+Yep.
+
+257
+00:12:31,744 --> 00:12:33,194
+Notifications.
+
+258
+00:12:37,594 --> 00:12:39,214
+Yeah, I'll keep this one open.
+
+259
+00:12:40,954 --> 00:12:41,294
+Cool.
+
+260
+00:12:42,974 --> 00:12:43,714
+It's interesting.
+
+261
+00:12:44,675 --> 00:12:48,065
+So how do you feel around
+the serverless flag there?
+
+262
+00:12:48,735 --> 00:12:53,855
+So I am going to, uh, I'm, I'm
+going to hold a Switzerland.
+
+263
+00:12:54,550 --> 00:12:58,970
+Right now and I am going to say I'm
+not going to make a judgment yet.
+
+264
+00:12:58,980 --> 00:13:00,420
+So right now we're gonna say
+
+265
+00:13:01,020 --> 00:13:01,490
+It's
+
+266
+00:13:01,880 --> 00:13:05,909
+kind of serverless I'm not gonna say
+it's definitely not it definitely
+
+267
+00:13:05,909 --> 00:13:09,920
+doesn't pass all the tests right now on
+my first impression But I'm also going
+
+268
+00:13:09,920 --> 00:13:14,639
+to give it the benefit of the doubt
+and not say no at this point in time So
+
+269
+00:13:14,639 --> 00:13:17,944
+we're gonna leave it at kind of Yeah,
+
+270
+00:13:18,325 --> 00:13:24,525
+it definitely feels more serverless
+than other RDBMS offerings, right?
+
+271
+00:13:24,525 --> 00:13:30,855
+So there's definitely a very different
+approach here, but is it true serverless?
+
+272
+00:13:31,384 --> 00:13:33,609
+Uh, Yeah,
+
+273
+00:13:36,790 --> 00:13:41,080
+I'm of the strong opinion that
+serverless is, uh, you know, it's
+
+274
+00:13:41,080 --> 00:13:45,079
+a set of capabilities that that's
+really what, what that whole thing
+
+275
+00:13:45,080 --> 00:13:48,219
+is ready to use right off the bat.
+
+276
+00:13:48,370 --> 00:13:49,589
+No instances.
+
+277
+00:13:49,589 --> 00:13:50,839
+You're not creating anything.
+
+278
+00:13:50,939 --> 00:13:52,680
+Everything baked in by default.
+
+279
+00:13:53,339 --> 00:13:55,704
+And then you don't have to worry
+about scaling and all that fun stuff.
+
+280
+00:13:55,705 --> 00:13:57,464
+Okay.
+
+281
+00:13:59,324 --> 00:14:03,775
+So let's, uh, let's stop our
+tangent and go back to what
+
+282
+00:14:04,655 --> 00:14:05,845
+we were supposed to be doing.
+
+283
+00:14:08,865 --> 00:14:10,015
+Ah, what is this?
+
+284
+00:14:11,504 --> 00:14:13,885
+So I'm going to be creating the projects.
+
+285
+00:14:14,054 --> 00:14:15,244
+I'm going to call it Dino land.
+
+286
+00:14:15,684 --> 00:14:19,769
+Uh, right now in the free tier, it allows
+you to do one project, one free project.
+
+287
+00:14:20,420 --> 00:14:33,010
+So there it is, and I'm going to, nice,
+I like the music, Alan, so Dino API.
+
+288
+00:14:33,050 --> 00:14:34,610
+Let's just call it Dino DB.
+
+289
+00:14:37,049 --> 00:14:39,039
+So pretty simple setup.
+
+290
+00:14:39,400 --> 00:14:42,070
+I haven't actually
+explored, but just like Git.
+
+291
+00:14:42,409 --> 00:14:46,270
+Uh, so they claim the branching
+strategies for databases.
+
+292
+00:14:46,694 --> 00:14:47,524
+Or database data.
+
+293
+00:14:47,565 --> 00:14:51,785
+So you can change the branch and they
+defaulted to main, which is cool.
+
+294
+00:14:51,785 --> 00:14:55,984
+I hadn't expanded this yet and
+you can select a version of
+
+295
+00:14:56,035 --> 00:14:59,145
+Postgres, so I'll just do 16.
+
+296
+00:15:00,024 --> 00:15:01,265
+Might as well do the latest, right?
+
+297
+00:15:01,754 --> 00:15:02,194
+Yeah.
+
+298
+00:15:02,224 --> 00:15:03,724
+Why start in the old stuff?
+
+299
+00:15:05,585 --> 00:15:05,895
+Cool.
+
+300
+00:15:05,955 --> 00:15:07,785
+Couldn't even tell you how
+to write a Postgres query.
+
+301
+00:15:08,574 --> 00:15:09,734
+Is it just regular SQL?
+
+302
+00:15:10,405 --> 00:15:11,025
+It is.
+
+303
+00:15:11,175 --> 00:15:12,365
+It's okay.
+
+304
+00:15:12,365 --> 00:15:12,955
+I can do that.
+
+305
+00:15:15,185 --> 00:15:19,194
+I remember I struggled because I
+haven't done SQL queries in a while.
+
+306
+00:15:19,204 --> 00:15:20,704
+So I had to, uh, well.
+
+307
+00:15:21,165 --> 00:15:26,715
+Looking into this, I did, uh, Google
+some queries, so you can get a sense
+
+308
+00:15:26,715 --> 00:15:29,625
+of my SQL, uh, SQL abilities right now.
+
+309
+00:15:30,025 --> 00:15:30,685
+Oh gosh.
+
+310
+00:15:30,745 --> 00:15:34,534
+Especially if you call it
+that you're at a good bar.
+
+311
+00:15:34,965 --> 00:15:39,815
+I remember the very first time I had
+ever opened SQL server management
+
+312
+00:15:39,815 --> 00:15:44,475
+studio, uh, had the architect on
+my team standing over my shoulder.
+
+313
+00:15:44,475 --> 00:15:47,375
+This was like, I don't know, maybe a week.
+
+314
+00:15:47,790 --> 00:15:49,810
+On the first job that I had
+straight out of college.
+
+315
+00:15:49,810 --> 00:15:51,560
+I didn't take any database
+classes in college.
+
+316
+00:15:51,560 --> 00:15:55,040
+It wasn't required and he
+said, click on new query.
+
+317
+00:15:55,040 --> 00:15:59,060
+So I clicked on new query inside of, uh,
+inside of SQL Server Management Studio.
+
+318
+00:15:59,060 --> 00:16:02,500
+And he says, okay, select
+star from any pause.
+
+319
+00:16:02,620 --> 00:16:06,649
+And I am looking at the screen
+and I'm looking for literally
+
+320
+00:16:06,649 --> 00:16:09,550
+anything that says select or star.
+
+321
+00:16:09,949 --> 00:16:11,970
+And I was like, what do you mean?
+
+322
+00:16:12,579 --> 00:16:16,479
+What select star from what, what
+am I supposed to be clicking on?
+
+323
+00:16:16,520 --> 00:16:18,020
+And he's like, no, no.
+
+324
+00:16:18,060 --> 00:16:22,900
+And then at that point, it's kind of
+the, the horror sinks in on his face.
+
+325
+00:16:22,900 --> 00:16:24,239
+It's like, what, what have I done?
+
+326
+00:16:24,239 --> 00:16:32,539
+I just hired this guy and he said,
+it's not, not my proudest moment.
+
+327
+00:16:32,539 --> 00:16:32,919
+I'll, I'll
+
+328
+00:16:32,919 --> 00:16:33,079
+say
+
+329
+00:16:33,079 --> 00:16:33,209
+that.
+
+330
+00:16:33,209 --> 00:16:34,009
+Okay.
+
+331
+00:16:34,790 --> 00:16:40,786
+We got a connection, uh, assuming this
+is the way you connect with Postgres.
+
+332
+00:16:40,786 --> 00:16:41,214
+Again.
+
+333
+00:16:41,695 --> 00:16:44,215
+Make this clear.
+
+334
+00:16:44,515 --> 00:16:48,765
+Neither Alan or I have ever
+worked with Postgres before.
+
+335
+00:16:50,574 --> 00:16:52,415
+So it should be fun.
+
+336
+00:16:52,535 --> 00:16:57,714
+We work with SQL, but five, six, how
+many years ago, Alan, since we made
+
+337
+00:16:57,714 --> 00:17:01,434
+the move to the cloud and DynamoDB
+mostly, I assume it's going to be like
+
+338
+00:17:01,434 --> 00:17:02,095
+riding a bike.
+
+339
+00:17:02,105 --> 00:17:06,545
+I mean, I have, you know, Eight
+years of experience doing that is
+
+340
+00:17:06,565 --> 00:17:08,225
+like a serious part of the day job.
+
+341
+00:17:09,565 --> 00:17:10,005
+We'll see.
+
+342
+00:17:10,675 --> 00:17:12,735
+So you can create a pull connection.
+
+343
+00:17:12,765 --> 00:17:13,505
+I'm not going to do that.
+
+344
+00:17:13,905 --> 00:17:18,274
+So I copied this connection string,
+see what other options it gives me.
+
+345
+00:17:18,275 --> 00:17:22,714
+Okay, it gives me Oh, it
+didn't expose the password.
+
+346
+00:17:22,714 --> 00:17:23,135
+Cool.
+
+347
+00:17:23,275 --> 00:17:23,605
+Okay.
+
+348
+00:17:24,405 --> 00:17:26,534
+So I'll do the PSQL.
+
+349
+00:17:26,594 --> 00:17:28,335
+You can do get the next node.
+
+350
+00:17:28,965 --> 00:17:30,905
+I'll probably send you the node, Alan.
+
+351
+00:17:34,705 --> 00:17:35,425
+Is that using there?
+
+352
+00:17:35,475 --> 00:17:36,825
+Oh, nice.
+
+353
+00:17:37,145 --> 00:17:37,764
+Sweet.
+
+354
+00:17:37,824 --> 00:17:38,225
+I hadn't
+
+355
+00:17:38,225 --> 00:17:38,744
+seen this.
+
+356
+00:17:38,804 --> 00:17:39,235
+Okay.
+
+357
+00:17:39,365 --> 00:17:39,834
+Actually, you know what?
+
+358
+00:17:39,845 --> 00:17:46,714
+I am kind of surprised that this
+code, it's just using Postgres.
+
+359
+00:17:46,725 --> 00:17:49,065
+There's not like a, a neon.
+
+360
+00:17:51,430 --> 00:17:57,800
+Yeah, it's, so what I saw, there's
+a, there's a Neon CLI, it's Neon CTL,
+
+361
+00:17:57,920 --> 00:18:03,260
+uh, Neon Cuddle, I guess, uh, Neon
+Control, and then there's Postgres.
+
+362
+00:18:03,310 --> 00:18:08,700
+So you're dealing still directly with
+Postgres, it seems, while doing stuff
+
+363
+00:18:08,990 --> 00:18:13,639
+from your terminal and whatnot, um,
+as well as with, within the code.
+
+364
+00:18:14,090 --> 00:18:14,780
+Do you want this?
+
+365
+00:18:14,860 --> 00:18:15,970
+I can send it to you, Alan.
+
+366
+00:18:16,670 --> 00:18:21,040
+Yeah, we have the, don't we have a
+live session up in VS Code already?
+
+367
+00:18:21,490 --> 00:18:22,250
+Paste that in there.
+
+368
+00:18:22,780 --> 00:18:23,520
+Oh, that's true.
+
+369
+00:18:24,500 --> 00:18:27,169
+You'll, people are not going
+to see that in the screen.
+
+370
+00:18:27,480 --> 00:18:30,119
+Not yet, but we're not, we
+don't need to, to be there yet.
+
+371
+00:18:30,740 --> 00:18:31,229
+So let's go.
+
+372
+00:18:31,300 --> 00:18:31,850
+Yeah, there you go.
+
+373
+00:18:32,029 --> 00:18:32,319
+Okay.
+
+374
+00:18:32,879 --> 00:18:36,240
+So you got to here because you
+just created a new project, right?
+
+375
+00:18:36,630 --> 00:18:37,560
+It was a new project.
+
+376
+00:18:37,810 --> 00:18:38,380
+And yeah, new
+
+377
+00:18:38,380 --> 00:18:39,070
+project.
+
+378
+00:18:39,140 --> 00:18:43,360
+I created the database and now it gave
+me the connection strains and now it's
+
+379
+00:18:43,360 --> 00:18:48,300
+giving me all these examples of how I can
+connect to the neon Postgres database.
+
+380
+00:18:48,870 --> 00:18:49,440
+That's really nice.
+
+381
+00:18:49,440 --> 00:18:51,480
+I like it when, when companies do that.
+
+382
+00:18:52,069 --> 00:18:57,889
+So there's several, the tool I installed
+in preparation for this is P S Q L
+
+383
+00:18:59,289 --> 00:19:03,170
+uh, well, I guess it's just Postgres
+as well, but I just have a CLI.
+
+384
+00:19:03,960 --> 00:19:05,390
+So I got this connection strength.
+
+385
+00:19:05,455 --> 00:19:11,065
+Before you close this, I wanna see,
+there was an option at the very
+
+386
+00:19:11,065 --> 00:19:13,125
+bottom that said serverless driver.
+
+387
+00:19:15,365 --> 00:19:17,135
+Neon serverless driver.
+
+388
+00:19:19,135 --> 00:19:21,174
+Okay, so they have, ooh,
+okay, I'll send you that too.
+
+389
+00:19:21,175 --> 00:19:21,885
+This is what I wanna use.
+
+390
+00:19:22,105 --> 00:19:22,534
+I wanna use this one.
+
+391
+00:19:22,535 --> 00:19:25,025
+Yeah, I'll get that one.
+
+392
+00:19:25,695 --> 00:19:27,075
+I'm gonna, okay, yeah.
+
+393
+00:19:28,705 --> 00:19:31,515
+I just broke a linting
+and everything, it's fine.
+
+394
+00:19:31,965 --> 00:19:33,815
+And there's websockets,
+okay, I'll send this too.
+
+395
+00:19:36,264 --> 00:19:38,595
+We'll see how we use these,
+but just to have them at hand.
+
+396
+00:19:39,075 --> 00:19:41,444
+I'm assuming we can bring
+them up again at some point.
+
+397
+00:19:41,445 --> 00:19:41,514
+All right.
+
+398
+00:19:42,655 --> 00:19:42,895
+Yep.
+
+399
+00:19:43,025 --> 00:19:45,355
+Uh, so HTTP, WebSockets.
+
+400
+00:19:46,705 --> 00:19:47,825
+Did you choose a region?
+
+401
+00:19:49,025 --> 00:19:50,075
+It's US East
+
+402
+00:19:50,675 --> 00:19:51,005
+1.
+
+403
+00:19:51,015 --> 00:19:53,354
+I can see that in the connection string.
+
+404
+00:19:53,365 --> 00:19:54,305
+That's why I was asking.
+
+405
+00:19:54,305 --> 00:19:58,084
+I didn't know if you chose that or
+if that was like an implementation
+
+406
+00:19:58,085 --> 00:19:59,074
+detail that we stumbled
+
+407
+00:19:59,074 --> 00:19:59,334
+on.
+
+408
+00:19:59,884 --> 00:20:01,504
+So question here.
+
+409
+00:20:01,504 --> 00:20:04,194
+Do you think it's going to expose
+the password on the dot EMV?
+
+410
+00:20:07,415 --> 00:20:07,785
+Yes.
+
+411
+00:20:08,195 --> 00:20:11,825
+Oh, I thought, oh no, it isn't.
+
+412
+00:20:11,835 --> 00:20:12,255
+It isn't.
+
+413
+00:20:12,304 --> 00:20:12,655
+Okay.
+
+414
+00:20:12,695 --> 00:20:13,085
+There we are.
+
+415
+00:20:14,114 --> 00:20:15,014
+I'm just copying it.
+
+416
+00:20:15,999 --> 00:20:20,719
+And I'm going to paste it so you
+can put it in an EMV file in the
+
+417
+00:20:20,719 --> 00:20:23,000
+background now with the password.
+
+418
+00:20:25,180 --> 00:20:26,150
+They're protecting us!
+
+419
+00:20:27,129 --> 00:20:27,740
+That is nice.
+
+420
+00:20:27,740 --> 00:20:28,350
+And that's good.
+
+421
+00:20:28,389 --> 00:20:29,990
+Like, here's a question from Sam.
+
+422
+00:20:29,999 --> 00:20:31,430
+Is this a public facing database?
+
+423
+00:20:32,069 --> 00:20:34,710
+Uh, I think so.
+
+424
+00:20:34,710 --> 00:20:36,680
+I think that's like the
+nature of this kind of thing.
+
+425
+00:20:37,550 --> 00:20:38,280
+Yeah, it's there.
+
+426
+00:20:38,280 --> 00:20:39,539
+I mean, you, to connect.
+
+427
+00:20:39,860 --> 00:20:44,149
+You need the password, but it would
+be, I I'm assuming you would be able,
+
+428
+00:20:44,239 --> 00:20:48,030
+if you find the host and the database,
+you would be able to do some stuff.
+
+429
+00:20:50,290 --> 00:20:54,440
+Um, I do, and we'll get back to your
+question because I think there's
+
+430
+00:20:55,400 --> 00:20:57,779
+some stuff connection stream.
+
+431
+00:20:57,799 --> 00:20:58,079
+Okay.
+
+432
+00:20:58,079 --> 00:21:01,970
+So let me just copy this
+one, a storage fault.
+
+433
+00:21:01,970 --> 00:21:05,770
+So they're really making
+emphasis on security here.
+
+434
+00:21:06,299 --> 00:21:08,260
+And that's nice.
+
+435
+00:21:08,360 --> 00:21:09,450
+I actually liked that a lot.
+
+436
+00:21:11,029 --> 00:21:12,620
+So I'll do this later.
+
+437
+00:21:12,750 --> 00:21:18,270
+So this is the, the dashboard.
+
+438
+00:21:18,280 --> 00:21:19,470
+Yeah, it's the dashboard.
+
+439
+00:21:19,530 --> 00:21:19,960
+So that has
+
+440
+00:21:19,980 --> 00:21:21,430
+usage metrics in here.
+
+441
+00:21:22,219 --> 00:21:22,459
+Yeah.
+
+442
+00:21:22,459 --> 00:21:23,250
+I was looking at that
+
+443
+00:21:23,250 --> 00:21:24,260
+yesterday.
+
+444
+00:21:24,580 --> 00:21:30,920
+Uh, so there's monitoring as well, I
+guess, to see your CPU and all that.
+
+445
+00:21:31,629 --> 00:21:38,489
+If I go back in the billing, you see
+how much you've used of your free tier,
+
+446
+00:21:38,489 --> 00:21:41,460
+or maybe if you're in a paid tier, it
+seems to have more information there.
+
+447
+00:21:42,310 --> 00:21:43,770
+You can see how many branches.
+
+448
+00:21:44,260 --> 00:21:45,900
+Which very interesting topic.
+
+449
+00:21:45,930 --> 00:21:49,400
+We'll, we'll play around with
+that, but here, if I go to billing,
+
+450
+00:21:50,570 --> 00:21:52,010
+here's the message built into here.
+
+451
+00:21:52,130 --> 00:21:52,409
+Cool.
+
+452
+00:21:52,440 --> 00:21:52,710
+Okay.
+
+453
+00:21:52,710 --> 00:21:52,949
+Yeah.
+
+454
+00:21:53,759 --> 00:21:55,310
+But I'll go back to projects.
+
+455
+00:21:55,370 --> 00:22:00,019
+Dinoland when I created the project,
+Alan, it lets you choose which region.
+
+456
+00:22:00,149 --> 00:22:03,670
+I did not see which ones it
+gives you the ability to select.
+
+457
+00:22:04,600 --> 00:22:07,570
+But obviously I chose the most
+stable region in the world.
+
+458
+00:22:07,570 --> 00:22:08,450
+It's US East one.
+
+459
+00:22:09,129 --> 00:22:10,110
+Uh,
+
+460
+00:22:10,879 --> 00:22:12,909
+it's definitely the most
+used region in the world.
+
+461
+00:22:15,220 --> 00:22:20,179
+And you have your primary branch
+and this is idle, I guess, since
+
+462
+00:22:20,179 --> 00:22:22,919
+we haven't done any reads, uh,
+
+463
+00:22:23,950 --> 00:22:29,820
+we'll get a cold start when, whenever
+we hit it for the first time, I like
+
+464
+00:22:29,820 --> 00:22:35,350
+that status on there, it doesn't
+feel serverless to me, honestly.
+
+465
+00:22:36,794 --> 00:22:41,825
+Having a status like that, like an
+uptime status or like an up status.
+
+466
+00:22:42,675 --> 00:22:43,065
+Fine.
+
+467
+00:22:45,235 --> 00:22:46,635
+So we already have data.
+
+468
+00:22:47,695 --> 00:22:49,045
+Oh, you've already
+loaded the data in here?
+
+469
+00:22:49,345 --> 00:22:52,804
+No, but we already have
+consumed something.
+
+470
+00:22:54,265 --> 00:22:54,435
+Cool.
+
+471
+00:22:54,919 --> 00:22:59,500
+So first step I want to do
+is create the tables, right?
+
+472
+00:22:59,500 --> 00:23:06,159
+And as Alan mentioned, we, we use
+AI to generate some, to get data.
+
+473
+00:23:06,189 --> 00:23:09,349
+And then we got the queries
+to generate the tables or the
+
+474
+00:23:09,350 --> 00:23:10,840
+commands to generate the tables.
+
+475
+00:23:11,309 --> 00:23:13,850
+One cool thing we have
+here is the SQL editor.
+
+476
+00:23:14,370 --> 00:23:15,110
+right in line.
+
+477
+00:23:16,020 --> 00:23:17,870
+Uh, it keeps a history per project.
+
+478
+00:23:17,910 --> 00:23:20,010
+That's what I saw while
+playing around with this.
+
+479
+00:23:20,650 --> 00:23:23,630
+So I'm not going to go with the
+basic, you can save queries here.
+
+480
+00:23:23,660 --> 00:23:26,899
+So it's kind of like your
+SQL management studio, uh, or
+
+481
+00:23:26,900 --> 00:23:28,530
+equivalent of whatever you use.
+
+482
+00:23:29,550 --> 00:23:30,860
+So I do.
+
+483
+00:23:30,860 --> 00:23:32,029
+Have you
+
+484
+00:23:33,709 --> 00:23:34,610
+used glue before?
+
+485
+00:23:35,329 --> 00:23:36,060
+I have not,
+
+486
+00:23:36,220 --> 00:23:37,370
+or I guess it's not glue.
+
+487
+00:23:37,370 --> 00:23:38,100
+It's Athena.
+
+488
+00:23:38,420 --> 00:23:39,100
+Reminds me of that.
+
+489
+00:23:39,649 --> 00:23:40,060
+Okay.
+
+490
+00:23:40,100 --> 00:23:40,330
+Yeah.
+
+491
+00:23:42,600 --> 00:23:44,210
+So I'm going to copy.
+
+492
+00:23:44,534 --> 00:23:46,645
+And we'll just talk about the commands.
+
+493
+00:23:49,024 --> 00:23:50,294
+How does this look on the share?
+
+494
+00:23:50,294 --> 00:23:50,564
+Alan?
+
+495
+00:23:50,614 --> 00:23:50,955
+Okay.
+
+496
+00:23:51,615 --> 00:23:52,975
+Yeah, it's definitely okay.
+
+497
+00:23:54,225 --> 00:23:58,225
+So we're creating a period
+table for the time period.
+
+498
+00:23:58,485 --> 00:24:07,004
+They lived and their location, taxonomy,
+naming, species, and the actual
+
+499
+00:24:07,004 --> 00:24:09,284
+dinosaur with all the references, right?
+
+500
+00:24:09,284 --> 00:24:13,414
+So we can see if you're a
+Postgres user, this should be
+
+501
+00:24:13,544 --> 00:24:15,904
+your normal, your normal stuff.
+
+502
+00:24:15,964 --> 00:24:19,754
+I could run this from a terminal on
+my machine or just directly here.
+
+503
+00:24:20,305 --> 00:24:22,385
+This I'm just going to do here directly.
+
+504
+00:24:22,395 --> 00:24:24,455
+You can see it identified six queries.
+
+505
+00:24:25,365 --> 00:24:27,025
+I wonder what the explain does.
+
+506
+00:24:29,425 --> 00:24:33,845
+It's detecting a syntax error, but
+this actually, this actually worked.
+
+507
+00:24:33,865 --> 00:24:36,125
+So let's run it.
+
+508
+00:24:36,804 --> 00:24:37,185
+Yeah.
+
+509
+00:24:37,205 --> 00:24:42,424
+So I'm just going to run it
+because the query completed.
+
+510
+00:24:42,524 --> 00:24:42,794
+Right.
+
+511
+00:24:42,794 --> 00:24:46,304
+And, and here it's kind of the
+six queries that identified.
+
+512
+00:24:46,895 --> 00:24:51,815
+We can go, if it was six selects,
+we'll get them all here and see
+
+513
+00:24:51,815 --> 00:24:52,725
+the results for each of those.
+
+514
+00:24:53,350 --> 00:24:53,770
+That's nice.
+
+515
+00:24:53,850 --> 00:24:54,320
+It also has the
+
+516
+00:24:55,010 --> 00:24:57,230
+milliseconds it took
+for each one of those.
+
+517
+00:24:58,500 --> 00:25:02,610
+Which I assume all those add
+up to those compute hours.
+
+518
+00:25:04,580 --> 00:25:07,870
+So let's go back to the dashboard
+and see what, what happened here.
+
+519
+00:25:07,920 --> 00:25:08,290
+Right.
+
+520
+00:25:08,770 --> 00:25:12,019
+Um, I'm not sure how immediate
+
+521
+00:25:12,019 --> 00:25:13,100
+a cloud watch it lags.
+
+522
+00:25:14,210 --> 00:25:14,630
+Yeah.
+
+523
+00:25:14,630 --> 00:25:15,649
+So we'll wait a second.
+
+524
+00:25:15,959 --> 00:25:15,989
+These
+
+525
+00:25:16,149 --> 00:25:19,660
+are also what we're doing control
+plane operations versus data plane.
+
+526
+00:25:20,270 --> 00:25:21,700
+So we're creating tables.
+
+527
+00:25:21,700 --> 00:25:25,595
+We're not, I'm not going to round with
+data, like fetching and adding in there.
+
+528
+00:25:25,595 --> 00:25:27,665
+So it probably wouldn't show up in there.
+
+529
+00:25:29,035 --> 00:25:31,505
+So yeah,
+
+530
+00:25:32,635 --> 00:25:33,705
+let me go back.
+
+531
+00:25:33,705 --> 00:25:33,985
+Okay.
+
+532
+00:25:33,985 --> 00:25:35,495
+So I got the dashboard open.
+
+533
+00:25:35,975 --> 00:25:38,155
+So if I go to tables, we
+should see these, right?
+
+534
+00:25:38,264 --> 00:25:38,574
+Yeah.
+
+535
+00:25:38,645 --> 00:25:44,064
+So here they are, uh, dinosaurs
+query queries while I click this.
+
+536
+00:25:44,064 --> 00:25:45,054
+So be careful with that.
+
+537
+00:25:45,054 --> 00:25:48,114
+If you're in the free tier
+and you introduce the big
+
+538
+00:25:48,114 --> 00:25:51,175
+table, uh, Buh, buh, buh, bum.
+
+539
+00:25:51,635 --> 00:25:51,905
+Cool.
+
+540
+00:25:51,945 --> 00:25:56,945
+So we have all the tables
+here that we defined and an
+
+541
+00:25:57,025 --> 00:25:58,645
+interesting thing here, right?
+
+542
+00:25:58,695 --> 00:25:59,515
+You can see it's main.
+
+543
+00:25:59,525 --> 00:26:05,995
+It just feels very Git, GitHub like
+that there's kind of branches here.
+
+544
+00:26:06,165 --> 00:26:10,925
+And I think that's, I don't know
+if the main selling point around
+
+545
+00:26:10,925 --> 00:26:15,235
+this as well, uh, other than the
+pricing serverless y kind of thing.
+
+546
+00:26:15,700 --> 00:26:16,380
+So these
+
+547
+00:26:16,380 --> 00:26:17,420
+are data branches.
+
+548
+00:26:17,460 --> 00:26:20,340
+It's not code branches,
+it's data branches.
+
+549
+00:26:20,350 --> 00:26:26,720
+So you can fork the data as it exists, run
+your ETL jobs on it to make sure that it
+
+550
+00:26:26,720 --> 00:26:30,690
+works and actually do something with that.
+
+551
+00:26:30,760 --> 00:26:30,960
+That's
+
+552
+00:26:31,420 --> 00:26:31,890
+pretty neat.
+
+553
+00:26:32,609 --> 00:26:33,240
+So let's do that.
+
+554
+00:26:33,279 --> 00:26:36,639
+I mean, I can, let's do a
+branch, uh, and that's where I'm
+
+555
+00:26:36,639 --> 00:26:37,660
+going to load the data, right?
+
+556
+00:26:37,660 --> 00:26:39,990
+So we have the tables there.
+
+557
+00:26:42,080 --> 00:26:45,979
+Let's create a branch and let's
+just call it and more depth.
+
+558
+00:26:46,140 --> 00:26:47,870
+I'm already signed in.
+
+559
+00:26:47,970 --> 00:26:48,389
+Leave me alone.
+
+560
+00:26:49,370 --> 00:26:54,110
+So just like when you're creating a GitHub
+branch or a Git branch, it's from where
+
+561
+00:26:54,150 --> 00:26:56,180
+this is the parent, which is the primary.
+
+562
+00:26:56,210 --> 00:27:03,519
+And I'm creating one called, let's
+just call it DinoLin and Dev.
+
+563
+00:27:05,089 --> 00:27:07,479
+And you can select a
+specific point in time.
+
+564
+00:27:07,480 --> 00:27:08,670
+So that's interesting too.
+
+565
+00:27:08,829 --> 00:27:11,820
+I want last month's data just right now.
+
+566
+00:27:11,860 --> 00:27:13,500
+So let's just do current point in time.
+
+567
+00:27:15,750 --> 00:27:17,750
+A read, write will be created.
+
+568
+00:27:18,070 --> 00:27:19,930
+To connect to this branch from any client.
+
+569
+00:27:19,960 --> 00:27:20,300
+Okay.
+
+570
+00:27:20,950 --> 00:27:21,620
+Hey, read, write,
+
+571
+00:27:21,620 --> 00:27:22,420
+compute.
+
+572
+00:27:24,050 --> 00:27:25,620
+I feel like there's a word missing there.
+
+573
+00:27:27,310 --> 00:27:28,149
+With size 0.
+
+574
+00:27:28,149 --> 00:27:29,689
+25 will be created.
+
+575
+00:27:30,509 --> 00:27:39,639
+I does that mean that it is having
+halving the capacity units that from
+
+576
+00:27:39,639 --> 00:27:41,889
+the main branch, the support, this one,
+
+577
+00:27:42,450 --> 00:27:47,590
+it seems like it, because what do we
+have on the main, I mean, this is read.
+
+578
+00:27:49,205 --> 00:27:51,815
+Oh, maybe it's not, maybe
+it is just a new order.
+
+579
+00:27:53,775 --> 00:27:54,125
+Cool.
+
+580
+00:27:54,185 --> 00:27:57,375
+And they mentioned, right,
+they, they have GitHub actions.
+
+581
+00:27:57,675 --> 00:28:02,635
+They've built, you can call the API
+directly, or like I mentioned, neon CTL.
+
+582
+00:28:03,325 --> 00:28:07,254
+So I could have created the
+branch from the terminal, but
+
+583
+00:28:07,265 --> 00:28:09,185
+I like that they have a
+GitHub action for this.
+
+584
+00:28:09,205 --> 00:28:12,315
+Cause that means you could
+run like, you could run really
+
+585
+00:28:12,315 --> 00:28:14,635
+good CI tests on your data.
+
+586
+00:28:15,135 --> 00:28:16,375
+You could, so you remember
+
+587
+00:28:17,055 --> 00:28:21,149
+most of our issues with CI CD and
+running automated tests, um, like this.
+
+588
+00:28:21,520 --> 00:28:24,480
+contract test and all that with
+seeding data for it to actually work.
+
+589
+00:28:24,819 --> 00:28:28,100
+And we have manual steps to
+make calls to see the data.
+
+590
+00:28:29,110 --> 00:28:34,049
+You can just have one branch preceded
+that you either branch off of for
+
+591
+00:28:34,049 --> 00:28:36,639
+your CI CD and then kill at the end.
+
+592
+00:28:37,170 --> 00:28:41,079
+So you don't, you can even run this
+on a, like a production level thing.
+
+593
+00:28:41,860 --> 00:28:45,360
+Uh, but you're not affecting the real data
+because you're branching out the data.
+
+594
+00:28:45,369 --> 00:28:46,139
+So that's pretty cool.
+
+595
+00:28:46,149 --> 00:28:46,370
+Oh my
+
+596
+00:28:47,649 --> 00:28:47,899
+gosh.
+
+597
+00:28:47,899 --> 00:28:48,529
+I love that.
+
+598
+00:28:48,830 --> 00:28:49,060
+Yeah.
+
+599
+00:28:49,850 --> 00:28:50,000
+Yeah.
+
+600
+00:28:50,000 --> 00:28:53,089
+You could even have a branch that
+has just your test data in it.
+
+601
+00:28:53,699 --> 00:28:58,315
+And then branch off of that one every
+time, uh, A GitHub workflow run.
+
+602
+00:28:59,105 --> 00:29:02,565
+Or even trying to reproduce an issue
+with client data, but you don't
+
+603
+00:29:02,565 --> 00:29:03,885
+want to affect their real data.
+
+604
+00:29:03,885 --> 00:29:05,165
+You branch out of their data.
+
+605
+00:29:05,775 --> 00:29:07,264
+And then just start working out of it.
+
+606
+00:29:08,545 --> 00:29:11,634
+I don't know how compliant that would
+be, so don't quote me on that yet,
+
+607
+00:29:11,634 --> 00:29:15,425
+but depend on your compliance needs,
+you might be able to do that or not.
+
+608
+00:29:16,115 --> 00:29:19,145
+I need to get like an approve button
+that we can put on, on this show that
+
+609
+00:29:19,145 --> 00:29:21,294
+just puts like a big check mark or a
+thumbs up right in the middle of the
+
+610
+00:29:21,294 --> 00:29:22,824
+screen because that's pretty awesome.
+
+611
+00:29:23,235 --> 00:29:25,555
+Yeah, really, really like that a lot.
+
+612
+00:29:25,750 --> 00:29:26,630
+It's a lot of value to that.
+
+613
+00:29:27,760 --> 00:29:31,340
+Uh, I did not read this as always, Alan.
+
+614
+00:29:31,350 --> 00:29:34,220
+We'd never read the docs and we'll
+be complaining after seven days.
+
+615
+00:29:34,220 --> 00:29:35,189
+Where did my data go?
+
+616
+00:29:36,160 --> 00:29:41,110
+Um, it will not increase storage until
+you're start making, or it ages past
+
+617
+00:29:41,110 --> 00:29:43,120
+your history retention window seven days.
+
+618
+00:29:44,690 --> 00:29:45,749
+So nothing affects the parent.
+
+619
+00:29:45,840 --> 00:29:46,020
+Cool.
+
+620
+00:29:46,880 --> 00:29:51,720
+So I'm going to create this branch, gives
+me another set of connection strings.
+
+621
+00:29:51,820 --> 00:29:57,510
+So I think before we start actually
+building the API, we'll build it off
+
+622
+00:29:57,510 --> 00:29:59,250
+of main, the things I already sent.
+
+623
+00:29:59,970 --> 00:30:02,910
+So we'll see a little bit of it.
+
+624
+00:30:02,920 --> 00:30:07,160
+So I'll copy this and I'll
+try to not expose my API key.
+
+625
+00:30:07,160 --> 00:30:09,400
+I'll see if I can, I'll see if I can.
+
+626
+00:30:10,920 --> 00:30:17,860
+So as I'm doing this, I'm going to
+run on a terminal here, PowerShell,
+
+627
+00:30:18,569 --> 00:30:23,290
+and I'm going to connect to this
+and hopefully I can hide it somehow.
+
+628
+00:30:24,255 --> 00:30:28,985
+Maybe not because it's going to
+expose the, we'll just go with it.
+
+629
+00:30:30,345 --> 00:30:31,625
+So now
+
+630
+00:30:32,115 --> 00:30:33,035
+what are we doing right now?
+
+631
+00:30:33,135 --> 00:30:37,414
+I was created the connection and a
+terminal to see if I could not expose the
+
+632
+00:30:37,415 --> 00:30:39,225
+secret, but we'll, we'll flow with it.
+
+633
+00:30:40,174 --> 00:30:43,095
+Uh, so I'll switch the
+screen to the terminal.
+
+634
+00:30:43,725 --> 00:30:50,075
+Well, we're now just going to use PSQL to
+see the data that we have in CSV files.
+
+635
+00:30:50,735 --> 00:30:54,205
+So let me just show a little
+bit of the docs here, uh, that
+
+636
+00:30:54,205 --> 00:30:56,115
+I was navigating wrong window.
+
+637
+00:30:57,525 --> 00:30:58,705
+So neon.
+
+638
+00:31:01,085 --> 00:31:03,175
+Import CSV data.
+
+639
+00:31:05,705 --> 00:31:07,855
+So they have different ways to import.
+
+640
+00:31:07,885 --> 00:31:13,495
+I'm assuming these are standards,
+Postgres, uh, ways to import, but, um,
+
+641
+00:31:13,965 --> 00:31:18,755
+since I haven't used it, I don't know
+who is it from, but it seems this copy
+
+642
+00:31:18,805 --> 00:31:22,965
+thing from CSV seems to be a standard
+Postgres thing, uh, which is pretty cool.
+
+643
+00:31:23,575 --> 00:31:27,025
+Uh, it just does it if you had the
+right to limiters and titles and
+
+644
+00:31:27,025 --> 00:31:28,685
+your, and your things, it just works.
+
+645
+00:31:29,645 --> 00:31:31,945
+They have multiple imports.
+
+646
+00:31:32,125 --> 00:31:36,218
+It was just from Postgres, from
+a Neon project, CSV, Heroku,
+
+647
+00:31:36,218 --> 00:31:38,855
+AWS CMS, and from MySQL.
+
+648
+00:31:38,985 --> 00:31:39,515
+So that's cool.
+
+649
+00:31:39,910 --> 00:31:40,540
+Or just sample data.
+
+650
+00:31:41,370 --> 00:31:44,650
+What we're going to use is CSVs
+that I already have locally.
+
+651
+00:31:45,780 --> 00:31:49,280
+So I'll switch it to that.
+
+652
+00:31:49,790 --> 00:31:49,890
+Let
+
+653
+00:31:49,890 --> 00:31:57,580
+me stop this screen, share my window
+
+654
+00:32:00,800 --> 00:32:02,340
+and non windows users.
+
+655
+00:32:02,359 --> 00:32:04,259
+I'm sorry, but I'm a windows user.
+
+656
+00:32:04,260 --> 00:32:06,000
+So you know how to, okay, there you go.
+
+657
+00:32:07,999 --> 00:32:09,680
+Is that good enough?
+
+658
+00:32:10,790 --> 00:32:11,010
+Cool.
+
+659
+00:32:12,320 --> 00:32:13,260
+So.
+
+660
+00:32:14,290 --> 00:32:18,430
+Again, so we don't spend the
+whole session trying to figure
+
+661
+00:32:18,430 --> 00:32:19,740
+out how to get data in there.
+
+662
+00:32:20,290 --> 00:32:24,499
+We have the files with the CSV and
+like I said, it's pretty simple.
+
+663
+00:32:24,990 --> 00:32:28,690
+So right now I'm porting the
+species, so it's just copy to
+
+664
+00:32:28,690 --> 00:32:31,699
+the species table from the CSV.
+
+665
+00:32:33,330 --> 00:32:39,810
+And I wish I had, um, known what this
+does, but I didn't research that.
+
+666
+00:32:39,820 --> 00:32:41,350
+So we'll just go with it.
+
+667
+00:32:41,730 --> 00:32:44,629
+The delimiter is a comma
+and the CSV header thing.
+
+668
+00:32:44,629 --> 00:32:47,190
+I don't know what that means, but
+it just, that means that that means
+
+669
+00:32:47,190 --> 00:32:49,069
+that the CSV file has a header row.
+
+670
+00:32:49,770 --> 00:32:50,160
+Okay.
+
+671
+00:32:50,260 --> 00:32:51,500
+That's simple enough.
+
+672
+00:32:53,290 --> 00:32:58,510
+So here we copied 309 records into
+that database and I'll just keep going.
+
+673
+00:32:58,700 --> 00:32:58,940
+Right.
+
+674
+00:32:58,940 --> 00:33:02,560
+So we'll go back to the,
+the console in a bit.
+
+675
+00:33:02,590 --> 00:33:03,890
+So now I did taxonomy.
+
+676
+00:33:05,715 --> 00:33:12,745
+We have period, 154, naming.
+
+677
+00:33:15,625 --> 00:33:16,064
+This is fast.
+
+678
+00:33:17,385 --> 00:33:17,805
+Yeah.
+
+679
+00:33:20,565 --> 00:33:22,745
+And the actual dinosaurs, we have 309.
+
+680
+00:33:23,595 --> 00:33:27,095
+Yes, that's definitely not an
+exhaustive set of dinosaurs.
+
+681
+00:33:27,475 --> 00:33:28,445
+There's just no way.
+
+682
+00:33:28,555 --> 00:33:32,315
+I don't know enough about dinosaurs to say
+with 100 percent certainty, but I'm like
+
+683
+00:33:32,324 --> 00:33:34,274
+98 percent sure there were more dinosaurs.
+
+684
+00:33:34,535 --> 00:33:35,225
+There's
+
+685
+00:33:35,255 --> 00:33:35,615
+two.
+
+686
+00:33:35,694 --> 00:33:36,704
+I don't know of more.
+
+687
+00:33:42,314 --> 00:33:44,345
+Okay, let me switch back to Neon.
+
+688
+00:33:44,565 --> 00:33:45,955
+So we can see the data actually
+
+689
+00:33:45,955 --> 00:33:46,355
+there.
+
+690
+00:33:47,315 --> 00:33:50,845
+I want to see the usage metrics on this
+one because you just put in, I mean,
+
+691
+00:33:50,845 --> 00:33:54,184
+I can't say it's a ton of data, but
+you did just put in a decent amount,
+
+692
+00:33:54,185 --> 00:33:58,375
+you know, it was over a thousand
+records across seven, seven tables.
+
+693
+00:33:59,285 --> 00:34:00,955
+So let's take a
+
+694
+00:34:00,955 --> 00:34:01,595
+look at that.
+
+695
+00:34:02,744 --> 00:34:04,475
+So yeah, I'll go back here.
+
+696
+00:34:05,185 --> 00:34:07,115
+So this has its own thing.
+
+697
+00:34:07,125 --> 00:34:10,195
+I guess you can track this.
+
+698
+00:34:11,105 --> 00:34:11,835
+I'm refreshing.
+
+699
+00:34:11,885 --> 00:34:12,165
+Wow.
+
+700
+00:34:12,165 --> 00:34:12,965
+That looked terrible.
+
+701
+00:34:14,885 --> 00:34:18,255
+So the parent active time, very minimal.
+
+702
+00:34:18,720 --> 00:34:20,170
+It doesn't show anything yet.
+
+703
+00:34:20,490 --> 00:34:21,770
+Then down here.
+
+704
+00:34:23,810 --> 00:34:25,140
+It might be lagging a little bit.
+
+705
+00:34:25,940 --> 00:34:26,510
+Yeah,
+
+706
+00:34:26,730 --> 00:34:28,270
+but we still don't see anything.
+
+707
+00:34:28,550 --> 00:34:28,900
+Oh, there's
+
+708
+00:34:29,270 --> 00:34:29,910
+data points.
+
+709
+00:34:29,970 --> 00:34:30,090
+I
+
+710
+00:34:30,090 --> 00:34:30,430
+saw them.
+
+711
+00:34:32,239 --> 00:34:32,729
+Yay!
+
+712
+00:34:34,089 --> 00:34:36,949
+So we got RAM, 122.
+
+713
+00:34:37,020 --> 00:34:38,339
+VCPU, 01.
+
+714
+00:34:38,339 --> 00:34:40,020
+Allocated, 25.
+
+715
+00:34:40,920 --> 00:34:41,920
+Can I do like a close up?
+
+716
+00:34:44,149 --> 00:34:45,590
+You can't like drag over that?
+
+717
+00:34:47,090 --> 00:34:48,620
+I guess on this view we could.
+
+718
+00:34:48,690 --> 00:34:49,210
+Let's see.
+
+719
+00:34:49,400 --> 00:34:49,740
+Nope.
+
+720
+00:34:53,345 --> 00:34:54,725
+Used to, but okay.
+
+721
+00:34:55,015 --> 00:34:55,225
+Okay.
+
+722
+00:34:55,225 --> 00:34:56,745
+So we've got the low spike.
+
+723
+00:34:56,955 --> 00:34:57,335
+Yeah.
+
+724
+00:34:57,335 --> 00:35:03,584
+And I guess this is the data
+allocated versus used to allocate
+
+725
+00:35:03,584 --> 00:35:08,905
+it as the, the black bar there,
+and then the blue is our usage
+
+726
+00:35:12,065 --> 00:35:12,515
+buffer.
+
+727
+00:35:12,515 --> 00:35:12,755
+Okay.
+
+728
+00:35:12,755 --> 00:35:20,155
+So there, it has a cache, I guess,
+built in and active connection 12,
+
+729
+00:35:21,385 --> 00:35:23,575
+26, 10 minutes ago from the terminal.
+
+730
+00:35:26,370 --> 00:35:26,700
+Cool.
+
+731
+00:35:26,810 --> 00:35:29,170
+So how many rows?
+
+732
+00:35:29,210 --> 00:35:29,740
+Look at that.
+
+733
+00:35:31,490 --> 00:35:32,940
+Inserted, updated.
+
+734
+00:35:33,690 --> 00:35:36,680
+I don't know where the updated is
+coming from because I have not.
+
+735
+00:35:40,650 --> 00:35:43,199
+Okay, let's keep going.
+
+736
+00:35:43,199 --> 00:35:49,939
+So now if I go, let's go
+to tables and main, right?
+
+737
+00:35:49,939 --> 00:35:52,360
+So if I click on dinosaurs,
+we don't have any data.
+
+738
+00:35:52,980 --> 00:35:59,400
+But if I switch the branch
+to dev, there we have it.
+
+739
+00:35:59,400 --> 00:36:02,440
+So that's Ardenyx herbivorous.
+
+740
+00:36:04,350 --> 00:36:05,290
+So now we could.
+
+741
+00:36:05,815 --> 00:36:07,325
+Actually write queries.
+
+742
+00:36:07,475 --> 00:36:09,655
+I'm assuming you can select the branch.
+
+743
+00:36:09,655 --> 00:36:09,845
+Yeah.
+
+744
+00:36:09,845 --> 00:36:10,875
+So the branch is here.
+
+745
+00:36:11,965 --> 00:36:13,705
+So if I, is there a new query?
+
+746
+00:36:13,725 --> 00:36:13,925
+Yeah.
+
+747
+00:36:14,285 --> 00:36:19,865
+So if I do it, so I'm not going
+to do the all caps, select all
+
+748
+00:36:19,885 --> 00:36:24,085
+from dinosaurs pronounce it.
+
+749
+00:36:24,085 --> 00:36:25,125
+Cause I always spell it wrong.
+
+750
+00:36:26,805 --> 00:36:27,674
+So here it is, right?
+
+751
+00:36:27,704 --> 00:36:30,414
+Just your standard sequel.
+
+752
+00:36:31,534 --> 00:36:34,694
+Uh, we could even do, let's
+see if I don't mess this up.
+
+753
+00:36:34,744 --> 00:36:36,774
+Inner joins species.
+
+754
+00:36:38,170 --> 00:36:38,550
+Dinosaurs.
+
+755
+00:36:38,550 --> 00:36:39,920
+speciesid
+
+756
+00:36:46,990 --> 00:36:47,970
+There's no easy way.
+
+757
+00:36:47,980 --> 00:36:51,210
+I can't actually go to the right.
+
+758
+00:36:51,210 --> 00:36:52,310
+So I have to do that
+
+759
+00:36:52,380 --> 00:36:54,230
+would have been very nice here.
+
+760
+00:36:54,350 --> 00:36:56,230
+It has some, but it doesn't.
+
+761
+00:36:57,460 --> 00:36:57,700
+Right.
+
+762
+00:36:57,720 --> 00:37:00,710
+So you can see it, it recommends
+based on what you already have.
+
+763
+00:37:01,420 --> 00:37:04,990
+So species dot species ID.
+
+764
+00:37:05,039 --> 00:37:07,599
+So there it is, but it's
+because I already had this.
+
+765
+00:37:08,200 --> 00:37:10,460
+Yeah, it did say local
+where it was coming from.
+
+766
+00:37:11,100 --> 00:37:12,590
+Let's see if this one explains it.
+
+767
+00:37:13,130 --> 00:37:14,170
+Oh, okay.
+
+768
+00:37:16,810 --> 00:37:20,170
+As interesting as that is, I
+actually want to point out that
+
+769
+00:37:20,480 --> 00:37:25,359
+Mark looked it up and there were 700
+known species of extinct dinosaurs.
+
+770
+00:37:25,930 --> 00:37:27,349
+Oh, wow.
+
+771
+00:37:27,609 --> 00:37:28,199
+It's interesting
+
+772
+00:37:28,199 --> 00:37:29,419
+that it says extinct.
+
+773
+00:37:32,289 --> 00:37:34,529
+Are there non extinct dinosaurs, Mark?
+
+774
+00:37:34,530 --> 00:37:36,319
+I'd say crocodile, I guess.
+
+775
+00:37:37,040 --> 00:37:37,709
+And if you believe me.
+
+776
+00:37:40,840 --> 00:37:42,150
+Hey, I can't really read that.
+
+777
+00:37:42,150 --> 00:37:44,030
+Can you, can you zoom in?
+
+778
+00:37:45,660 --> 00:37:46,640
+This is,
+
+779
+00:37:49,790 --> 00:37:53,750
+so it's looking at the inner join,
+both tables that are joined and
+
+780
+00:37:53,750 --> 00:37:57,520
+I guess finds relevant records by
+sequential scanning, so it's just
+
+781
+00:37:57,520 --> 00:37:59,280
+explaining all the stuff it does.
+
+782
+00:38:00,050 --> 00:38:00,379
+Okay, cool.
+
+783
+00:38:00,379 --> 00:38:01,299
+It's the execution plan.
+
+784
+00:38:01,319 --> 00:38:04,789
+The cost is that's cents,
+
+785
+00:38:05,349 --> 00:38:06,119
+dollars.
+
+786
+00:38:06,579 --> 00:38:11,949
+That's scary, but I hope that
+was not a 7 and nine cent query.
+
+787
+00:38:12,760 --> 00:38:12,970
+Yeah.
+
+788
+00:38:14,920 --> 00:38:19,260
+So I clicked this was explained there's
+raw data so you could process this
+
+789
+00:38:19,260 --> 00:38:24,890
+however if you're a Database guru, you
+can probably do a lot of stuff with this
+
+790
+00:38:26,630 --> 00:38:31,069
+I am definitely not close to being one
+so I don't know really how to read this
+
+791
+00:38:31,070 --> 00:38:38,019
+But there's a lot of information here
+that you could use Let's try the analyze.
+
+792
+00:38:38,779 --> 00:38:39,659
+Was that the analyze?
+
+793
+00:38:40,019 --> 00:38:42,739
+Explain and analyze seem
+to be doing the same thing.
+
+794
+00:38:45,230 --> 00:38:49,375
+So We'll have to figure
+out what the difference is.
+
+795
+00:38:49,375 --> 00:38:56,285
+So, but now if I run it, we get
+that and the species, so we can
+
+796
+00:38:56,285 --> 00:39:02,255
+do Dino, sars name, comma species.
+
+797
+00:39:03,095 --> 00:39:07,115
+Species name I think is the,
+yeah, intelligence would be
+
+798
+00:39:07,295 --> 00:39:07,985
+great,
+
+799
+00:39:08,665 --> 00:39:12,305
+but we got the, it has the
+schema, so it should be able to
+
+800
+00:39:12,305 --> 00:39:13,955
+provide some sort of intelligence.
+
+801
+00:39:15,495 --> 00:39:17,655
+Um, so we got here, right?
+
+802
+00:39:17,655 --> 00:39:18,015
+Uh.
+
+803
+00:39:21,040 --> 00:39:22,520
+I'm going to blame ESL here.
+
+804
+00:39:22,520 --> 00:39:24,000
+I can't pronounce any of these.
+
+805
+00:39:24,540 --> 00:39:25,120
+Uh, Oh no.
+
+806
+00:39:25,120 --> 00:39:25,850
+Even if English
+
+807
+00:39:25,870 --> 00:39:26,020
+is
+
+808
+00:39:26,020 --> 00:39:26,780
+your first language.
+
+809
+00:39:29,020 --> 00:39:30,150
+Uh, kilobater.
+
+810
+00:39:31,489 --> 00:39:37,759
+He's gigantic, gigantic, cool.
+
+811
+00:39:38,519 --> 00:39:39,579
+So we have them all here.
+
+812
+00:39:40,790 --> 00:39:43,870
+Um, let's see the operations piece.
+
+813
+00:39:45,790 --> 00:39:48,970
+I guess this is kind of like
+a cloud trail kind of thing.
+
+814
+00:39:48,970 --> 00:39:52,100
+What has happened in your project around.
+
+815
+00:39:53,125 --> 00:39:55,475
+The database, not so
+much queries, it seems.
+
+816
+00:39:57,165 --> 00:39:59,045
+So you can see when it
+suspended the compute.
+
+817
+00:40:01,495 --> 00:40:03,665
+Let's look at the dashboard
+now that we ran some queries.
+
+818
+00:40:04,395 --> 00:40:06,364
+And you can see here's the
+history of all that I've done.
+
+819
+00:40:06,495 --> 00:40:07,334
+So that's cool.
+
+820
+00:40:08,005 --> 00:40:10,334
+But I'm gonna just trigger
+this a few more times.
+
+821
+00:40:11,315 --> 00:40:15,185
+Hopefully I don't run out of free
+storage or compute or anything.
+
+822
+00:40:15,254 --> 00:40:18,065
+But if I go to dashboard,
+
+823
+00:40:21,185 --> 00:40:22,975
+let's go to the full monitoring.
+
+824
+00:40:23,415 --> 00:40:26,665
+Yeah, if those were immediately available,
+I would be like extremely impressed.
+
+825
+00:40:26,745 --> 00:40:30,535
+I mean, they're pretty, it's pretty
+near real time, but not how far
+
+826
+00:40:30,535 --> 00:40:32,095
+are we lagging behind two minutes?
+
+827
+00:40:32,355 --> 00:40:33,455
+Probably.
+
+828
+00:40:36,035 --> 00:40:36,675
+That's not bad.
+
+829
+00:40:37,685 --> 00:40:42,424
+The blue is, okay, updated
+database size, that's going to stay
+
+830
+00:40:42,425 --> 00:40:45,094
+relatively flat for the rest of this.
+
+831
+00:40:46,695 --> 00:40:49,635
+It does seem to be running
+update operations every time.
+
+832
+00:40:49,635 --> 00:40:53,315
+And I'm wondering if it's trying to
+update some sort of like metrics or
+
+833
+00:40:53,315 --> 00:40:55,685
+analytics tables that we can't see.
+
+834
+00:40:57,190 --> 00:41:01,610
+That might be, those should probably
+be excluded from your metrics because
+
+835
+00:41:01,620 --> 00:41:04,910
+those are not, they shouldn't be
+charged to me if that's the case.
+
+836
+00:41:06,330 --> 00:41:09,430
+Uh, because that's operational for Neon.
+
+837
+00:41:10,230 --> 00:41:12,660
+It's part of the, the
+subscription price, I guess.
+
+838
+00:41:14,300 --> 00:41:15,699
+Uh, so the main is idle.
+
+839
+00:41:15,710 --> 00:41:16,769
+This one's active.
+
+840
+00:41:18,130 --> 00:41:23,379
+So now I wonder, I haven't tried
+this, but can you just merge a branch?
+
+841
+00:41:23,989 --> 00:41:24,519
+Branches.
+
+842
+00:41:28,589 --> 00:41:30,449
+You can set it as the primary.
+
+843
+00:41:31,375 --> 00:41:33,665
+I don't know that doesn't seem
+like the right command though.
+
+844
+00:41:36,155 --> 00:41:38,125
+Green name set as protected.
+
+845
+00:41:38,745 --> 00:41:39,485
+What is this bro?
+
+846
+00:41:39,485 --> 00:41:41,005
+You reach your limit for protected.
+
+847
+00:41:41,105 --> 00:41:42,624
+Oh, guess I guess this one's protected.
+
+848
+00:41:42,695 --> 00:41:44,955
+Yeah, I like it.
+
+849
+00:41:45,035 --> 00:41:46,584
+You want to protect your main branch.
+
+850
+00:41:47,275 --> 00:41:47,605
+Yeah,
+
+851
+00:41:47,665 --> 00:41:52,315
+but I would think that's it's
+the other way around, right?
+
+852
+00:41:52,315 --> 00:41:53,304
+I want to.
+
+853
+00:41:53,840 --> 00:41:55,290
+Let's see, open this.
+
+854
+00:41:57,890 --> 00:41:58,500
+I don't want to create a branch.
+
+855
+00:41:58,500 --> 00:41:59,269
+Go
+
+856
+00:41:59,270 --> 00:42:00,580
+to the dev branch from in here.
+
+857
+00:42:00,600 --> 00:42:02,150
+Let's get, look at the detail view.
+
+858
+00:42:03,450 --> 00:42:05,670
+This is where I would expect
+it to show up under more.
+
+859
+00:42:08,210 --> 00:42:09,189
+It's the same thing.
+
+860
+00:42:09,770 --> 00:42:10,660
+Compare to parent.
+
+861
+00:42:10,670 --> 00:42:11,960
+What happens if you do compare?
+
+862
+00:42:12,179 --> 00:42:12,869
+Oh okay,
+
+863
+00:42:13,390 --> 00:42:14,699
+like, like a pull request?
+
+864
+00:42:16,239 --> 00:42:17,190
+Gamers are in sync.
+
+865
+00:42:17,525 --> 00:42:18,345
+Click on compare.
+
+866
+00:42:18,955 --> 00:42:20,125
+Let's see if that does anything.
+
+867
+00:42:21,735 --> 00:42:25,205
+No, I guess if you
+change this then compare.
+
+868
+00:42:25,615 --> 00:42:28,174
+Well, it's not comparing the
+data, it's comparing the database.
+
+869
+00:42:28,174 --> 00:42:29,414
+It's schemas.
+
+870
+00:42:29,485 --> 00:42:31,555
+Okay, interesting.
+
+871
+00:42:31,565 --> 00:42:34,894
+So I'll go back to the
+main and populate that one.
+
+872
+00:42:34,934 --> 00:42:37,945
+We haven't changed the schema,
+so we'll just ignore this branch.
+
+873
+00:42:37,965 --> 00:42:40,774
+I thought you would be able to
+merge the data from the branch.
+
+874
+00:42:40,804 --> 00:42:44,664
+That would be cool, but it's
+weird now that I think about it.
+
+875
+00:42:44,895 --> 00:42:45,425
+So
+
+876
+00:42:46,280 --> 00:42:53,390
+It looks like what it's done, this
+is just complete speculation, Um, it
+
+877
+00:42:53,390 --> 00:42:55,830
+has a compute, a table for compute.
+
+878
+00:42:57,300 --> 00:42:59,050
+I really don't like saying it like that.
+
+879
+00:42:59,235 --> 00:43:01,075
+Go to your branch.
+
+880
+00:43:04,515 --> 00:43:12,025
+And if I had to guess, my guess
+is that that is a, no, no, no.
+
+881
+00:43:12,285 --> 00:43:13,235
+Don't look at the data.
+
+882
+00:43:13,515 --> 00:43:15,194
+We were just looking at
+comparing the branches.
+
+883
+00:43:15,194 --> 00:43:16,265
+Go back to the branch.
+
+884
+00:43:16,625 --> 00:43:17,444
+Oh, I see.
+
+885
+00:43:17,545 --> 00:43:17,585
+And
+
+886
+00:43:17,585 --> 00:43:18,555
+then click on dev
+
+887
+00:43:18,965 --> 00:43:19,265
+here.
+
+888
+00:43:19,364 --> 00:43:19,624
+Yeah.
+
+889
+00:43:19,665 --> 00:43:21,195
+So you see it computes down there.
+
+890
+00:43:21,264 --> 00:43:25,255
+I'm guessing that's some sort of
+EC2 instance under the covers.
+
+891
+00:43:25,875 --> 00:43:27,505
+Oh, what happens if you click connect?
+
+892
+00:43:27,765 --> 00:43:28,655
+What is that going to do?
+
+893
+00:43:29,065 --> 00:43:30,695
+Uh, so it shows the connection details.
+
+894
+00:43:31,385 --> 00:43:32,974
+Yeah, maybe I'm wrong.
+
+895
+00:43:34,785 --> 00:43:35,014
+Okay.
+
+896
+00:43:35,014 --> 00:43:36,264
+You have roles.
+
+897
+00:43:36,264 --> 00:43:36,324
+Okay.
+
+898
+00:43:38,675 --> 00:43:39,535
+What is this?
+
+899
+00:43:39,695 --> 00:43:46,865
+Okay, I wanna just do something very
+quick and I'm just gonna copy this create
+
+900
+00:43:46,875 --> 00:43:53,005
+table and I'm on the dev branch so I'm
+gonna do a new and let's just do two.
+
+901
+00:43:53,585 --> 00:43:57,345
+Right, just to see a comparison
+on the branch comparison.
+
+902
+00:44:00,485 --> 00:44:03,485
+Query completed, we should see,
+
+903
+00:44:05,565 --> 00:44:06,085
+maybe not.
+
+904
+00:44:06,135 --> 00:44:08,765
+This is what you call eventually
+consistent right there.
+
+905
+00:44:09,365 --> 00:44:12,455
+Well, I don't know, does that, no,
+you're looking at the main branch.
+
+906
+00:44:13,675 --> 00:44:13,895
+Ah,
+
+907
+00:44:13,935 --> 00:44:15,295
+big guy, good catch.
+
+908
+00:44:15,780 --> 00:44:17,490
+Okay, so here it is period two.
+
+909
+00:44:18,550 --> 00:44:25,810
+So now if I go here, how did we
+compare uh, you went into the deck?
+
+910
+00:44:25,810 --> 00:44:27,880
+Yeah, there you go compared to parent.
+
+911
+00:44:28,650 --> 00:44:29,820
+Let's see what it shows here.
+
+912
+00:44:33,549 --> 00:44:36,779
+It shows the change and
+look at this sequence
+
+913
+00:44:41,319 --> 00:44:42,349
+What would you do with this?
+
+914
+00:44:43,449 --> 00:44:48,295
+anybody anybody who's Anybody who
+knows that's watching, can you please
+
+915
+00:44:48,295 --> 00:44:49,225
+tell us what you would do with this?
+
+916
+00:44:51,765 --> 00:44:53,745
+It looks like it's a handoff to you.
+
+917
+00:44:53,795 --> 00:44:58,645
+Like, to me, this looks like a change
+script that it says, here you go,
+
+918
+00:44:58,654 --> 00:45:03,845
+run this, and you're going to be,
+uh, up to, up to the latest with your
+
+919
+00:45:03,845 --> 00:45:04,655
+destination branch.
+
+920
+00:45:05,585 --> 00:45:09,275
+But yeah, you can, yeah, what we
+saw, you can't merge back up, right?
+
+921
+00:45:09,335 --> 00:45:09,745
+Even the schemas.
+
+922
+00:45:12,220 --> 00:45:12,890
+That's what I'm saying.
+
+923
+00:45:12,890 --> 00:45:14,460
+Like here's, this is the handoff.
+
+924
+00:45:14,500 --> 00:45:16,920
+This is the part where I'm not
+going to do it for you anymore.
+
+925
+00:45:16,930 --> 00:45:17,870
+It's you're on your own.
+
+926
+00:45:18,810 --> 00:45:19,380
+So my best
+
+927
+00:45:19,420 --> 00:45:19,780
+effort.
+
+928
+00:45:22,340 --> 00:45:22,880
+Yeah.
+
+929
+00:45:23,059 --> 00:45:23,469
+Okay.
+
+930
+00:45:23,520 --> 00:45:24,580
+I wonder if you put data.
+
+931
+00:45:24,580 --> 00:45:26,909
+Okay.
+
+932
+00:45:29,170 --> 00:45:33,680
+So let me populate the main branch.
+
+933
+00:45:33,730 --> 00:45:37,840
+We'll have data and we can start
+hooking it up with, uh, SDKs.
+
+934
+00:45:38,490 --> 00:45:40,560
+Do you want to keep navigating
+a little bit more here or want
+
+935
+00:45:40,560 --> 00:45:41,910
+to play around with the SDK?
+
+936
+00:45:41,910 --> 00:45:42,630
+I feel, I feel
+
+937
+00:45:42,630 --> 00:45:43,140
+pretty good.
+
+938
+00:45:43,180 --> 00:45:46,080
+If there's anybody watching that wants
+to do something else specifically,
+
+939
+00:45:46,220 --> 00:45:50,315
+uh, Speak now, otherwise we're going
+to go and actually build an API.
+
+940
+00:45:51,365 --> 00:45:51,595
+Cool.
+
+941
+00:45:51,605 --> 00:45:54,605
+So let me get this
+connection and I'll populate.
+
+942
+00:45:56,095 --> 00:46:00,434
+Let me, I'll do this in the
+background and keep track.
+
+943
+00:46:00,435 --> 00:46:04,344
+If there's any questions of anything
+someone wants to see out on yes.
+
+944
+00:46:04,405 --> 00:46:08,765
+So let's see if it remembers my commands.
+
+945
+00:46:09,024 --> 00:46:09,605
+Ooh, nice.
+
+946
+00:46:09,645 --> 00:46:09,955
+Okay.
+
+947
+00:46:10,375 --> 00:46:10,695
+One
+
+948
+00:46:20,445 --> 00:46:21,405
+doesn't remember anymore.
+
+949
+00:46:27,450 --> 00:46:32,030
+Period, naming,
+
+950
+00:46:37,310 --> 00:46:40,420
+location, and dinosaurs.
+
+951
+00:46:40,420 --> 00:46:52,170
+So now for main, if I go and query here,
+I'm on the primary, and do this query from
+
+952
+00:46:52,170 --> 00:46:53,820
+primary, we should have some data now.
+
+953
+00:46:53,890 --> 00:46:54,250
+Cool.
+
+954
+00:46:54,960 --> 00:46:56,840
+So main is populated now, Alan.
+
+955
+00:46:58,490 --> 00:46:59,160
+Okay, great.
+
+956
+00:47:00,940 --> 00:47:02,630
+So we're, we're good to go then.
+
+957
+00:47:03,065 --> 00:47:04,925
+For actually trying to see
+if we can get it to work.
+
+958
+00:47:05,635 --> 00:47:05,945
+Yes.
+
+959
+00:47:06,615 --> 00:47:07,735
+From the SDK, right?
+
+960
+00:47:07,735 --> 00:47:10,625
+We know it works within their
+console and there it is.
+
+961
+00:47:10,625 --> 00:47:13,195
+So now let's play around with the SDK.
+
+962
+00:47:13,805 --> 00:47:16,055
+There's CLI, so we can
+actually try that too.
+
+963
+00:47:16,795 --> 00:47:20,574
+Um, let me open the live share.
+
+964
+00:47:20,605 --> 00:47:21,545
+Can you see me there?
+
+965
+00:47:21,724 --> 00:47:22,004
+Yeah.
+
+966
+00:47:22,744 --> 00:47:23,134
+Yeah.
+
+967
+00:47:23,675 --> 00:47:23,775
+So it
+
+968
+00:47:23,775 --> 00:47:25,895
+looked like there's two
+things pasted in here.
+
+969
+00:47:28,195 --> 00:47:28,745
+I don't know.
+
+970
+00:47:29,785 --> 00:47:31,435
+Exposing my secret, Alan.
+
+971
+00:47:32,810 --> 00:47:33,070
+What am I?
+
+972
+00:47:34,940 --> 00:47:35,880
+Why, why were there
+
+973
+00:47:35,880 --> 00:47:36,910
+environment variables then?
+
+974
+00:47:36,920 --> 00:47:37,410
+That's annoying.
+
+975
+00:47:37,850 --> 00:47:38,960
+Yeah, that's, okay.
+
+976
+00:47:39,010 --> 00:47:40,350
+Sorry I've been exposed several times.
+
+977
+00:47:41,415 --> 00:47:43,285
+That is weird that it, yeah, okay.
+
+978
+00:47:46,555 --> 00:47:50,804
+Okay, so this is what I sent to
+Alan based on the kind of the
+
+979
+00:47:50,804 --> 00:47:52,485
+connection strings that it gave us.
+
+980
+00:47:52,495 --> 00:47:57,325
+So there was a serverless option,
+which seems to be a NEON database,
+
+981
+00:47:58,634 --> 00:48:00,434
+uh, npm package for serverless.
+
+982
+00:48:00,595 --> 00:48:06,645
+And then there was the other one, which
+is just a plain Postgres, uh, package.
+
+983
+00:48:06,645 --> 00:48:07,115
+Right, Alan?
+
+984
+00:48:08,365 --> 00:48:09,015
+Yeah.
+
+985
+00:48:09,675 --> 00:48:09,995
+Yes.
+
+986
+00:48:09,995 --> 00:48:13,884
+I put that one, I put the regular
+Postgres package in a different file.
+
+987
+00:48:13,894 --> 00:48:14,825
+Cause I want to use this SDK.
+
+988
+00:48:16,625 --> 00:48:16,905
+Cool.
+
+989
+00:48:22,185 --> 00:48:26,815
+So two methods here then that
+we can use both look like
+
+990
+00:48:26,815 --> 00:48:28,935
+they're ripe for SQL injection.
+
+991
+00:48:29,665 --> 00:48:30,755
+So why not?
+
+992
+00:48:30,755 --> 00:48:31,095
+Right?
+
+993
+00:48:32,805 --> 00:48:33,215
+Nobody.
+
+994
+00:48:33,215 --> 00:48:34,054
+I mean, who needs to know?
+
+995
+00:48:34,595 --> 00:48:35,325
+SQL injection.
+
+996
+00:48:35,325 --> 00:48:37,575
+When you have the direct access
+to the database, it's fine.
+
+997
+00:48:40,485 --> 00:48:40,825
+Okay.
+
+998
+00:48:41,675 --> 00:48:43,155
+Uh, do you have a preference
+
+999
+00:48:43,375 --> 00:48:44,145
+for which way?
+
+1000
+00:48:46,125 --> 00:48:50,155
+So these two options it gave you,
+these are the two options that it
+
+1001
+00:48:50,194 --> 00:48:53,874
+gave, you know, one is it feels
+much more raw than this one.
+
+1002
+00:48:54,525 --> 00:48:55,855
+I don't even know what the word would be.
+
+1003
+00:48:57,355 --> 00:48:58,025
+Not raw.
+
+1004
+00:48:58,135 --> 00:48:58,515
+Okay.
+
+1005
+00:48:58,575 --> 00:49:01,415
+I like the fine process.
+
+1006
+00:49:02,115 --> 00:49:02,555
+I don't know.
+
+1007
+00:49:02,755 --> 00:49:03,015
+That's right.
+
+1008
+00:49:03,105 --> 00:49:03,335
+Well, but
+
+1009
+00:49:03,365 --> 00:49:04,635
+we don't have a pool, right?
+
+1010
+00:49:04,635 --> 00:49:06,865
+We did not create a connection
+pool, so that wouldn't work.
+
+1011
+00:49:07,535 --> 00:49:08,955
+So I think it's the first one we need.
+
+1012
+00:49:10,155 --> 00:49:10,605
+Okay.
+
+1013
+00:49:10,824 --> 00:49:11,484
+Let's see if this works.
+
+1014
+00:49:11,874 --> 00:49:12,354
+Node.
+
+1015
+00:49:13,390 --> 00:49:13,900
+API.
+
+1016
+00:49:14,510 --> 00:49:15,630
+That did not work.
+
+1017
+00:49:16,440 --> 00:49:17,400
+Can't use import statement.
+
+1018
+00:49:17,500 --> 00:49:17,850
+Okay.
+
+1019
+00:49:18,720 --> 00:49:19,650
+Make it MJS.
+
+1020
+00:49:19,660 --> 00:49:21,020
+Just make the file MJS.
+
+1021
+00:49:22,600 --> 00:49:23,990
+Don't go back in time, Alan.
+
+1022
+00:49:24,070 --> 00:49:25,590
+Let's make it ECMA.
+
+1023
+00:49:27,069 --> 00:49:30,179
+Well, no, but the Lambda function
+is probably going to be common JS.
+
+1024
+00:49:30,180 --> 00:49:31,080
+So let's just keep it.
+
+1025
+00:49:31,420 --> 00:49:32,100
+Do what you were doing.
+
+1026
+00:49:32,140 --> 00:49:32,740
+Do require.
+
+1027
+00:49:38,190 --> 00:49:39,480
+I am just ha Oh, there we go.
+
+1028
+00:49:39,700 --> 00:49:40,790
+This is what I was looking for.
+
+1029
+00:49:43,040 --> 00:49:45,030
+And then it's just equal require.
+
+1030
+00:49:45,130 --> 00:49:45,680
+There you go.
+
+1031
+00:49:47,780 --> 00:49:48,200
+Okay,
+
+1032
+00:49:50,500 --> 00:49:53,500
+hopefully this will fail, I
+guess, slower than before.
+
+1033
+00:49:57,370 --> 00:49:57,720
+Okay.
+
+1034
+00:49:58,350 --> 00:49:59,630
+Oh, this is not async.
+
+1035
+00:50:00,550 --> 00:50:00,990
+That's fine.
+
+1036
+00:50:10,330 --> 00:50:11,550
+We're nothing if not flexible.
+
+1037
+00:50:11,550 --> 00:50:12,870
+We're engineers, right?
+
+1038
+00:50:13,510 --> 00:50:13,890
+Yeah,
+
+1039
+00:50:15,210 --> 00:50:17,480
+we're used, we're used, uh, to fail.
+
+1040
+00:50:19,030 --> 00:50:20,119
+Don't you have to await the run?
+
+1041
+00:50:22,885 --> 00:50:23,655
+Ooh, look at that.
+
+1042
+00:50:23,675 --> 00:50:24,285
+There's a query.
+
+1043
+00:50:24,785 --> 00:50:28,535
+It worked almost at the first time.
+
+1044
+00:50:28,595 --> 00:50:28,935
+Look at
+
+1045
+00:50:28,935 --> 00:50:29,455
+that.
+
+1046
+00:50:29,755 --> 00:50:31,325
+I'm going to count that as a first time.
+
+1047
+00:50:31,535 --> 00:50:36,455
+I, yeah, I will, because it's the first
+time we actually were able to call
+
+1048
+00:50:36,895 --> 00:50:40,694
+all the SDK, so that to me is good.
+
+1049
+00:50:42,805 --> 00:50:43,215
+Google.
+
+1050
+00:50:43,344 --> 00:50:43,944
+Okay.
+
+1051
+00:50:45,385 --> 00:50:47,565
+Let's filter that, we're
+
+1052
+00:50:52,015 --> 00:50:53,335
+just gonna have fun with it.
+
+1053
+00:50:53,815 --> 00:50:58,775
+Uh, oh gosh, I don't
+remember the syntax for this.
+
+1054
+00:50:59,115 --> 00:51:01,774
+Is it It's like,
+
+1055
+00:51:02,295 --> 00:51:03,345
+I think it's like that.
+
+1056
+00:51:04,414 --> 00:51:07,964
+But is diet, diet's not a
+I don't think we call it
+
+1057
+00:51:07,964 --> 00:51:08,244
+name.
+
+1058
+00:51:09,595 --> 00:51:09,875
+It is?
+
+1059
+00:51:10,015 --> 00:51:10,385
+Okay.
+
+1060
+00:51:11,210 --> 00:51:12,790
+But I'm looking at it
+right here in the terminal.
+
+1061
+00:51:12,900 --> 00:51:13,150
+Oh,
+
+1062
+00:51:14,200 --> 00:51:14,690
+there you go.
+
+1063
+00:51:17,150 --> 00:51:17,970
+Column.
+
+1064
+00:51:17,980 --> 00:51:24,260
+So where, and this is where the
+wheels fall off, where we're actually
+
+1065
+00:51:24,270 --> 00:51:25,890
+trying to not use the generated code.
+
+1066
+00:51:27,919 --> 00:51:28,640
+Oh, we're on a run.
+
+1067
+00:51:28,650 --> 00:51:29,840
+We have to write the code.
+
+1068
+00:51:29,850 --> 00:51:31,100
+Now it's all going to fail.
+
+1069
+00:51:31,670 --> 00:51:32,020
+Okay.
+
+1070
+00:51:32,059 --> 00:51:33,049
+I just had to switch.
+
+1071
+00:51:33,290 --> 00:51:34,940
+It didn't like the double quotes.
+
+1072
+00:51:35,190 --> 00:51:36,140
+So we switched to a single quote.
+
+1073
+00:51:36,840 --> 00:51:37,420
+Uh, okay.
+
+1074
+00:51:37,570 --> 00:51:38,020
+So there
+
+1075
+00:51:38,040 --> 00:51:38,530
+are.
+
+1076
+00:51:39,890 --> 00:51:45,140
+Jonathan has taken failing slower than
+before as his whole life motto now.
+
+1077
+00:51:49,180 --> 00:51:53,260
+So when the manager says fail fast,
+you're not, you're not going to do that.
+
+1078
+00:51:53,280 --> 00:51:55,910
+Let's just fail slower than before.
+
+1079
+00:51:58,919 --> 00:51:59,239
+Okay.
+
+1080
+00:51:59,339 --> 00:52:00,370
+Let me do this real quick.
+
+1081
+00:52:00,759 --> 00:52:03,519
+Just so I can get this connection
+string off the, off the screen.
+
+1082
+00:52:04,239 --> 00:52:04,829
+It's fine.
+
+1083
+00:52:04,829 --> 00:52:06,369
+I mean, it's, I'm on the free tier.
+
+1084
+00:52:06,599 --> 00:52:09,459
+The worst that can happen
+is someone gets in there.
+
+1085
+00:52:09,469 --> 00:52:09,709
+Hey, buddy.
+
+1086
+00:52:10,165 --> 00:52:12,815
+Waste all our CPU and we
+can't keep going with the,
+
+1087
+00:52:15,095 --> 00:52:16,445
+okay, so let's do this then.
+
+1088
+00:52:16,805 --> 00:52:21,365
+Um, let's, let's make it an
+API that we can run locally.
+
+1089
+00:52:24,525 --> 00:52:24,945
+Okay.
+
+1090
+00:52:25,055 --> 00:52:29,305
+And then let's set that up.
+
+1091
+00:52:31,195 --> 00:52:31,585
+Yes.
+
+1092
+00:52:34,984 --> 00:52:36,575
+Good old express.
+
+1093
+00:52:37,904 --> 00:52:38,204
+Okay.
+
+1094
+00:52:38,255 --> 00:52:42,855
+And then, Hey, uh, we'll do.
+
+1095
+00:52:42,925 --> 00:52:45,475
+I love Code Whisperer so much.
+
+1096
+00:52:46,335 --> 00:52:46,515
+Okay.
+
+1097
+00:52:51,295 --> 00:52:54,455
+So we're going to get, I'm
+trying to remember the syntax.
+
+1098
+00:52:54,815 --> 00:52:56,845
+I think it's curly brackets in Express.
+
+1099
+00:53:01,495 --> 00:53:02,125
+We'll see.
+
+1100
+00:53:05,014 --> 00:53:05,434
+Okay.
+
+1101
+00:53:06,665 --> 00:53:16,005
+So we will do, I guess I should move
+this out globally and then we will.
+
+1102
+00:53:17,380 --> 00:53:19,020
+Parameterize it in a bit.
+
+1103
+00:53:19,420 --> 00:53:22,060
+Const dinosaur equals.
+
+1104
+00:53:22,500 --> 00:53:22,690
+Okay.
+
+1105
+00:53:22,690 --> 00:53:23,490
+So we have that.
+
+1106
+00:53:26,300 --> 00:53:27,170
+Now we're just going to do this.
+
+1107
+00:53:29,060 --> 00:53:32,250
+Checking routing posts equals
+
+1108
+00:53:36,710 --> 00:53:39,079
+await select their where diet.
+
+1109
+00:53:39,199 --> 00:53:39,929
+No, not diet.
+
+1110
+00:53:40,430 --> 00:53:41,290
+It's name, right?
+
+1111
+00:53:41,300 --> 00:53:46,289
+Is that the, is that the name
+of our, let me check the field.
+
+1112
+00:53:46,360 --> 00:53:47,410
+It is just name.
+
+1113
+00:53:47,430 --> 00:53:47,700
+Yeah.
+
+1114
+00:53:52,210 --> 00:53:52,590
+Okay.
+
+1115
+00:53:54,200 --> 00:53:54,930
+We'll do that.
+
+1116
+00:53:55,520 --> 00:54:00,930
+We will string interpolation and then we
+
+1117
+00:54:00,930 --> 00:54:01,550
+will.
+
+1118
+00:54:02,970 --> 00:54:05,360
+And yeah, we'll just accept
+the inputs from anybody.
+
+1119
+00:54:05,660 --> 00:54:06,290
+Uh, that's fine.
+
+1120
+00:54:06,290 --> 00:54:09,639
+Okay.
+
+1121
+00:54:18,400 --> 00:54:20,040
+So we're going to fetch that.
+
+1122
+00:54:20,060 --> 00:54:20,640
+I'm sure.
+
+1123
+00:54:20,670 --> 00:54:20,990
+Okay.
+
+1124
+00:54:21,100 --> 00:54:21,940
+Here's, here's what we'll do.
+
+1125
+00:54:24,479 --> 00:54:28,160
+Hopefully limit is hopefully that works.
+
+1126
+00:54:31,219 --> 00:54:36,059
+If the dinosaurs at one, actually
+we'll do this so we can print it out.
+
+1127
+00:54:38,159 --> 00:54:38,939
+No, no, that's good.
+
+1128
+00:54:39,420 --> 00:54:40,080
+We'll just go for it.
+
+1129
+00:54:41,150 --> 00:54:41,830
+We'll just go for it.
+
+1130
+00:54:42,220 --> 00:54:42,590
+Okay.
+
+1131
+00:54:43,060 --> 00:54:44,710
+It should be zero,
+
+1132
+00:54:48,150 --> 00:54:48,370
+right?
+
+1133
+00:54:48,370 --> 00:54:49,290
+Dinosaur zero.
+
+1134
+00:54:51,475 --> 00:54:52,835
+Or do you want it to intentionally?
+
+1135
+00:54:52,885 --> 00:54:53,275
+Yes.
+
+1136
+00:54:53,335 --> 00:54:53,695
+You're right.
+
+1137
+00:54:53,725 --> 00:54:54,335
+I, yeah.
+
+1138
+00:54:57,455 --> 00:54:58,095
+Close call.
+
+1139
+00:55:04,335 --> 00:55:05,045
+So we'll do this.
+
+1140
+00:55:09,814 --> 00:55:11,164
+I see no reason why that wouldn't work.
+
+1141
+00:55:15,165 --> 00:55:15,775
+Yay.
+
+1142
+00:55:15,804 --> 00:55:16,034
+Okay.
+
+1143
+00:55:16,525 --> 00:55:20,404
+So what dinosaur should, I guess
+we should just look up Triceratops.
+
+1144
+00:55:20,445 --> 00:55:21,455
+That's the coolest one, right?
+
+1145
+00:55:22,064 --> 00:55:22,754
+Of course.
+
+1146
+00:55:24,145 --> 00:55:24,555
+Triceratops.
+
+1147
+00:55:24,575 --> 00:55:25,335
+How do you spell it?
+
+1148
+00:55:25,535 --> 00:55:26,065
+Uh, tops.
+
+1149
+00:55:31,435 --> 00:55:33,965
+If you know how to spell
+Triceratops, you get a gold star.
+
+1150
+00:55:35,225 --> 00:55:36,135
+Triceratops.
+
+1151
+00:55:36,285 --> 00:55:36,745
+Cool.
+
+1152
+00:55:36,795 --> 00:55:37,135
+Nice.
+
+1153
+00:55:37,875 --> 00:55:38,135
+All right.
+
+1154
+00:55:38,145 --> 00:55:40,865
+That was, uh, and not get
+
+1155
+00:55:44,935 --> 00:55:45,935
+that didn't work at all,
+
+1156
+00:55:50,065 --> 00:55:52,695
+but that's what did Michael say last week?
+
+1157
+00:55:52,704 --> 00:55:54,775
+That's just a developer inability.
+
+1158
+00:55:54,775 --> 00:55:59,694
+Yes.
+
+1159
+00:55:59,694 --> 00:56:00,414
+Okay.
+
+1160
+00:56:01,514 --> 00:56:07,245
+Just hard code Triceratops right
+now, the path in the express.
+
+1161
+00:56:08,285 --> 00:56:08,485
+Okay.
+
+1162
+00:56:08,525 --> 00:56:12,475
+No, but it wouldn't
+take it as a parameter.
+
+1163
+00:56:16,125 --> 00:56:23,815
+I'm looking at the docs right now
+and I'm not seeing it in there.
+
+1164
+00:56:24,735 --> 00:56:25,225
+Where is it?
+
+1165
+00:56:25,695 --> 00:56:26,884
+You'd think that this, oh, there we go.
+
+1166
+00:56:27,804 --> 00:56:28,294
+Okay.
+
+1167
+00:56:28,405 --> 00:56:33,425
+It is with, okay, that's my bad.
+
+1168
+00:56:34,395 --> 00:56:34,925
+There we go.
+
+1169
+00:56:35,865 --> 00:56:36,115
+Okay.
+
+1170
+00:56:36,115 --> 00:56:38,615
+So we have node bond running,
+so it's live reloading, so we
+
+1171
+00:56:38,615 --> 00:56:39,645
+should be able to just hit it.
+
+1172
+00:56:40,475 --> 00:56:41,065
+Bye.
+
+1173
+00:56:42,140 --> 00:56:43,100
+Sarah Tops.
+
+1174
+00:56:45,175 --> 00:56:45,955
+Hey, look at that.
+
+1175
+00:56:49,080 --> 00:56:49,830
+That was quick.
+
+1176
+00:56:50,040 --> 00:56:51,030
+And it's pretty quick.
+
+1177
+00:56:51,030 --> 00:56:51,270
+Yeah.
+
+1178
+00:56:51,780 --> 00:56:52,860
+Round trip 3 72.
+
+1179
+00:56:52,860 --> 00:56:55,320
+Now granted the, it's
+not making a call out.
+
+1180
+00:56:55,800 --> 00:56:59,010
+Uh, I mean, it is running the,
+the server locally, so we don't
+
+1181
+00:56:59,015 --> 00:57:00,480
+have the network time for that.
+
+1182
+00:57:00,480 --> 00:57:05,300
+But the round trip time for the
+database neon, I got, if I run this
+
+1183
+00:57:05,300 --> 00:57:07,240
+a couple of times, look at that.
+
+1184
+00:57:07,300 --> 00:57:08,230
+I guess it's cashed.
+
+1185
+00:57:08,230 --> 00:57:13,720
+It must be cashed because
+it went from 376 to 150.
+
+1186
+00:57:13,720 --> 00:57:15,370
+And then now all these are.
+
+1187
+00:57:15,415 --> 00:57:20,355
+50 milliseconds, 100 milliseconds, 51, 51.
+
+1188
+00:57:21,385 --> 00:57:22,105
+I'm assuming.
+
+1189
+00:57:22,125 --> 00:57:23,135
+I guess the cache expired.
+
+1190
+00:57:23,135 --> 00:57:24,535
+It must have a pretty low TTL.
+
+1191
+00:57:25,505 --> 00:57:28,895
+I'm assuming people are connecting
+because we got four connections.
+
+1192
+00:57:30,475 --> 00:57:31,335
+And not just yours.
+
+1193
+00:57:33,184 --> 00:57:33,935
+Oh, there's mine.
+
+1194
+00:57:33,944 --> 00:57:34,705
+Let me kill mine.
+
+1195
+00:57:34,815 --> 00:57:35,704
+Okay, I can kill mine.
+
+1196
+00:57:39,004 --> 00:57:40,394
+Okay, so that, that worked.
+
+1197
+00:57:40,404 --> 00:57:41,004
+That was cool.
+
+1198
+00:57:41,590 --> 00:57:42,880
+Uh, let's do a join.
+
+1199
+00:57:43,210 --> 00:57:49,530
+Let's see how it performs when
+we, uh, when we do a join.
+
+1200
+00:57:49,530 --> 00:57:51,929
+So let's do, what should we do?
+
+1201
+00:57:52,310 --> 00:57:53,290
+What are the tables again?
+
+1202
+00:57:53,319 --> 00:57:55,770
+I think I have the ERD somewhere.
+
+1203
+00:57:58,799 --> 00:57:59,539
+You had it in.
+
+1204
+00:57:59,580 --> 00:57:59,749
+Yeah.
+
+1205
+00:57:59,749 --> 00:58:00,279
+Mermaid.
+
+1206
+00:58:01,050 --> 00:58:07,050
+So we got species, taxonomy, naming.
+
+1207
+00:58:07,560 --> 00:58:09,140
+I don't know what the meaning is.
+
+1208
+00:58:09,240 --> 00:58:11,310
+Oh, named by who named the dinosaur.
+
+1209
+00:58:11,430 --> 00:58:11,870
+Look at that.
+
+1210
+00:58:13,190 --> 00:58:14,820
+Uh, period.
+
+1211
+00:58:14,960 --> 00:58:15,470
+The mating.
+
+1212
+00:58:16,350 --> 00:58:16,850
+Look up.
+
+1213
+00:58:16,860 --> 00:58:20,100
+Can you fetch some of the data
+from like the species table
+
+1214
+00:58:20,110 --> 00:58:21,620
+so we can we can do that?
+
+1215
+00:58:25,050 --> 00:58:27,870
+But what do you want if you're
+gonna join you can join the dinosaur
+
+1216
+00:58:27,870 --> 00:58:30,850
+with the species ID everything.
+
+1217
+00:58:30,900 --> 00:58:31,450
+Oh, yeah, I guess
+
+1218
+00:58:33,040 --> 00:58:36,100
+yeah Oh, yeah, but when we
+actually go to test it is really
+
+1219
+00:58:36,100 --> 00:58:39,459
+what I wanted to see what I need
+to be able to look Up something.
+
+1220
+00:58:42,529 --> 00:58:47,470
+Yeah, so I got the species here So
+what do you want to get to which
+
+1221
+00:58:47,850 --> 00:58:50,710
+which species was the triceratops?
+
+1222
+00:58:53,600 --> 00:58:58,335
+Okay Species, species ID.
+
+1223
+00:59:02,405 --> 00:59:04,275
+Okay, here we go.
+
+1224
+00:59:06,605 --> 00:59:07,035
+Curly.
+
+1225
+00:59:15,695 --> 00:59:16,715
+That's pretty close.
+
+1226
+00:59:17,195 --> 00:59:18,075
+We'll start with that.
+
+1227
+00:59:18,224 --> 00:59:25,434
+Select star from dinosaurs,
+inner join species.
+
+1228
+00:59:25,434 --> 00:59:26,895
+Is that, that's the name of the table?
+
+1229
+00:59:26,895 --> 00:59:33,365
+Yes, where's, you want to
+do it by name or by ID?
+
+1230
+00:59:34,095 --> 00:59:36,305
+We're just gonna, uh,
+we're gonna do it by ID.
+
+1231
+00:59:39,465 --> 00:59:44,085
+Do I have access to your postman?
+
+1232
+00:59:44,715 --> 00:59:45,255
+No, I don't.
+
+1233
+00:59:47,735 --> 00:59:48,065
+Really?
+
+1234
+00:59:54,345 --> 00:59:56,004
+I'll send you a name in the chat.
+
+1235
+00:59:57,525 --> 00:59:57,875
+Libratus.
+
+1236
+01:00:01,790 --> 01:00:06,300
+And it's been a long time since,
+uh, I've written any sequel.
+
+1237
+01:00:06,910 --> 01:00:07,930
+I know this isn't right.
+
+1238
+01:00:09,160 --> 01:00:11,760
+As far as like, do line breaks and stuff.
+
+1239
+01:00:13,649 --> 01:00:14,279
+Uh, okay.
+
+1240
+01:00:14,340 --> 01:00:17,920
+Equals, I guess it's species ID.
+
+1241
+01:00:18,740 --> 01:00:19,880
+Underscore ID, right?
+
+1242
+01:00:20,980 --> 01:00:21,570
+That's what it's called
+
+1243
+01:00:21,570 --> 01:00:22,120
+everywhere?
+
+1244
+01:00:24,039 --> 01:00:25,610
+It's species underscore ID.
+
+1245
+01:00:26,660 --> 01:00:29,230
+And then let me look at dinosaur.
+
+1246
+01:00:29,280 --> 01:00:32,030
+It is species underscore ID.
+
+1247
+01:00:32,080 --> 01:00:32,280
+Yeah.
+
+1248
+01:00:35,290 --> 01:00:36,360
+Okay, so we'll do this.
+
+1249
+01:00:37,010 --> 01:00:37,730
+That look good to you?
+
+1250
+01:00:39,180 --> 01:00:40,540
+Where species name?
+
+1251
+01:00:40,620 --> 01:00:41,180
+Okay, yeah.
+
+1252
+01:00:46,590 --> 01:00:50,080
+Hopefully it's not a one to one because
+then it's going to be so unexciting.
+
+1253
+01:00:51,580 --> 01:00:54,579
+Where did you, where did you send the
+species type that we're going to look up?
+
+1254
+01:00:55,120 --> 01:00:56,219
+In the private chat here.
+
+1255
+01:00:56,729 --> 01:00:57,009
+Okay.
+
+1256
+01:00:59,280 --> 01:01:01,530
+I'll send two so we can
+test two different ones.
+
+1257
+01:01:01,940 --> 01:01:02,780
+Libratus.
+
+1258
+01:01:02,780 --> 01:01:06,889
+Okay.
+
+1259
+01:01:11,270 --> 01:01:13,319
+Well, that was fast.
+
+1260
+01:01:13,760 --> 01:01:14,670
+Let's see how many there are.
+
+1261
+01:01:15,500 --> 01:01:17,660
+Here, let's, let's change that so
+I don't have to keep doing that.
+
+1262
+01:01:18,440 --> 01:01:26,490
+So we will, we'll do count dinosaurs.
+
+1263
+01:01:26,769 --> 01:01:32,220
+length and then we will
+do dinosaurs as an array.
+
+1264
+01:01:33,259 --> 01:01:33,880
+That looks good.
+
+1265
+01:01:33,900 --> 01:01:34,760
+Let's run that again.
+
+1266
+01:01:36,650 --> 01:01:37,920
+Okay, so there's two dinosaurs.
+
+1267
+01:01:37,940 --> 01:01:38,950
+That's really nice.
+
+1268
+01:01:39,520 --> 01:01:42,200
+I think Celestiae will have more.
+
+1269
+01:01:44,065 --> 01:01:47,335
+That's 248 milliseconds.
+
+1270
+01:01:52,455 --> 01:01:52,655
+Yeah,
+
+1271
+01:01:52,655 --> 01:01:52,785
+it's
+
+1272
+01:01:52,785 --> 01:01:52,995
+pretty
+
+1273
+01:01:52,995 --> 01:01:53,325
+good.
+
+1274
+01:01:56,945 --> 01:01:57,914
+So go try the other one.
+
+1275
+01:01:57,914 --> 01:01:58,105
+I mean,
+
+1276
+01:01:58,115 --> 01:01:58,235
+other
+
+1277
+01:01:58,235 --> 01:01:58,455
+one.
+
+1278
+01:01:58,965 --> 01:01:59,285
+Yeah.
+
+1279
+01:01:59,805 --> 01:02:01,194
+I think that one has more.
+
+1280
+01:02:02,255 --> 01:02:02,635
+Okay.
+
+1281
+01:02:03,175 --> 01:02:04,715
+Cause that was ID one.
+
+1282
+01:02:08,235 --> 01:02:08,545
+Nope.
+
+1283
+01:02:08,604 --> 01:02:09,394
+I lie.
+
+1284
+01:02:09,785 --> 01:02:10,035
+One,
+
+1285
+01:02:11,375 --> 01:02:11,945
+one.
+
+1286
+01:02:13,025 --> 01:02:13,465
+Yeah.
+
+1287
+01:02:13,475 --> 01:02:15,774
+I don't know the count.
+
+1288
+01:02:15,774 --> 01:02:17,345
+I guess I could just run.
+
+1289
+01:02:17,670 --> 01:02:19,710
+I guess I could just do that.
+
+1290
+01:02:19,770 --> 01:02:22,070
+I can make one of these
+end points in here.
+
+1291
+01:02:23,050 --> 01:02:23,430
+Oh no.
+
+1292
+01:02:26,410 --> 01:02:28,900
+And just get the species
+and print those out.
+
+1293
+01:02:31,230 --> 01:02:32,209
+Close this off.
+
+1294
+01:02:33,329 --> 01:02:35,070
+So select all from species.
+
+1295
+01:02:35,070 --> 01:02:38,409
+Yeah,
+
+1296
+01:02:41,749 --> 01:02:42,269
+there you go.
+
+1297
+01:02:42,669 --> 01:02:43,029
+Oh yeah.
+
+1298
+01:02:43,030 --> 01:02:43,409
+Okay.
+
+1299
+01:02:43,409 --> 01:02:43,719
+Okay.
+
+1300
+01:02:43,780 --> 01:02:44,060
+I see
+
+1301
+01:02:44,060 --> 01:02:44,540
+what you're doing.
+
+1302
+01:02:47,370 --> 01:02:49,420
+Good restful practices is what I'm doing.
+
+1303
+01:02:51,960 --> 01:02:52,520
+Oh no.
+
+1304
+01:02:53,000 --> 01:02:53,470
+Okay.
+
+1305
+01:02:55,300 --> 01:02:56,180
+What did we do wrong?
+
+1306
+01:02:56,750 --> 01:02:57,130
+Okay.
+
+1307
+01:03:01,280 --> 01:03:06,370
+Selected you did from dinosaur
+and you're joining species.
+
+1308
+01:03:06,630 --> 01:03:07,050
+Yeah,
+
+1309
+01:03:12,250 --> 01:03:12,620
+I don't know.
+
+1310
+01:03:12,630 --> 01:03:18,689
+Let's Let's see if that resulted in
+an error I guess I don't have any
+
+1311
+01:03:18,689 --> 01:03:22,850
+tries try catches, but I I would have
+assumed something would have printed out
+
+1312
+01:03:29,970 --> 01:03:31,580
+Something should have happened here.
+
+1313
+01:03:31,930 --> 01:03:37,650
+And I'm wondering if, actually,
+now Okay, this is This is my bad.
+
+1314
+01:03:38,030 --> 01:03:38,380
+Here.
+
+1315
+01:03:39,720 --> 01:03:41,060
+This is an express thing.
+
+1316
+01:03:41,119 --> 01:03:45,289
+Let's define that one before
+we Oh, order mat, okay.
+
+1317
+01:03:45,680 --> 01:03:46,340
+Order mat?
+
+1318
+01:03:46,780 --> 01:03:47,050
+It's
+
+1319
+01:03:47,059 --> 01:03:48,300
+matching on the first one?
+
+1320
+01:03:49,190 --> 01:03:49,830
+Nope, lied.
+
+1321
+01:03:51,830 --> 01:03:52,770
+Hey, worth a try.
+
+1322
+01:03:52,770 --> 01:03:56,850
+I don't know.
+
+1323
+01:03:56,890 --> 01:04:00,440
+I don't know why that wouldn't It doesn't
+look like it's even making it in here.
+
+1324
+01:04:05,810 --> 01:04:06,020
+Huh?
+
+1325
+01:04:06,065 --> 01:04:06,485
+Facing.
+
+1326
+01:04:10,150 --> 01:04:10,390
+Okay.
+
+1327
+01:04:10,390 --> 01:04:12,100
+Well that's, that's fascinating.
+
+1328
+01:04:18,090 --> 01:04:19,170
+Do, I'm just gonna restart.
+
+1329
+01:04:19,410 --> 01:04:21,000
+I'm gonna restart express and
+
+1330
+01:04:22,580 --> 01:04:23,990
+turn it off and turn it back on.
+
+1331
+01:04:23,990 --> 01:04:25,610
+That's, that's the way to go.
+
+1332
+01:04:27,250 --> 01:04:27,520
+Yeah.
+
+1333
+01:04:32,040 --> 01:04:33,180
+Getting some good facts.
+
+1334
+01:04:33,180 --> 01:04:33,420
+Wonderful.
+
+1335
+01:04:33,450 --> 01:04:35,310
+Um, wonder why that doesn't work.
+
+1336
+01:04:35,820 --> 01:04:36,720
+I guess it doesn't really.
+
+1337
+01:04:36,990 --> 01:04:37,290
+Okay.
+
+1338
+01:04:39,010 --> 01:04:39,640
+So we put this in
+
+1339
+01:04:39,645 --> 01:04:40,120
+Lambda.
+
+1340
+01:04:42,440 --> 01:04:42,620
+Yeah.
+
+1341
+01:04:42,620 --> 01:04:43,645
+We try to get this lambda.
+
+1342
+01:04:43,645 --> 01:04:43,965
+I think that's.
+
+1343
+01:04:44,960 --> 01:04:49,520
+But you should pop up the, uh,
+The Great Fact by BeriberiDK.
+
+1344
+01:04:52,720 --> 01:04:54,270
+Can you pop it open in the screen?
+
+1345
+01:04:54,310 --> 01:04:54,720
+Yeah.
+
+1346
+01:04:55,000 --> 01:04:55,020
+Yeah.
+
+1347
+01:04:56,549 --> 01:05:00,600
+Humans live closer to the time of
+the Triceratops, and the Triceratops
+
+1348
+01:05:00,629 --> 01:05:02,490
+lived to the time of the Stegosaurus.
+
+1349
+01:05:02,759 --> 01:05:03,299
+Look at that.
+
+1350
+01:05:04,379 --> 01:05:05,009
+Whoa!
+
+1351
+01:05:08,320 --> 01:05:10,270
+That changes my whole way of living now.
+
+1352
+01:05:10,440 --> 01:05:10,700
+What?
+
+1353
+01:05:12,080 --> 01:05:14,650
+I feel like the magic school
+bus lied to me when I was a kid.
+
+1354
+01:05:14,680 --> 01:05:17,809
+I'm confident I remember those
+two interacting with each
+
+1355
+01:05:17,809 --> 01:05:19,220
+other in that dinosaur episode.
+
+1356
+01:05:20,155 --> 01:05:23,715
+I mean, I, I, I only believe what
+I see in Jurassic Park, alright?
+
+1357
+01:05:23,895 --> 01:05:24,605
+Uh, the new ones.
+
+1358
+01:05:25,185 --> 01:05:27,735
+Were they both in, were they
+both in there in Jurassic Park?
+
+1359
+01:05:28,035 --> 01:05:31,594
+Jurassic Park wasn't time traveling
+though, that was a let's just take
+
+1360
+01:05:31,594 --> 01:05:34,674
+all the dinosaurs that ever, ever
+were and shove it all on an island.
+
+1361
+01:05:34,875 --> 01:05:36,135
+That's true, that's true.
+
+1362
+01:05:36,275 --> 01:05:40,715
+Taking their DNA, they, they got their
+DNA from Doctor, I can't remember
+
+1363
+01:05:40,715 --> 01:05:46,265
+his name, from the little bee, or
+the mosquito, you remember that?
+
+1364
+01:05:47,280 --> 01:05:48,950
+I'm going to have to rewatch
+
+1365
+01:05:48,950 --> 01:05:50,099
+it.
+
+1366
+01:05:50,100 --> 01:05:50,600
+Yes.
+
+1367
+01:05:50,610 --> 01:05:52,330
+From the mosquito and the Amber.
+
+1368
+01:05:52,790 --> 01:05:53,170
+Yep.
+
+1369
+01:05:53,640 --> 01:05:53,880
+Yeah.
+
+1370
+01:05:57,220 --> 01:05:57,650
+Okay.
+
+1371
+01:05:57,670 --> 01:05:58,330
+Let's get it.
+
+1372
+01:05:59,700 --> 01:06:01,100
+Lambda is what we were doing.
+
+1373
+01:06:01,470 --> 01:06:02,420
+Uh, let's do that.
+
+1374
+01:06:03,000 --> 01:06:03,299
+Okay.
+
+1375
+01:06:03,299 --> 01:06:08,589
+Let me bring this side
+now back to index JS.
+
+1376
+01:06:08,599 --> 01:06:10,680
+I think we can actually do most of this.
+
+1377
+01:06:11,595 --> 01:06:18,435
+Like wholesale inside of Lambda, but
+I'm going to, I don't, I guess we don't
+
+1378
+01:06:18,435 --> 01:06:23,005
+need a secret with this because we're
+already exposed this time and time again.
+
+1379
+01:06:23,595 --> 01:06:24,235
+Um,
+
+1380
+01:06:27,705 --> 01:06:31,974
+hopefully you don't think that way,
+uh, in your job, it's already exposed.
+
+1381
+01:06:32,025 --> 01:06:32,865
+Let's just put it everywhere.
+
+1382
+01:06:32,865 --> 01:06:33,245
+It's fine.
+
+1383
+01:06:36,755 --> 01:06:37,995
+I actually don't know what to do here.
+
+1384
+01:06:37,995 --> 01:06:41,265
+So we're going to see, we're going to see
+on the fly, how to, how to make this work.
+
+1385
+01:06:45,455 --> 01:06:46,495
+I don't know.
+
+1386
+01:06:46,505 --> 01:06:47,675
+I don't know what to do.
+
+1387
+01:06:50,315 --> 01:06:53,545
+I've never done a Lambda
+function with express.
+
+1388
+01:06:59,130 --> 01:07:00,430
+I don't think this is it.
+
+1389
+01:07:01,290 --> 01:07:07,849
+I really don't think this is gonna be
+it, but we'll No, I think it all has to
+
+1390
+01:07:07,850 --> 01:07:09,330
+be defined inside of that main handler.
+
+1391
+01:07:11,805 --> 01:07:15,515
+I'll get you, uh, I don't know, but I
+
+1392
+01:07:16,925 --> 01:07:19,195
+know it doesn't seem to handler.
+
+1393
+01:07:21,285 --> 01:07:25,235
+There's a serverless HTTP
+package that we could use.
+
+1394
+01:07:27,015 --> 01:07:27,625
+Interesting.
+
+1395
+01:07:29,585 --> 01:07:30,374
+So did I do it right?
+
+1396
+01:07:30,384 --> 01:07:34,435
+Did I do the list and inside
+of the main execution?
+
+1397
+01:07:34,775 --> 01:07:36,125
+Start server.
+
+1398
+01:07:36,325 --> 01:07:39,535
+Let me see where this
+start service being called.
+
+1399
+01:07:40,055 --> 01:07:41,465
+I'm just looking at an example.
+
+1400
+01:07:42,335 --> 01:07:44,235
+No, it's just starting server at the root.
+
+1401
+01:07:45,860 --> 01:07:47,260
+And then there's a handler
+
+1402
+01:07:48,470 --> 01:07:49,380
+with another handler.
+
+1403
+01:07:51,910 --> 01:07:53,320
+It's exporting a handler.
+
+1404
+01:07:53,370 --> 01:07:58,310
+And then, no, I don't like this example.
+
+1405
+01:08:06,430 --> 01:08:09,050
+I'm going to go ahead and
+do the initial deploy.
+
+1406
+01:08:09,729 --> 01:08:09,929
+Yeah.
+
+1407
+01:08:09,930 --> 01:08:17,049
+Everything seems to be using, so let me
+go in the file, Alan, and I'm going to
+
+1408
+01:08:17,530 --> 01:08:22,890
+Add some code that's commented so I don't
+break your stuff that you're trying to do.
+
+1409
+01:08:24,160 --> 01:08:25,410
+So I'm an app JS.
+
+1410
+01:08:25,430 --> 01:08:25,890
+Where are you?
+
+1411
+01:08:25,890 --> 01:08:27,279
+API JS.
+
+1412
+01:08:28,780 --> 01:08:29,770
+I'm all over the place.
+
+1413
+01:08:30,580 --> 01:08:30,959
+Okay.
+
+1414
+01:08:30,959 --> 01:08:32,829
+You're already building Sam.
+
+1415
+01:08:34,440 --> 01:08:35,080
+Might as well.
+
+1416
+01:08:36,689 --> 01:08:37,649
+Index handler.
+
+1417
+01:08:37,649 --> 01:08:39,649
+You didn't name the file index.
+
+1418
+01:08:39,649 --> 01:08:40,740
+You named it API.
+
+1419
+01:08:44,310 --> 01:08:44,650
+Okay.
+
+1420
+01:08:44,650 --> 01:08:45,690
+You've got a functions index.
+
+1421
+01:08:45,840 --> 01:08:46,290
+I see.
+
+1422
+01:08:46,540 --> 01:08:47,040
+I see you.
+
+1423
+01:08:53,910 --> 01:08:54,270
+Okay.
+
+1424
+01:08:54,300 --> 01:08:54,900
+So I'm going to.
+
+1425
+01:08:56,850 --> 01:08:58,360
+Go ahead and deploy these things.
+
+1426
+01:08:58,360 --> 01:08:59,970
+I don't want to confirm changes.
+
+1427
+01:08:59,970 --> 01:09:02,910
+Yes, let Sam create the role.
+
+1428
+01:09:02,920 --> 01:09:04,880
+It's not disabled to roll
+back something failed.
+
+1429
+01:09:04,980 --> 01:09:05,710
+Yes, that's fine.
+
+1430
+01:09:05,720 --> 01:09:07,709
+It has no auth.
+
+1431
+01:09:08,989 --> 01:09:09,019
+And
+
+1432
+01:09:09,020 --> 01:09:09,310
+yes,
+
+1433
+01:09:09,600 --> 01:09:09,980
+let's save that.
+
+1434
+01:09:13,050 --> 01:09:17,190
+Please don't follow us for guidance on
+security practices in this live stream.
+
+1435
+01:09:17,800 --> 01:09:19,030
+We're not here to be secure.
+
+1436
+01:09:20,670 --> 01:09:23,400
+But somebody following this is
+like, ah, okay, let's just put it.
+
+1437
+01:09:23,400 --> 01:09:26,420
+I just want to make sure that's
+not the standard practice.
+
+1438
+01:09:28,589 --> 01:09:29,540
+What file are you in?
+
+1439
+01:09:29,835 --> 01:09:30,930
+What file are you messing around in?
+
+1440
+01:09:30,930 --> 01:09:31,054
+Uh,
+
+1441
+01:09:31,055 --> 01:09:32,775
+API JS.
+
+1442
+01:09:32,795 --> 01:09:33,775
+I put something in the bottom.
+
+1443
+01:09:36,305 --> 01:09:38,815
+I didn't want to mess up the Lambda
+function while you're deploying.
+
+1444
+01:09:39,275 --> 01:09:40,065
+Oh.
+
+1445
+01:09:41,014 --> 01:09:41,454
+Okay.
+
+1446
+01:09:42,545 --> 01:09:44,265
+So you can get an example there.
+
+1447
+01:09:50,065 --> 01:09:51,495
+Serverless HTTP.
+
+1448
+01:09:51,504 --> 01:09:51,884
+That's a new
+
+1449
+01:09:51,884 --> 01:09:52,225
+one for
+
+1450
+01:09:52,225 --> 01:09:52,525
+me.
+
+1451
+01:09:54,345 --> 01:09:57,415
+Both examples that I opened
+from Google use that.
+
+1452
+01:09:57,565 --> 01:09:58,105
+So,
+
+1453
+01:10:01,105 --> 01:10:02,115
+Okay, works for me.
+
+1454
+01:10:03,945 --> 01:10:05,395
+Let me install what I need to install.
+
+1455
+01:10:05,395 --> 01:10:15,405
+npm install express and
+serverless http and at neon
+
+1456
+01:10:20,274 --> 01:10:27,684
+database slash serverless And that'll
+be cool if this works, first try.
+
+1457
+01:10:29,224 --> 01:10:30,284
+Second, maybe?
+
+1458
+01:10:31,444 --> 01:10:32,834
+I'm not gonna, I'm not gonna try it.
+
+1459
+01:10:36,805 --> 01:10:39,655
+Okay, I'll follow
+CloudFormation on my end.
+
+1460
+01:10:39,945 --> 01:10:40,434
+Where do I have that?
+
+1461
+01:10:40,435 --> 01:10:40,745
+Okay,
+
+1462
+01:10:40,745 --> 01:10:41,935
+so you have this.
+
+1463
+01:10:42,235 --> 01:10:42,495
+Okay.
+
+1464
+01:10:43,025 --> 01:10:44,305
+Let me go ahead and do that.
+
+1465
+01:10:46,865 --> 01:10:48,485
+Look at all the stuff
+that we're learning today.
+
+1466
+01:10:49,764 --> 01:10:51,175
+Dino API.
+
+1467
+01:10:54,394 --> 01:10:54,664
+Is it?
+
+1468
+01:10:55,165 --> 01:10:55,535
+Yeah.
+
+1469
+01:10:56,254 --> 01:10:57,235
+Let's roll back, dude.
+
+1470
+01:11:01,115 --> 01:11:03,375
+The function URL does not exist in schema.
+
+1471
+01:11:03,375 --> 01:11:05,014
+Function
+
+1472
+01:11:10,095 --> 01:11:14,045
+URL does not exist in
+schema for Lambda function.
+
+1473
+01:11:14,045 --> 01:11:14,714
+Oh.
+
+1474
+01:11:14,714 --> 01:11:15,134
+Oh no.
+
+1475
+01:11:15,735 --> 01:11:16,015
+It's
+
+1476
+01:11:16,025 --> 01:11:19,485
+just code URI and handler, right?
+
+1477
+01:11:26,215 --> 01:11:26,385
+So
+
+1478
+01:11:26,385 --> 01:11:27,144
+there's code URI.
+
+1479
+01:11:27,145 --> 01:11:28,145
+I really thought that was it.
+
+1480
+01:11:29,005 --> 01:11:30,075
+Oh, do I not have?
+
+1481
+01:11:30,194 --> 01:11:31,954
+No, I have the transform on there for Sam.
+
+1482
+01:11:33,115 --> 01:11:34,584
+You got, but handler.
+
+1483
+01:11:34,604 --> 01:11:34,834
+Okay.
+
+1484
+01:11:34,835 --> 01:11:35,925
+It is index.
+
+1485
+01:11:37,805 --> 01:11:38,555
+Why is it?
+
+1486
+01:11:38,825 --> 01:11:39,725
+Where's function URI?
+
+1487
+01:11:39,924 --> 01:11:40,085
+It's just
+
+1488
+01:11:40,135 --> 01:11:41,795
+output that I'm, that I'm looking for.
+
+1489
+01:11:41,805 --> 01:11:45,170
+Oh, I swear this worked before.
+
+1490
+01:11:45,170 --> 01:11:46,650
+This worked on another build that I did.
+
+1491
+01:11:46,910 --> 01:11:49,480
+I was just trying to make it so I
+didn't have to go into the console
+
+1492
+01:11:49,480 --> 01:11:51,100
+to get it, but I mean, I'm fine.
+
+1493
+01:11:52,050 --> 01:11:53,080
+I'll get it for you.
+
+1494
+01:11:53,180 --> 01:11:57,749
+Looking at the docs for the intrinsic
+functions or the return values.
+
+1495
+01:11:59,130 --> 01:11:59,779
+Still issue.
+
+1496
+01:11:59,990 --> 01:12:00,420
+Okay.
+
+1497
+01:12:00,460 --> 01:12:01,689
+I'm, I'm okay with that.
+
+1498
+01:12:02,420 --> 01:12:02,760
+Okay.
+
+1499
+01:12:02,780 --> 01:12:05,920
+So we have this, I'm going to
+piece together all the things that
+
+1500
+01:12:05,920 --> 01:12:07,910
+we've done before that we have.
+
+1501
+01:12:10,350 --> 01:12:13,500
+It might be, uh, and, and the
+believe in serverless chat.
+
+1502
+01:12:13,500 --> 01:12:15,470
+There's, I just created
+that account today.
+
+1503
+01:12:16,490 --> 01:12:19,260
+And remember there's some limitations
+when you initially start an account.
+
+1504
+01:12:19,310 --> 01:12:22,620
+I don't know if this could be, I don't
+know if function URLs might be one of it.
+
+1505
+01:12:22,690 --> 01:12:23,100
+I don't know.
+
+1506
+01:12:25,170 --> 01:12:27,130
+I feel like this is my skeptical face.
+
+1507
+01:12:27,220 --> 01:12:30,229
+I'm trying to make sense if it
+worked for you before, but I don't
+
+1508
+01:12:30,229 --> 01:12:34,769
+see any return value from the
+documentation on the function resource.
+
+1509
+01:12:36,800 --> 01:12:37,150
+Okay.
+
+1510
+01:12:37,240 --> 01:12:39,670
+I'll just take it out and then
+we'll just have you look it up.
+
+1511
+01:12:40,010 --> 01:12:40,850
+And we can use that.
+
+1512
+01:12:43,020 --> 01:12:45,020
+So we'll just take out that output value.
+
+1513
+01:12:45,030 --> 01:12:45,380
+What's the point.
+
+1514
+01:12:46,780 --> 01:12:48,680
+And let me add this real quick.
+
+1515
+01:12:48,830 --> 01:12:51,060
+So in index, this is our function handler.
+
+1516
+01:12:53,500 --> 01:12:59,199
+We need to, what are we, what
+are we piecing together here?
+
+1517
+01:12:59,600 --> 01:12:59,960
+Okay.
+
+1518
+01:13:06,960 --> 01:13:08,200
+I'm gonna use this as a reference.
+
+1519
+01:13:08,230 --> 01:13:10,349
+We're going to see, I don't
+think it's any different.
+
+1520
+01:13:11,110 --> 01:13:11,410
+No.
+
+1521
+01:13:13,830 --> 01:13:14,720
+Looks the same.
+
+1522
+01:13:17,990 --> 01:13:18,750
+Oh, you fixed that.
+
+1523
+01:13:18,750 --> 01:13:21,210
+I didn't want to bring that up,
+but it was bothering me so much.
+
+1524
+01:13:21,230 --> 01:13:21,310
+I
+
+1525
+01:13:21,310 --> 01:13:23,200
+am shocked you didn't
+call me out on something.
+
+1526
+01:13:23,790 --> 01:13:24,249
+I had it.
+
+1527
+01:13:24,519 --> 01:13:24,720
+Are you?
+
+1528
+01:13:25,470 --> 01:13:26,460
+Oh, like, just keep going.
+
+1529
+01:13:26,460 --> 01:13:27,160
+It's fine.
+
+1530
+01:13:31,880 --> 01:13:35,885
+I'm I'm concerned why this one, or
+I'm concerned that this one isn't
+
+1531
+01:13:35,885 --> 01:13:39,415
+working, but I guess it is what it is.
+
+1532
+01:13:39,585 --> 01:13:43,364
+So that looks then like it
+should be right, so let's try it.
+
+1533
+01:13:50,295 --> 01:13:54,044
+I'm keeping, I'm keeping track of
+the metrics to see if at some point
+
+1534
+01:13:54,054 --> 01:13:55,125
+something interesting happens.
+
+1535
+01:14:01,300 --> 01:14:03,220
+RAM seems pretty standard.
+
+1536
+01:14:03,550 --> 01:14:05,030
+Oh, we got up to five connections.
+
+1537
+01:14:06,020 --> 01:14:08,100
+Now we're down to two, probably, or one.
+
+1538
+01:14:10,130 --> 01:14:14,529
+Yeah, I guess if I took long
+enough, it would have gone
+
+1539
+01:14:14,570 --> 01:14:15,080
+idle.
+
+1540
+01:14:16,650 --> 01:14:17,629
+And that's a good task.
+
+1541
+01:14:17,670 --> 01:14:21,460
+We can talk about a story or something.
+
+1542
+01:14:21,460 --> 01:14:26,994
+So it winds down and it goes idle and
+get, see how much the cold start is.
+
+1543
+01:14:26,994 --> 01:14:28,648
+Like a double cold
+
+1544
+01:14:28,648 --> 01:14:29,476
+start, really?
+
+1545
+01:14:29,476 --> 01:14:32,784
+Because you'd have the
+cold start from Lambda.
+
+1546
+01:14:34,695 --> 01:14:37,315
+And the cold start from Neon.
+
+1547
+01:14:39,015 --> 01:14:41,825
+It didn't seem like it was slow when
+we were doing it through the console,
+
+1548
+01:14:42,345 --> 01:14:44,105
+but I guess that's all relative
+
+1549
+01:14:44,105 --> 01:14:44,525
+anyway.
+
+1550
+01:14:44,525 --> 01:14:45,284
+What's slow and what's not.
+
+1551
+01:14:45,284 --> 01:14:48,645
+Let me check the, so right
+now the main is, is idle.
+
+1552
+01:14:51,285 --> 01:14:51,705
+Okay.
+
+1553
+01:15:01,505 --> 01:15:02,365
+I really like the music.
+
+1554
+01:15:02,535 --> 01:15:06,665
+So I had to delete the stack because I got
+a failed deployment on the initial deploy
+
+1555
+01:15:06,665 --> 01:15:10,445
+and it was in like rollback complete
+and it won't try again in that state.
+
+1556
+01:15:10,445 --> 01:15:11,505
+This is one of the features I
+
+1557
+01:15:11,514 --> 01:15:14,144
+really, really want from
+CloudFormation is just auto delete
+
+1558
+01:15:14,145 --> 01:15:15,845
+on rollback if it's the first deploy.
+
+1559
+01:15:16,414 --> 01:15:22,245
+It's usually a big issue and mostly
+with ephemeral sandboxes where it fails
+
+1560
+01:15:22,285 --> 01:15:23,485
+because we were playing around with it.
+
+1561
+01:15:23,485 --> 01:15:23,849
+So, yeah, that's it.
+
+1562
+01:15:24,170 --> 01:15:26,500
+It's going to fail at some point,
+but I just wanted to auto delete.
+
+1563
+01:15:26,530 --> 01:15:29,230
+So someone, I don't need to give
+access to the console to someone to
+
+1564
+01:15:29,230 --> 01:15:32,569
+delete the stack or something, because
+we're doing everything from GitHub.
+
+1565
+01:15:33,500 --> 01:15:35,010
+Um, so it's just weird.
+
+1566
+01:15:42,010 --> 01:15:45,790
+You know, I'm really just not happy
+that I can't figure this one out.
+
+1567
+01:15:47,890 --> 01:15:49,030
+It doesn't look like, like,
+
+1568
+01:15:53,660 --> 01:15:54,040
+I don't know.
+
+1569
+01:15:54,310 --> 01:15:54,630
+Okay.
+
+1570
+01:15:54,660 --> 01:15:55,920
+Go look up those, what that function
+
+1571
+01:15:55,920 --> 01:15:56,320
+URL
+
+1572
+01:15:56,320 --> 01:15:56,890
+is and we'll hit it,
+
+1573
+01:15:57,970 --> 01:15:58,380
+please.
+
+1574
+01:15:58,590 --> 01:15:59,869
+It's finished applying.
+
+1575
+01:15:59,869 --> 01:16:00,199
+Okay.
+
+1576
+01:16:00,199 --> 01:16:05,240
+Resources API function.
+
+1577
+01:16:11,179 --> 01:16:13,260
+Where does it give you the function URL?
+
+1578
+01:16:13,280 --> 01:16:13,960
+There it is.
+
+1579
+01:16:15,080 --> 01:16:16,240
+Function URL.
+
+1580
+01:16:18,740 --> 01:16:19,470
+It's there in the chat.
+
+1581
+01:16:22,580 --> 01:16:25,000
+Yeah, I didn't, I didn't share
+it in the public chat, right?
+
+1582
+01:16:25,050 --> 01:16:25,420
+Okay.
+
+1583
+01:16:27,020 --> 01:16:28,895
+And you're just gonna
+paste it there, yeah.
+
+1584
+01:16:28,895 --> 01:16:31,260
+Yeah, that's what it is.
+
+1585
+01:16:31,779 --> 01:16:34,720
+Uh, we're gonna try species
+and we're gonna see if, if this
+
+1586
+01:16:34,720 --> 01:16:36,370
+one works, see what happens.
+
+1587
+01:16:39,169 --> 01:16:46,720
+Oh, uh, it seems like, uh, 502 usually
+is access denied, but Do you have
+
+1588
+01:16:46,720 --> 01:16:48,450
+the event on the lambda function?
+
+1589
+01:16:49,040 --> 01:16:52,160
+No, this is a function URL, so
+it's not going through API gateway.
+
+1590
+01:16:52,570 --> 01:16:53,190
+What was the
+
+1591
+01:16:53,220 --> 01:16:54,050
+dinosaur name?
+
+1592
+01:16:54,290 --> 01:16:55,870
+Let's dinosaurs.
+
+1593
+01:16:57,430 --> 01:16:59,920
+Let's try a different endpoint
+in there and see if that
+
+1594
+01:17:00,240 --> 01:17:01,279
+gives us anything different.
+
+1595
+01:17:01,290 --> 01:17:01,950
+Triceps.
+
+1596
+01:17:03,840 --> 01:17:05,770
+Yeah, got my triceps going.
+
+1597
+01:17:08,540 --> 01:17:08,960
+There we go.
+
+1598
+01:17:09,430 --> 01:17:11,280
+I'm going to jump into logs at my end.
+
+1599
+01:17:11,735 --> 01:17:12,215
+Okay.
+
+1600
+01:17:14,895 --> 01:17:17,665
+So I guess that means we can't
+say that we got it first try.
+
+1601
+01:17:18,255 --> 01:17:18,945
+That's okay.
+
+1602
+01:17:21,945 --> 01:17:23,085
+Internal server error.
+
+1603
+01:17:26,465 --> 01:17:27,605
+Uh, reference error.
+
+1604
+01:17:27,605 --> 01:17:29,085
+Neon is not defined.
+
+1605
+01:17:29,335 --> 01:17:31,185
+Uh, we did not define neon.
+
+1606
+01:17:31,415 --> 01:17:31,785
+Oh.
+
+1607
+01:17:31,785 --> 01:17:35,774
+Okay.
+
+1608
+01:17:36,555 --> 01:17:37,345
+You mean this?
+
+1609
+01:17:37,984 --> 01:17:39,515
+Oh yeah, that would be a problem.
+
+1610
+01:17:43,315 --> 01:17:43,775
+Whoops.
+
+1611
+01:17:46,915 --> 01:17:50,525
+And this is, uh, this is the fun
+part about doing things live.
+
+1612
+01:17:52,695 --> 01:17:55,495
+Okay, so that will import Neon.
+
+1613
+01:17:55,525 --> 01:17:56,175
+Okay, cool.
+
+1614
+01:17:56,195 --> 01:18:01,554
+So I'm going to go back to Postman,
+and I'm going to do Species.
+
+1615
+01:18:04,084 --> 01:18:05,354
+And we're just going to get a list.
+
+1616
+01:18:06,984 --> 01:18:09,764
+But that's not even the right,
+that's not the right thing.
+
+1617
+01:18:10,244 --> 01:18:10,584
+Dang it.
+
+1618
+01:18:11,575 --> 01:18:13,335
+I'm going, I'm going back
+to the local version.
+
+1619
+01:18:14,965 --> 01:18:20,955
+Because this should really just
+be Select Star from Species.
+
+1620
+01:18:22,870 --> 01:18:23,320
+Yeah,
+
+1621
+01:18:23,460 --> 01:18:28,940
+um, not that, it still doesn't
+explain why nothing was coming back.
+
+1622
+01:18:30,810 --> 01:18:34,950
+So you can rename dinosaurs to
+species if you want to be correct.
+
+1623
+01:18:38,510 --> 01:18:38,800
+No.
+
+1624
+01:18:38,900 --> 01:18:40,110
+That's the, that's, okay.
+
+1625
+01:18:41,670 --> 01:18:43,380
+This is the one that
+wasn't working before.
+
+1626
+01:18:44,010 --> 01:18:47,549
+This is really just doing a select all and
+everything and it should have been, yeah
+
+1627
+01:18:47,549 --> 01:18:49,440
+okay so it has the species name in here.
+
+1628
+01:18:50,099 --> 01:18:53,450
+Um, okay, that worked!
+
+1629
+01:18:53,520 --> 01:18:54,340
+Hey, we did it!
+
+1630
+01:18:54,539 --> 01:18:58,760
+We created a landelit
+because we can also do, yes.
+
+1631
+01:18:59,660 --> 01:19:02,260
+I wasn't raising my hand, I was going
+to point at my screen but it's the,
+
+1632
+01:19:02,270 --> 01:19:06,480
+uh, It automatically, I guess they
+have some web sockets or something.
+
+1633
+01:19:06,480 --> 01:19:11,160
+I'm in the branches list and
+it automatically showed active.
+
+1634
+01:19:11,260 --> 01:19:12,200
+Uh, I didn't have to refer.
+
+1635
+01:19:12,210 --> 01:19:14,320
+I wasn't going to refresh
+to see if it was active now.
+
+1636
+01:19:14,990 --> 01:19:19,530
+Um, so when you made that query, it
+automatically went active for me.
+
+1637
+01:19:20,250 --> 01:19:22,040
+And it wasn't, I mean, it, it didn't
+
+1638
+01:19:22,040 --> 01:19:23,130
+come back slow.
+
+1639
+01:19:23,260 --> 01:19:27,140
+It was, uh, at this
+point I'm already passed.
+
+1640
+01:19:27,140 --> 01:19:28,580
+I already did another commands.
+
+1641
+01:19:28,700 --> 01:19:29,110
+Dang it.
+
+1642
+01:19:29,860 --> 01:19:32,629
+But you, you can go to the console
+and see the history of your requests.
+
+1643
+01:19:33,139 --> 01:19:33,329
+Yeah.
+
+1644
+01:19:33,330 --> 01:19:34,510
+Can you do that in VS code?
+
+1645
+01:19:35,410 --> 01:19:36,480
+I think there is.
+
+1646
+01:19:38,790 --> 01:19:39,090
+I don't see it.
+
+1647
+01:19:40,830 --> 01:19:41,429
+Oh, just go.
+
+1648
+01:19:41,470 --> 01:19:43,060
+There should be postman console.
+
+1649
+01:19:43,060 --> 01:19:44,630
+There isn't a terminal area.
+
+1650
+01:19:45,300 --> 01:19:46,280
+There's a postman console.
+
+1651
+01:19:46,610 --> 01:19:46,910
+There you go.
+
+1652
+01:19:49,200 --> 01:19:49,590
+Ooh.
+
+1653
+01:19:49,820 --> 01:19:50,240
+Okay.
+
+1654
+01:19:50,280 --> 01:19:53,750
+So that was, that was, uh, Yeah.
+
+1655
+01:19:53,810 --> 01:19:54,080
+All right.
+
+1656
+01:19:54,080 --> 01:19:59,060
+So that one was probably less than
+ideal, uh, a second and a half.
+
+1657
+01:19:59,540 --> 01:19:59,860
+Now this is.
+
+1658
+01:19:59,860 --> 01:20:00,539
+The
+
+1659
+01:20:00,539 --> 01:20:03,610
+Lambda was already, no, you just
+deployed the Lambda function.
+
+1660
+01:20:03,610 --> 01:20:04,099
+So let me get the.
+
+1661
+01:20:04,100 --> 01:20:05,489
+That was definitely a cold start on that
+
+1662
+01:20:05,490 --> 01:20:05,590
+one.
+
+1663
+01:20:05,600 --> 01:20:06,309
+Let's run it again.
+
+1664
+01:20:06,600 --> 01:20:07,559
+Let's, well,
+
+1665
+01:20:09,510 --> 01:20:10,440
+I guess we can.
+
+1666
+01:20:11,649 --> 01:20:15,270
+Lambda function to close
+to 800 milliseconds total.
+
+1667
+01:20:15,340 --> 01:20:15,730
+Okay.
+
+1668
+01:20:15,810 --> 01:20:16,220
+Hold on.
+
+1669
+01:20:21,135 --> 01:20:25,615
+Bill, an iteration was 353
+milliseconds for the Lambda function.
+
+1670
+01:20:29,675 --> 01:20:30,835
+So still quite, quite a
+
+1671
+01:20:30,835 --> 01:20:31,475
+hefty.
+
+1672
+01:20:34,615 --> 01:20:37,595
+So that one was half a second
+to pull a response back.
+
+1673
+01:20:37,625 --> 01:20:40,514
+Second call was 373.
+
+1674
+01:20:40,545 --> 01:20:43,974
+Next call, it doesn't seem to be, I
+mean, it's getting a little faster, but
+
+1675
+01:20:43,974 --> 01:20:45,784
+it seems to be normalizing around three.
+
+1676
+01:20:46,245 --> 01:20:47,884
+Let me see if there's cache hits.
+
+1677
+01:20:47,904 --> 01:20:49,565
+Right, we're doing the same query.
+
+1678
+01:20:50,125 --> 01:20:53,165
+So I wonder if that package, the
+Neon package, is doing some sort of
+
+1679
+01:20:53,165 --> 01:21:00,545
+caching somewhere, but the metrics,
+the monitoring, uh, does deadlocks.
+
+1680
+01:21:00,624 --> 01:21:03,765
+Nothing shows in the
+caching portion of this.
+
+1681
+01:21:06,785 --> 01:21:09,345
+No deadlocks, database size.
+
+1682
+01:21:11,675 --> 01:21:13,595
+I kind of want to hit
+this with a bunch of load.
+
+1683
+01:21:13,864 --> 01:21:16,085
+I want to, I want to see what it does.
+
+1684
+01:21:17,950 --> 01:21:18,270
+Yeah.
+
+1685
+01:21:18,270 --> 01:21:22,470
+And another test we can do,
+Alan, is one with a hot Lambda.
+
+1686
+01:21:23,330 --> 01:21:26,330
+We can change the connection
+to the dev one that I have.
+
+1687
+01:21:26,390 --> 01:21:27,450
+That's idle right now.
+
+1688
+01:21:29,270 --> 01:21:30,150
+Uh, and see what happens.
+
+1689
+01:21:31,469 --> 01:21:32,790
+See what happens to the response time.
+
+1690
+01:21:33,500 --> 01:21:33,840
+Yeah.
+
+1691
+01:21:33,860 --> 01:21:34,619
+Just to, okay.
+
+1692
+01:21:34,620 --> 01:21:36,429
+Now intentionally we're idle.
+
+1693
+01:21:37,260 --> 01:21:37,560
+Yeah.
+
+1694
+01:21:37,830 --> 01:21:38,190
+Okay.
+
+1695
+01:21:38,190 --> 01:21:38,279
+Cool.
+
+1696
+01:21:38,710 --> 01:21:39,360
+Let's do this then.
+
+1697
+01:21:39,360 --> 01:21:46,480
+I don't think I can, let's
+create a new collection.
+
+1698
+01:21:48,030 --> 01:21:51,840
+Let's see, do you get a query
+log on the neon console?
+
+1699
+01:21:51,879 --> 01:21:53,590
+Let me, let me check that out Sam.
+
+1700
+01:21:56,950 --> 01:22:02,709
+So, overview, I'm gonna navigate and
+if I find it I can share my screen.
+
+1701
+01:22:08,670 --> 01:22:10,320
+There's the usage.
+
+1702
+01:22:24,490 --> 01:22:27,690
+It doesn't look like I have access
+to the load testing capabilities
+
+1703
+01:22:27,700 --> 01:22:31,060
+of Postman from inside of VS code.
+
+1704
+01:22:34,330 --> 01:22:34,770
+But that's fine.
+
+1705
+01:22:34,939 --> 01:22:35,730
+I'll just open up.
+
+1706
+01:22:36,749 --> 01:22:40,290
+I'll just open it up
+and we can share that.
+
+1707
+01:22:40,329 --> 01:22:43,029
+I just created a collection,
+so it should be available.
+
+1708
+01:22:50,849 --> 01:22:53,600
+So we'll, we'll walk through,
+there's a lot of integrations
+
+1709
+01:22:53,600 --> 01:22:54,900
+that they offer already.
+
+1710
+01:22:55,810 --> 01:22:58,300
+Uh, good to take a look there.
+
+1711
+01:23:00,125 --> 01:23:05,635
+I don't see anything, Sam, in
+regards to like history, I see
+
+1712
+01:23:06,885 --> 01:23:09,545
+start compute, suspend compute.
+
+1713
+01:23:11,035 --> 01:23:17,415
+So I can see, Oh, look at, okay, Alan, let
+me do, I guess you have my screen there.
+
+1714
+01:23:17,415 --> 01:23:18,214
+We can pop it open.
+
+1715
+01:23:19,125 --> 01:23:20,614
+Uh, it does.
+
+1716
+01:23:20,705 --> 01:23:23,955
+So Sam, it doesn't keep a log
+of all the queries that happen,
+
+1717
+01:23:24,115 --> 01:23:25,845
+but more infrastructural stuff.
+
+1718
+01:23:26,515 --> 01:23:28,205
+So you can see the start compute.
+
+1719
+01:23:29,115 --> 01:23:30,845
+Uh, I'm mounted time.
+
+1720
+01:23:30,845 --> 01:23:31,484
+So at 2.
+
+1721
+01:23:31,485 --> 01:23:35,585
+19, which lines up probably when
+you, the successful query went
+
+1722
+01:23:36,475 --> 01:23:40,995
+and we can get, uh, it's, it took
+159 milliseconds to start up.
+
+1723
+01:23:42,795 --> 01:23:49,294
+So the startup plus the query, and that's
+where I don't know where we can get those
+
+1724
+01:23:49,305 --> 01:23:51,915
+metrics on query performance, right?
+
+1725
+01:23:52,164 --> 01:23:58,025
+Um, we could add metrics and the
+Lambda function to pump out metrics or
+
+1726
+01:23:59,985 --> 01:24:04,095
+observability or segments and traces
+and stuff to better calculate that.
+
+1727
+01:24:04,095 --> 01:24:04,205
+Okay.
+
+1728
+01:24:05,405 --> 01:24:06,875
+On the query itself.
+
+1729
+01:24:10,985 --> 01:24:19,105
+Okay, we're going back to So postman real
+quick, that is, let me see how to zoom in.
+
+1730
+01:24:19,185 --> 01:24:19,375
+Okay.
+
+1731
+01:24:19,375 --> 01:24:19,695
+There we go.
+
+1732
+01:24:20,905 --> 01:24:21,135
+Okay.
+
+1733
+01:24:21,135 --> 01:24:24,715
+So I have just the, the list
+endpoint in this collection.
+
+1734
+01:24:24,745 --> 01:24:25,744
+I can do multiple.
+
+1735
+01:24:25,744 --> 01:24:28,375
+I don't think it's necessary,
+but I'm going to do the
+
+1736
+01:24:28,385 --> 01:24:30,464
+performance test simulator.
+
+1737
+01:24:30,594 --> 01:24:36,745
+I'm going to say, you know, if we run
+up money on your free account, this
+
+1738
+01:24:36,745 --> 01:24:41,035
+is, this is what does it, uh, let's do
+
+1739
+01:24:41,895 --> 01:24:42,095
+Pete.
+
+1740
+01:24:42,115 --> 01:24:43,755
+They don't have my
+credit card, so I'm good.
+
+1741
+01:24:43,755 --> 01:24:45,715
+Just, just do it.
+
+1742
+01:24:46,494 --> 01:24:49,195
+Simulate a fixed load for
+four users for two minutes.
+
+1743
+01:24:50,315 --> 01:24:52,675
+Then no fix it.
+
+1744
+01:24:52,905 --> 01:24:53,205
+Okay.
+
+1745
+01:24:53,205 --> 01:24:56,274
+So we're going to pretend like
+there's 20 people hitting this API and
+
+1746
+01:24:59,955 --> 01:25:03,175
+then we'll see what happens 20
+virtual users repeatedly running the
+
+1747
+01:25:03,175 --> 01:25:05,625
+collection in parallel for two minutes
+
+1748
+01:25:07,614 --> 01:25:09,745
+sound good Let's see my connection count.
+
+1749
+01:25:17,835 --> 01:25:22,204
+All right now you can't hear it,
+but my laptop now sounds like a jet
+
+1750
+01:25:22,205 --> 01:25:28,270
+engine As it has spun up all these
+processes hitting this end point.
+
+1751
+01:25:31,550 --> 01:25:34,330
+It seems to be doing okay though,
+I mean it's pretty consistent.
+
+1752
+01:25:35,430 --> 01:25:39,310
+There was a big one, what's the
+spike there at the beginning?
+
+1753
+01:25:40,990 --> 01:25:45,619
+That was probably the
+cold start time, 492,
+
+1754
+01:25:49,190 --> 01:25:54,060
+yes this was sending, okay right now
+it's sending 12 requests a second.
+
+1755
+01:25:58,370 --> 01:26:01,370
+Connection count just went
+boom, just went all the way up.
+
+1756
+01:26:02,460 --> 01:26:08,720
+Right now it's at five from one, but it's
+taking, it's taking a second to catch up.
+
+1757
+01:26:09,880 --> 01:26:10,920
+Oh, you're sharing again.
+
+1758
+01:26:11,060 --> 01:26:11,880
+Okay, cool.
+
+1759
+01:26:13,879 --> 01:26:16,489
+So here is the connection count.
+
+1760
+01:26:16,519 --> 01:26:18,989
+So you can see the big spike
+right now with your stuff.
+
+1761
+01:26:21,179 --> 01:26:24,229
+Um, everything else seems
+pretty stable though.
+
+1762
+01:26:24,829 --> 01:26:29,239
+Let's see, RAM still pretty low.
+
+1763
+01:26:32,220 --> 01:26:32,909
+You can see a
+
+1764
+01:26:32,909 --> 01:26:33,389
+slight.
+
+1765
+01:26:34,255 --> 01:26:34,845
+Boost?
+
+1766
+01:26:41,465 --> 01:26:45,755
+Does it show anywhere like peak
+stuff like what it got up to?
+
+1767
+01:26:49,375 --> 01:26:54,315
+Doesn't seem to be anywhere
+just like hey look at this.
+
+1768
+01:26:55,625 --> 01:27:03,054
+Um this is last hour so connection
+counts you can see here six.
+
+1769
+01:27:04,644 --> 01:27:07,995
+So this to me makes me think it's reusing.
+
+1770
+01:27:08,345 --> 01:27:10,585
+Did you define the connection
+outside of the handler?
+
+1771
+01:27:11,185 --> 01:27:11,675
+It did.
+
+1772
+01:27:12,265 --> 01:27:14,405
+Okay, so it's probably
+reusing connections.
+
+1773
+01:27:15,880 --> 01:27:17,960
+Why it's not super spiky.
+
+1774
+01:27:18,820 --> 01:27:19,710
+Should we try to break it?
+
+1775
+01:27:19,710 --> 01:27:21,100
+And yeah, sure.
+
+1776
+01:27:21,100 --> 01:27:22,110
+Try to, yeah.
+
+1777
+01:27:22,180 --> 01:27:23,500
+All right, let's do that.
+
+1778
+01:27:25,900 --> 01:27:29,659
+So here's, and something I wanted to
+point out this, these integrations, right?
+
+1779
+01:27:29,660 --> 01:27:36,030
+So you can, um, you can see with
+Vercel, Polyscale, but like for
+
+1780
+01:27:36,030 --> 01:27:41,540
+logging, uh, you can send the logs
+to Datadog, New Relic, Sentry, they
+
+1781
+01:27:41,540 --> 01:27:45,400
+have like tools on top of this, not
+going to go too deep into this, but.
+
+1782
+01:27:46,285 --> 01:27:49,905
+it might get more information out of
+the metric logs and stuff that you
+
+1783
+01:27:49,905 --> 01:27:57,225
+want um out of this so you can see
+cypress github but go put the connection
+
+1784
+01:27:57,285 --> 01:28:02,054
+inside of the handler so we can get 12
+connections per second see what happens
+
+1785
+01:28:04,360 --> 01:28:08,150
+Okay, so what I am going to do, I
+think I'm still sharing Postman.
+
+1786
+01:28:08,150 --> 01:28:11,640
+So let me, let me switch back to VS code.
+
+1787
+01:28:14,839 --> 01:28:15,899
+So performance.
+
+1788
+01:28:15,900 --> 01:28:16,750
+Yeah, cool.
+
+1789
+01:28:16,890 --> 01:28:19,220
+So I'm going to create a new
+endpoint just called break.
+
+1790
+01:28:19,620 --> 01:28:26,300
+And what I'm going to do in here
+is I guess we'll initialize SQL 2.
+
+1791
+01:28:26,300 --> 01:28:30,690
+And just do the dinosaurs query.
+
+1792
+01:28:31,420 --> 01:28:34,230
+No, I want to join all the tables.
+
+1793
+01:28:35,620 --> 01:28:36,750
+Okay, I like it.
+
+1794
+01:28:40,410 --> 01:28:41,930
+Okay, so we're going to do.
+
+1795
+01:28:43,130 --> 01:28:49,120
+Select star from dinosaurs, D.
+
+1796
+01:28:50,380 --> 01:28:50,990
+Can you tell me what the
+
+1797
+01:28:50,990 --> 01:28:51,620
+table names are?
+
+1798
+01:28:52,790 --> 01:28:57,070
+So we got species, hold on, period.
+
+1799
+01:29:00,170 --> 01:29:01,090
+Species ID, right?
+
+1800
+01:29:01,540 --> 01:29:09,720
+Species ID is on both dinosaur
+and, and then we got join period.
+
+1801
+01:29:11,520 --> 01:29:12,014
+What else?
+
+1802
+01:29:12,985 --> 01:29:15,885
+Give me the table names
+period period name.
+
+1803
+01:29:16,205 --> 01:29:16,505
+Oh,
+
+1804
+01:29:16,835 --> 01:29:22,485
+oh, I thought you were telling me
+a period on Okay, uh, all right
+
+1805
+01:29:23,465 --> 01:29:26,095
+classic That's pretty funny.
+
+1806
+01:29:26,605 --> 01:29:29,975
+That's like a Wait,
+wait, period is period ID
+
+1807
+01:29:32,324 --> 01:29:32,674
+in that.
+
+1808
+01:29:32,705 --> 01:29:33,035
+Okay.
+
+1809
+01:29:33,295 --> 01:29:33,565
+All right,
+
+1810
+01:29:33,684 --> 01:29:37,405
+and then D and the from the
+dinosaur table It's also period ID.
+
+1811
+01:29:39,235 --> 01:29:40,465
+Okay, what else?
+
+1812
+01:29:41,045 --> 01:29:48,865
+Then we got location, where it's
+location underscore ID on location
+
+1813
+01:29:48,895 --> 01:29:51,844
+table and location underscore
+ID on the dinosaur table.
+
+1814
+01:29:52,145 --> 01:29:55,215
+Oh, you gave me the nice
+intuitive naming convention.
+
+1815
+01:29:55,685 --> 01:29:58,395
+So then naming has naming ID.
+
+1816
+01:29:59,100 --> 01:29:59,640
+Naming?
+
+1817
+01:29:59,820 --> 01:30:00,320
+Like this?
+
+1818
+01:30:01,510 --> 01:30:02,360
+It's who named it.
+
+1819
+01:30:04,330 --> 01:30:04,980
+Who named the dinosaur.
+
+1820
+01:30:04,990 --> 01:30:07,390
+Uh, I, do we know?
+
+1821
+01:30:07,430 --> 01:30:12,989
+I'm gonna And actually, Alan,
+we don't have a, we don't have
+
+1822
+01:30:12,990 --> 01:30:14,339
+that field on the dinosaurs.
+
+1823
+01:30:14,429 --> 01:30:15,630
+So, ignore that one.
+
+1824
+01:30:16,560 --> 01:30:17,640
+We don't have a way to join.
+
+1825
+01:30:19,720 --> 01:30:20,429
+Okay, what else?
+
+1826
+01:30:20,680 --> 01:30:21,340
+Anything else?
+
+1827
+01:30:21,400 --> 01:30:23,890
+Location, naming periods,
+species, taxonomy.
+
+1828
+01:30:26,380 --> 01:30:29,840
+It's taxonomy ID and taxonomy
+underscore ID on both.
+
+1829
+01:30:30,920 --> 01:30:35,060
+Oh, I just spelled it twice in a row
+without making it a mistake, which
+
+1830
+01:30:35,080 --> 01:30:36,660
+means, you know, that's about to happen.
+
+1831
+01:30:38,390 --> 01:30:39,100
+It's going to work.
+
+1832
+01:30:39,570 --> 01:30:39,960
+I hope.
+
+1833
+01:30:40,010 --> 01:30:40,300
+Oh no.
+
+1834
+01:30:40,300 --> 01:30:42,620
+I thought I was going to misspell
+it when I was doing the joint.
+
+1835
+01:30:42,999 --> 01:30:43,289
+Okay.
+
+1836
+01:30:43,800 --> 01:30:45,000
+Uh, so we have that.
+
+1837
+01:30:48,370 --> 01:30:50,710
+No reason to not just run that, right?
+
+1838
+01:30:51,640 --> 01:30:52,650
+Well, you got to return it.
+
+1839
+01:30:53,030 --> 01:30:53,470
+Yeah.
+
+1840
+01:30:54,060 --> 01:30:55,350
+Count and then dinosaurs.
+
+1841
+01:30:55,350 --> 01:30:55,750
+Cool.
+
+1842
+01:30:56,360 --> 01:30:57,790
+You are using SQL too.
+
+1843
+01:30:57,820 --> 01:30:58,130
+Okay.
+
+1844
+01:31:01,680 --> 01:31:02,120
+Yeah.
+
+1845
+01:31:02,310 --> 01:31:02,650
+Okay.
+
+1846
+01:31:04,530 --> 01:31:05,740
+Sam build, Sam deploy.
+
+1847
+01:31:05,740 --> 01:31:06,609
+Let's do that.
+
+1848
+01:31:10,435 --> 01:31:10,715
+Okay.
+
+1849
+01:31:10,715 --> 01:31:13,875
+So that's just running a big join
+across everything that will get cached
+
+1850
+01:31:13,875 --> 01:31:17,875
+and that's probably also not like
+a super heavy query to run anyway.
+
+1851
+01:31:18,715 --> 01:31:22,524
+I'm not seeing anything in
+the cache monitoring, like
+
+1852
+01:31:22,524 --> 01:31:24,934
+any cat buffer cache hit rate.
+
+1853
+01:31:27,345 --> 01:31:28,585
+There's nothing there.
+
+1854
+01:31:33,365 --> 01:31:35,144
+So what do you think is
+going to happen here?
+
+1855
+01:31:35,845 --> 01:31:39,935
+If I just do a, without doing a load,
+because we're going to hit it first,
+
+1856
+01:31:39,935 --> 01:31:41,015
+just to make sure that it actually does
+
+1857
+01:31:41,015 --> 01:31:41,485
+something.
+
+1858
+01:31:42,060 --> 01:31:48,770
+I feel like we're gonna get 429s or
+something that I'm exceeding my free tier.
+
+1859
+01:31:48,780 --> 01:31:51,569
+I don't know how many connections
+the free tier gives me.
+
+1860
+01:31:53,995 --> 01:31:58,425
+It's probably limited, but it
+doesn't say anything about it.
+
+1861
+01:31:58,635 --> 01:31:59,315
+So
+
+1862
+01:32:00,705 --> 01:32:05,365
+I'm wondering then if that's the case,
+I don't know if this throws an exception
+
+1863
+01:32:05,374 --> 01:32:13,154
+or if this does, like, if this returns
+an error, uh, so I'm like Postgres
+
+1864
+01:32:13,154 --> 01:32:21,275
+directly because you're running SQL, but
+we're using neon, so I'm assuming there's
+
+1865
+01:32:21,275 --> 01:32:24,055
+some sort of wrapping around errors.
+
+1866
+01:32:24,095 --> 01:32:26,445
+I would hope from a
+package provided by them.
+
+1867
+01:32:27,895 --> 01:32:28,575
+Uh, like.
+
+1868
+01:32:28,870 --> 01:32:32,020
+Regularly, if like box API, right?
+
+1869
+01:32:32,020 --> 01:32:34,890
+If you use their SDK, they
+have standard retries.
+
+1870
+01:32:34,900 --> 01:32:38,030
+When you hit four to nine with
+backoff built into the SDK,
+
+1871
+01:32:38,460 --> 01:32:42,140
+similarly to AWS SDK, right?
+
+1872
+01:32:42,140 --> 01:32:45,230
+So I would hope there's some sort
+of handling internally for that.
+
+1873
+01:32:47,160 --> 01:32:47,760
+You would hope
+
+1874
+01:32:48,470 --> 01:32:49,170
+I would hope
+
+1875
+01:32:51,349 --> 01:32:52,029
+you never know though.
+
+1876
+01:32:52,030 --> 01:32:54,840
+I mean, they just went GA like,
+well, is it Tuesday this week?
+
+1877
+01:32:54,860 --> 01:32:55,590
+Wednesday this week?
+
+1878
+01:32:56,250 --> 01:33:00,620
+And, you know, it's, it's not going
+to be completely feature complete
+
+1879
+01:33:00,630 --> 01:33:04,610
+like you would see in the references
+that you were just describing.
+
+1880
+01:33:06,900 --> 01:33:08,060
+Probably not anyway.
+
+1881
+01:33:09,869 --> 01:33:09,969
+Okay.
+
+1882
+01:33:10,969 --> 01:33:15,069
+So, Sam, we're trying the, we're burning
+the world before we want to live in it.
+
+1883
+01:33:15,650 --> 01:33:19,219
+Uh, so his suggestion
+to, yeah, there it is.
+
+1884
+01:33:19,370 --> 01:33:21,920
+There was a toggle to enable
+socket pooling on the console.
+
+1885
+01:33:23,260 --> 01:33:24,600
+But we're going the other way around.
+
+1886
+01:33:24,610 --> 01:33:29,330
+We're trying the Do you
+want me to turn that on?
+
+1887
+01:33:29,370 --> 01:33:30,190
+I can turn that on.
+
+1888
+01:33:31,090 --> 01:33:31,460
+Let me see.
+
+1889
+01:33:31,460 --> 01:33:34,260
+It's already off, right?
+
+1890
+01:33:35,810 --> 01:33:41,580
+Yeah, so if you switch to my screen,
+it's adds a pooler flag to the
+
+1891
+01:33:41,580 --> 01:33:44,250
+connection string, but we would need
+to change the connection string.
+
+1892
+01:33:44,270 --> 01:33:45,960
+Do you want to try that,
+Alan, or do you want to?
+
+1893
+01:33:47,300 --> 01:33:48,160
+We can change it in a minute.
+
+1894
+01:33:48,210 --> 01:33:48,840
+Let's change it in a minute.
+
+1895
+01:33:48,850 --> 01:33:51,470
+I want to, I want to see what
+happens if we just do it as is.
+
+1896
+01:33:52,029 --> 01:33:52,399
+Cool.
+
+1897
+01:33:52,510 --> 01:33:54,850
+Right now, because yes, I do, I
+do want to do that and see how it,
+
+1898
+01:33:55,430 --> 01:33:56,164
+see the difference that it makes.
+
+1899
+01:33:56,885 --> 01:33:59,135
+Okay, so the
+
+1900
+01:33:59,885 --> 01:34:02,775
+main branch is currently active, right?
+
+1901
+01:34:02,775 --> 01:34:04,515
+So it's still active,
+so we'll not hit that.
+
+1902
+01:34:04,615 --> 01:34:07,245
+I mean, we're not trying to get
+the cold start time right now,
+
+1903
+01:34:08,254 --> 01:34:09,075
+so it worked.
+
+1904
+01:34:10,314 --> 01:34:13,624
+Yep, so that was one, 1.
+
+1905
+01:34:13,624 --> 01:34:14,075
+29 seconds.
+
+1906
+01:34:14,680 --> 01:34:16,000
+Round trip, let's hit it again.
+
+1907
+01:34:17,810 --> 01:34:18,660
+456.
+
+1908
+01:34:24,160 --> 01:34:24,450
+Ooh.
+
+1909
+01:34:26,430 --> 01:34:26,830
+Okay.
+
+1910
+01:34:27,980 --> 01:34:30,930
+But look at the, like all the
+handshake and all that stuff.
+
+1911
+01:34:31,649 --> 01:34:32,410
+It's taking quite a bit.
+
+1912
+01:34:35,980 --> 01:34:37,030
+Transfer start.
+
+1913
+01:34:38,310 --> 01:34:40,560
+But yeah, still not ideal.
+
+1914
+01:34:41,400 --> 01:34:45,140
+Like on my normal day to
+day, that's probably fine.
+
+1915
+01:34:45,679 --> 01:34:47,979
+You know, we're trying to
+shoot for lower than 1.
+
+1916
+01:34:47,979 --> 01:34:48,610
+5 seconds.
+
+1917
+01:34:49,180 --> 01:34:54,270
+So it's still under the expected,
+but for more critical workloads,
+
+1918
+01:34:54,270 --> 01:34:56,250
+800 milliseconds might be.
+
+1919
+01:35:00,230 --> 01:35:00,720
+I agree.
+
+1920
+01:35:01,065 --> 01:35:05,145
+You're also going to have to, I mean,
+keep in mind, this is just the API side.
+
+1921
+01:35:05,145 --> 01:35:07,745
+Like when you're talking about app
+development, you're still going
+
+1922
+01:35:07,745 --> 01:35:10,585
+to have to wait for the content
+to render in your user interface.
+
+1923
+01:35:11,265 --> 01:35:15,595
+And I mean, it's not a ton of
+records, but it is still 309
+
+1924
+01:35:15,605 --> 01:35:17,164
+records with a lot of data in it.
+
+1925
+01:35:18,414 --> 01:35:22,565
+We could pad that and see
+if there's not no time.
+
+1926
+01:35:22,625 --> 01:35:22,935
+Okay.
+
+1927
+01:35:23,375 --> 01:35:28,245
+I'm going to, I'm going to switch
+back to postman real quick.
+
+1928
+01:35:29,485 --> 01:35:30,765
+Uh, so here's your screen.
+
+1929
+01:35:30,835 --> 01:35:32,265
+Are there any analytics that we want?
+
+1930
+01:35:33,090 --> 01:35:33,750
+Okay.
+
+1931
+01:35:33,960 --> 01:35:37,180
+So let's see the monitoring.
+
+1932
+01:35:37,440 --> 01:35:38,790
+Let's get the latest there.
+
+1933
+01:35:39,870 --> 01:35:41,090
+Everything pretty stable.
+
+1934
+01:35:41,090 --> 01:35:44,410
+As far as Ram, you can
+see the connection peak.
+
+1935
+01:35:45,400 --> 01:35:50,419
+We got the one, I guess, from the
+request you just did database size,
+
+1936
+01:35:50,480 --> 01:35:55,690
+nothing that just catches my eye.
+
+1937
+01:35:57,340 --> 01:35:59,030
+So we're still the same, same boat here.
+
+1938
+01:35:59,840 --> 01:36:00,150
+Okay.
+
+1939
+01:36:00,180 --> 01:36:00,860
+So you feel good?
+
+1940
+01:36:01,000 --> 01:36:02,110
+I'm going to switch back.
+
+1941
+01:36:02,430 --> 01:36:02,740
+Okay.
+
+1942
+01:36:03,360 --> 01:36:03,640
+Yeah.
+
+1943
+01:36:04,790 --> 01:36:05,070
+Okay.
+
+1944
+01:36:05,070 --> 01:36:07,230
+I need to update this collection.
+
+1945
+01:36:09,810 --> 01:36:10,380
+Break it.
+
+1946
+01:36:13,835 --> 01:36:14,055
+Okay.
+
+1947
+01:36:14,055 --> 01:36:16,965
+I'm going to just test to make sure, okay.
+
+1948
+01:36:16,965 --> 01:36:17,775
+We do get a response.
+
+1949
+01:36:17,825 --> 01:36:18,055
+All right.
+
+1950
+01:36:18,585 --> 01:36:20,035
+So let's go back.
+
+1951
+01:36:21,755 --> 01:36:22,935
+I think that I have opened in here.
+
+1952
+01:36:22,985 --> 01:36:23,285
+Okay.
+
+1953
+01:36:25,765 --> 01:36:28,425
+This we're going to,
+
+1954
+01:36:28,944 --> 01:36:30,925
+you did not say the request, by the way.
+
+1955
+01:36:30,944 --> 01:36:31,304
+Yeah.
+
+1956
+01:36:31,335 --> 01:36:33,775
+It turns out I was editing
+the request inside of VS code.
+
+1957
+01:36:33,785 --> 01:36:34,275
+Not in
+
+1958
+01:36:37,765 --> 01:36:38,075
+funny.
+
+1959
+01:36:39,185 --> 01:36:39,485
+Okay.
+
+1960
+01:36:40,435 --> 01:36:47,905
+Uh, This close, click on the
+collection, run performance tests.
+
+1961
+01:36:50,195 --> 01:36:50,575
+Here we go.
+
+1962
+01:36:51,845 --> 01:36:52,685
+How many does it let me do?
+
+1963
+01:36:55,605 --> 01:36:56,085
+Do a hundred.
+
+1964
+01:36:56,235 --> 01:36:57,574
+I have a developer machine.
+
+1965
+01:37:03,225 --> 01:37:04,525
+Test duration, two minutes.
+
+1966
+01:37:04,555 --> 01:37:05,015
+Okay.
+
+1967
+01:37:08,845 --> 01:37:10,865
+We have lift off my laptop.
+
+1968
+01:37:12,435 --> 01:37:15,135
+I learned my lesson from last
+week when it completely crashed.
+
+1969
+01:37:15,135 --> 01:37:17,435
+I put a book.
+
+1970
+01:37:18,405 --> 01:37:19,775
+Underneath it, like right in the middle.
+
+1971
+01:37:19,775 --> 01:37:22,965
+So there's at least air that can get to
+the fan a little bit easier underneath.
+
+1972
+01:37:23,705 --> 01:37:24,185
+Oh yeah.
+
+1973
+01:37:25,155 --> 01:37:27,935
+I have my laptop lifted
+with a little stand.
+
+1974
+01:37:29,465 --> 01:37:30,945
+How many requests have come through?
+
+1975
+01:37:31,545 --> 01:37:37,205
+Uh, a thousand, but look, we started off
+with errors probably when it was scaling.
+
+1976
+01:37:38,065 --> 01:37:39,185
+Interesting.
+
+1977
+01:37:40,435 --> 01:37:44,665
+I'll I'll see if I can search
+anything in the Lambda function.
+
+1978
+01:37:45,344 --> 01:37:46,365
+How good are you with.
+
+1979
+01:37:47,140 --> 01:37:47,920
+Uh, CloudWatch
+
+1980
+01:37:47,930 --> 01:37:52,080
+insights, not how are we pumped?
+
+1981
+01:37:53,110 --> 01:37:57,710
+I just do add message, like error and
+look something for something like that.
+
+1982
+01:37:58,150 --> 01:37:58,210
+That's
+
+1983
+01:37:58,269 --> 01:37:58,589
+fine.
+
+1984
+01:37:58,720 --> 01:37:59,529
+Like we're still getting them.
+
+1985
+01:38:01,130 --> 01:38:01,760
+Interesting.
+
+1986
+01:38:01,760 --> 01:38:02,959
+So it's trying to scale again.
+
+1987
+01:38:03,289 --> 01:38:05,260
+I don't see any, like
+the connection count.
+
+1988
+01:38:06,159 --> 01:38:07,019
+Oh, there it is.
+
+1989
+01:38:07,020 --> 01:38:07,900
+We're up to 10.
+
+1990
+01:38:07,900 --> 01:38:09,890
+It's getting there.
+
+1991
+01:38:10,000 --> 01:38:10,820
+It's getting there.
+
+1992
+01:38:11,510 --> 01:38:14,170
+So let me go to log insights over here.
+
+1993
+01:38:16,255 --> 01:38:20,775
+So this is hitting, this is hitting Neon
+with, you can see right here on Postman,
+
+1994
+01:38:20,785 --> 01:38:30,955
+it was, you know, averaging 64 ish
+requests a second, which isn't that bad.
+
+1995
+01:38:31,845 --> 01:38:33,045
+That much.
+
+1996
+01:38:33,805 --> 01:38:34,175
+I don't know.
+
+1997
+01:38:34,205 --> 01:38:34,705
+I guess
+
+1998
+01:38:37,745 --> 01:38:38,305
+that's all.
+
+1999
+01:38:38,335 --> 01:38:39,385
+That's very relative.
+
+2000
+01:38:39,515 --> 01:38:40,535
+It's very subjective.
+
+2001
+01:38:41,355 --> 01:38:42,315
+But what is that many?
+
+2002
+01:38:42,515 --> 01:38:44,494
+I wouldn't expect the service
+to be failing at that if
+
+2003
+01:38:44,495 --> 01:38:45,514
+it's touted as serverless.
+
+2004
+01:38:45,515 --> 01:38:46,605
+I guess.
+
+2005
+01:38:48,305 --> 01:38:49,495
+Yeah, there you go, Andres.
+
+2006
+01:38:50,774 --> 01:38:51,835
+It's a 429.
+
+2007
+01:38:52,625 --> 01:38:53,095
+It is.
+
+2008
+01:38:53,855 --> 01:38:54,415
+I imagine.
+
+2009
+01:38:55,250 --> 01:38:57,390
+But I don't know what f429 is coming from.
+
+2010
+01:38:57,390 --> 01:39:01,010
+Is that coming from the function
+URL or is that coming from Neon?
+
+2011
+01:39:02,020 --> 01:39:06,340
+Because it shouldn't it was coming
+from Neon then I wrapped that in a
+
+2012
+01:39:06,340 --> 01:39:08,070
+500 should have been returning a 500
+
+2013
+01:39:12,600 --> 01:39:16,430
+I guess it's gonna take a
+while to get to Log insights.
+
+2014
+01:39:16,459 --> 01:39:21,830
+I'm still saying just a neon not defined
+Let's take a look at the monitoring
+
+2015
+01:39:21,830 --> 01:39:26,215
+dashboard We capped at 10 connections,
+
+2016
+01:39:28,945 --> 01:39:30,095
+which is, is that a limit?
+
+2017
+01:39:30,095 --> 01:39:30,955
+And like how many we have,
+
+2018
+01:39:31,625 --> 01:39:36,494
+we actually see something, there's
+more of the CPU being used, but
+
+2019
+01:39:36,535 --> 01:39:45,845
+still under the 25, this is still
+at the same and no other peaks.
+
+2020
+01:39:45,845 --> 01:39:46,995
+Let me refresh one more time.
+
+2021
+01:39:54,375 --> 01:39:56,725
+So it doesn't tell me anywhere.
+
+2022
+01:39:56,725 --> 01:39:59,424
+If there's a limit to how many
+concurrent connections you can have.
+
+2023
+01:39:59,480 --> 01:40:04,970
+Uh, as far as the free tier, but it
+seems to me like it's capping it at 10.
+
+2024
+01:40:07,460 --> 01:40:07,810
+Yep.
+
+2025
+01:40:11,680 --> 01:40:12,330
+Interesting.
+
+2026
+01:40:14,099 --> 01:40:20,639
+It's funny that it says idle
+10, but not truly total idle.
+
+2027
+01:40:20,839 --> 01:40:22,030
+None of them show active.
+
+2028
+01:40:22,679 --> 01:40:23,740
+I don't think this is.
+
+2029
+01:40:23,740 --> 01:40:26,960
+Um, yeah, that might
+not be, that might not
+
+2030
+01:40:26,960 --> 01:40:27,500
+be accurate.
+
+2031
+01:40:27,550 --> 01:40:29,420
+And something I just realized just now.
+
+2032
+01:40:30,325 --> 01:40:33,375
+Is we're just testing read capacity.
+
+2033
+01:40:33,385 --> 01:40:35,005
+All we're doing is fetching data.
+
+2034
+01:40:35,035 --> 01:40:38,815
+We're not doing anything with
+inserts or update on data at all.
+
+2035
+01:40:40,515 --> 01:40:42,565
+But yeah, you can see as the test done.
+
+2036
+01:40:43,805 --> 01:40:44,065
+Yeah.
+
+2037
+01:40:44,835 --> 01:40:45,125
+Yeah.
+
+2038
+01:40:45,125 --> 01:40:45,215
+You
+
+2039
+01:40:45,215 --> 01:40:45,925
+can see, cool.
+
+2040
+01:40:45,994 --> 01:40:48,084
+So it was probably the two minutes.
+
+2041
+01:40:49,114 --> 01:40:49,524
+Yeah.
+
+2042
+01:40:51,345 --> 01:40:54,345
+And so we 4, 000.
+
+2043
+01:40:54,645 --> 01:40:58,185
+850, uh, total requests.
+
+2044
+01:40:59,135 --> 01:41:02,895
+So I'm going to guess that
+that 429 or the set of 429.
+
+2045
+01:41:02,905 --> 01:41:04,315
+So let me see the breakdown.
+
+2046
+01:41:04,315 --> 01:41:09,325
+If it has that in postman, um, I'm
+going to guess it doesn't have it.
+
+2047
+01:41:09,755 --> 01:41:12,925
+That those came from the function URL.
+
+2048
+01:41:12,925 --> 01:41:18,572
+Well, it's a gamble and man, I
+think it probably was that like
+
+2049
+01:41:18,572 --> 01:41:22,365
+that might've been Lambda scaling.
+
+2050
+01:41:25,495 --> 01:41:31,215
+I'm not getting much exit error.
+
+2051
+01:41:35,055 --> 01:41:36,365
+Uh,
+
+2052
+01:41:37,775 --> 01:41:38,675
+what are you looking at right now?
+
+2053
+01:41:39,444 --> 01:41:43,795
+Trying to get, uh, errors
+from the cloud insights.
+
+2054
+01:41:44,265 --> 01:41:45,114
+I can put this tab.
+
+2055
+01:41:45,194 --> 01:41:45,664
+Oh, okay.
+
+2056
+01:41:45,665 --> 01:41:46,325
+And you can see it.
+
+2057
+01:41:46,335 --> 01:41:47,775
+So here I, okay.
+
+2058
+01:41:48,305 --> 01:41:49,124
+So, so bright.
+
+2059
+01:41:49,895 --> 01:41:50,475
+Ooh, man.
+
+2060
+01:41:51,065 --> 01:41:52,825
+Is there a dark mode for cloud watch?
+
+2061
+01:41:53,175 --> 01:41:53,635
+Let's see.
+
+2062
+01:41:55,355 --> 01:41:55,685
+There should
+
+2063
+01:41:55,685 --> 01:41:57,264
+be.
+
+2064
+01:41:59,995 --> 01:42:01,445
+I didn't think it was
+specifically CloudWatch.
+
+2065
+01:42:01,445 --> 01:42:03,695
+I thought it was like the whole
+console you could turn into dark mode.
+
+2066
+01:42:05,235 --> 01:42:11,295
+They started doing like one by one and
+then I don't know if they did them all,
+
+2067
+01:42:11,905 --> 01:42:13,995
+but oh well, not while you're here.
+
+2068
+01:42:15,374 --> 01:42:24,314
+So I'm trying to get anything where
+error, run time, exit error, and
+
+2069
+01:42:24,314 --> 01:42:25,804
+this is the neon and not defined.
+
+2070
+01:42:25,834 --> 01:42:26,294
+So
+
+2071
+01:42:30,974 --> 01:42:33,124
+I'm not getting any new ones from.
+
+2072
+01:42:36,720 --> 01:42:39,710
+So we're trying to find something
+closer to our timestamp.
+
+2073
+01:42:41,320 --> 01:42:42,400
+They're not flowing in yet.
+
+2074
+01:42:46,020 --> 01:42:46,310
+Okay.
+
+2075
+01:42:46,310 --> 01:42:49,590
+So in the meantime, while we
+wait for that, cause that's not
+
+2076
+01:42:50,299 --> 01:42:52,899
+fun to watch, uh, I'm going to
+
+2077
+01:42:54,619 --> 01:42:56,030
+check metrics for Lambda.
+
+2078
+01:42:56,089 --> 01:42:56,509
+Okay.
+
+2079
+01:42:56,510 --> 01:42:59,970
+So Sam is saying if the
+Fortune 9 is Lambda.
+
+2080
+01:43:01,400 --> 01:43:04,110
+We won't see them in the logs,
+but we would see them here.
+
+2081
+01:43:05,120 --> 01:43:05,610
+Oh, okay.
+
+2082
+01:43:06,480 --> 01:43:09,120
+So yeah, we got throttle
+83 throttles from Lambda.
+
+2083
+01:43:09,150 --> 01:43:09,620
+So yeah.
+
+2084
+01:43:09,630 --> 01:43:10,500
+Good call, Sam.
+
+2085
+01:43:14,550 --> 01:43:14,950
+Nice.
+
+2086
+01:43:15,250 --> 01:43:19,170
+Well, another thing that we learned
+today, that was very useful.
+
+2087
+01:43:20,319 --> 01:43:20,609
+Yeah.
+
+2088
+01:43:21,790 --> 01:43:22,250
+Nope.
+
+2089
+01:43:23,080 --> 01:43:23,100
+Yeah.
+
+2090
+01:43:23,100 --> 01:43:23,980
+Here are the errors.
+
+2091
+01:43:24,310 --> 01:43:24,610
+Cool.
+
+2092
+01:43:25,730 --> 01:43:26,160
+Okay.
+
+2093
+01:43:26,420 --> 01:43:27,390
+So how about we do this?
+
+2094
+01:43:27,860 --> 01:43:29,820
+Let's test right.
+
+2095
+01:43:30,030 --> 01:43:30,620
+Has to be.
+
+2096
+01:43:31,760 --> 01:43:32,370
+That's fun.
+
+2097
+01:43:33,140 --> 01:43:33,650
+Yeah.
+
+2098
+01:43:34,440 --> 01:43:40,379
+Now I am not going to be brave enough
+to try to create new dinosaurs with
+
+2099
+01:43:40,380 --> 01:43:42,019
+referential integrity and all that.
+
+2100
+01:43:42,019 --> 01:43:44,879
+I, we only have like 15
+minutes left on the stream.
+
+2101
+01:43:45,440 --> 01:43:52,889
+So what we can do instead is I'm going
+to create this post the slash species,
+
+2102
+01:43:53,540 --> 01:43:56,400
+and we're just going to create a new
+one with the value that was passed in.
+
+2103
+01:43:58,190 --> 01:43:58,770
+Sound good.
+
+2104
+01:44:00,340 --> 01:44:00,970
+I like that.
+
+2105
+01:44:02,530 --> 01:44:03,000
+Cool.
+
+2106
+01:44:03,510 --> 01:44:04,210
+And then.
+
+2107
+01:44:07,305 --> 01:44:10,755
+I'd really like it if it had the
+ID, if it came back with the ID.
+
+2108
+01:44:12,265 --> 01:44:15,755
+We'll see, right, with the
+import we provided the ID,
+
+2109
+01:44:15,755 --> 01:44:17,525
+so I haven't done an insert.
+
+2110
+01:44:18,445 --> 01:44:25,305
+I don't know if it's auto incrementing
+that ID for us, you know what I mean?
+
+2111
+01:44:26,014 --> 01:44:31,575
+I do know what you mean, and I also don't
+know, so we'll, we'll try and we'll see.
+
+2112
+01:44:33,185 --> 01:44:33,305
+Is it?
+
+2113
+01:44:35,085 --> 01:44:35,395
+Yeah.
+
+2114
+01:44:36,705 --> 01:44:39,045
+Let's find out why don't you
+actually, you know what, let's just
+
+2115
+01:44:39,045 --> 01:44:41,005
+go right now to the neon console.
+
+2116
+01:44:41,005 --> 01:44:43,645
+Why don't you just run
+that command and we'll see.
+
+2117
+01:44:44,220 --> 01:44:45,150
+Can you send me the command?
+
+2118
+01:44:45,890 --> 01:44:46,850
+If it does that, yeah.
+
+2119
+01:44:47,420 --> 01:44:49,550
+Uh, so I will send you the command.
+
+2120
+01:44:50,200 --> 01:44:51,990
+And you can
+
+2121
+01:44:53,010 --> 01:44:58,950
+I guess it's just Insert into species
+
+2122
+01:45:00,780 --> 01:45:08,320
+And then In parenthesis, species
+name Species underscore name Okay,
+
+2123
+01:45:08,340 --> 01:45:12,280
+I need to species underscore name.
+
+2124
+01:45:12,380 --> 01:45:12,660
+Yep.
+
+2125
+01:45:14,300 --> 01:45:17,230
+Uh, and then after that,
+nope, nope, leave it.
+
+2126
+01:45:18,520 --> 01:45:19,520
+And then values.
+
+2127
+01:45:20,530 --> 01:45:21,840
+Man, I don't remember any of this.
+
+2128
+01:45:22,489 --> 01:45:25,869
+And then in parentheses, uh,
+whatever you want to call it.
+
+2129
+01:45:26,280 --> 01:45:26,770
+Yeah, sure.
+
+2130
+01:45:26,780 --> 01:45:27,470
+We'll call it test.
+
+2131
+01:45:30,990 --> 01:45:31,620
+Uh, sure.
+
+2132
+01:45:34,230 --> 01:45:34,420
+All right.
+
+2133
+01:45:34,420 --> 01:45:34,760
+Let's see.
+
+2134
+01:45:36,420 --> 01:45:36,860
+Okay.
+
+2135
+01:45:37,490 --> 01:45:42,760
+Oh, it does not have that annoying.
+
+2136
+01:45:45,019 --> 01:45:45,299
+Okay.
+
+2137
+01:45:45,470 --> 01:45:47,620
+Then we'll have to modify that with the,
+
+2138
+01:45:50,209 --> 01:45:52,799
+I think it's 310.
+
+2139
+01:45:53,179 --> 01:45:54,719
+Let me check that.
+
+2140
+01:45:55,020 --> 01:45:55,090
+All right.
+
+2141
+01:45:55,200 --> 01:45:56,659
+So we've got species.
+
+2142
+01:45:59,260 --> 01:45:59,530
+Yeah.
+
+2143
+01:46:01,400 --> 01:46:05,800
+SQL editor run one query.
+
+2144
+01:46:07,690 --> 01:46:08,230
+Okay, great.
+
+2145
+01:46:09,025 --> 01:46:14,114
+So, okay,
+
+2146
+01:46:18,575 --> 01:46:22,485
+I'm going to, let me flip back to my,
+to my good real quick, and then we have
+
+2147
+01:46:22,495 --> 01:46:26,815
+that and then we'll do, I guess we'll
+
+2148
+01:46:29,085 --> 01:46:29,895
+do like a loop.
+
+2149
+01:46:29,995 --> 01:46:30,794
+Just do a loop.
+
+2150
+01:46:31,044 --> 01:46:32,504
+I'm just going to do random.
+
+2151
+01:46:33,304 --> 01:46:33,594
+Yeah.
+
+2152
+01:46:33,595 --> 01:46:35,714
+It's, what
+
+2153
+01:46:35,714 --> 01:46:37,834
+is it?
+
+2154
+01:46:41,995 --> 01:46:47,645
+Do you remember, do you remember,
+um, how to use math dot random?
+
+2155
+01:46:48,720 --> 01:46:51,800
+Why don't you let CodePilot
+or CodeWhisperer take it up?
+
+2156
+01:46:53,500 --> 01:46:57,440
+Okay, all right, const
+generatedId equals math.
+
+2157
+01:46:58,460 --> 01:46:59,120
+random.
+
+2158
+01:47:00,269 --> 01:47:01,269
+I really thought I was going to do that.
+
+2159
+01:47:01,340 --> 01:47:02,260
+Okay, that's fine.
+
+2160
+01:47:05,189 --> 01:47:06,100
+It's math.
+
+2161
+01:47:06,530 --> 01:47:09,820
+random, and you can specify range, right?
+
+2162
+01:47:09,820 --> 01:47:16,960
+Yeah, we're just going to say times a
+million, and we're going to hope that
+
+2163
+01:47:16,960 --> 01:47:18,229
+that doesn't collide with anything.
+
+2164
+01:47:20,915 --> 01:47:21,215
+Cool.
+
+2165
+01:47:27,345 --> 01:47:30,455
+When you did that in the console,
+did you pass in an integer?
+
+2166
+01:47:30,835 --> 01:47:31,075
+Right?
+
+2167
+01:47:31,075 --> 01:47:32,145
+It wasn't a string, right?
+
+2168
+01:47:32,415 --> 01:47:32,955
+Yeah, it was an
+
+2169
+01:47:32,965 --> 01:47:33,325
+int.
+
+2170
+01:47:34,004 --> 01:47:34,364
+Okay.
+
+2171
+01:47:37,165 --> 01:47:37,475
+Okay.
+
+2172
+01:47:47,755 --> 01:47:52,674
+Okay, so what we'll do is we
+will skip that out of here
+
+2173
+01:47:52,695 --> 01:47:55,554
+and then inside of postman,
+
+2174
+01:48:01,744 --> 01:48:13,990
+pcs, hosts, body, raw, json, name, Random.
+
+2175
+01:48:15,290 --> 01:48:16,850
+There's usually IntelliSense on this.
+
+2176
+01:48:21,530 --> 01:48:23,110
+Check postman.
+
+2177
+01:48:23,669 --> 01:48:25,520
+Random name or something.
+
+2178
+01:48:25,520 --> 01:48:27,139
+I
+
+2179
+01:48:27,620 --> 01:48:30,249
+think they have something like random
+nonsense that we could probably
+
+2180
+01:48:30,249 --> 01:48:34,230
+use or like random business name.
+
+2181
+01:48:34,990 --> 01:48:36,820
+Dynamic variables GUID.
+
+2182
+01:48:36,830 --> 01:48:38,460
+Random UUID.
+
+2183
+01:48:38,460 --> 01:48:38,770
+Boolean.
+
+2184
+01:48:38,770 --> 01:48:39,930
+Boolean abbreviation.
+
+2185
+01:48:39,980 --> 01:48:40,660
+IP.
+
+2186
+01:48:41,710 --> 01:48:42,460
+Lookout.
+
+2187
+01:48:42,470 --> 01:48:43,290
+Protocol.
+
+2188
+01:48:45,890 --> 01:48:47,850
+Job area, job type.
+
+2189
+01:48:50,030 --> 01:48:51,490
+There's not like random BS.
+
+2190
+01:48:53,050 --> 01:49:00,990
+Business database, domains, files
+and directories, stores, grammar,
+
+2191
+01:49:00,990 --> 01:49:09,480
+randoming, random ing verb,
+random adjective, random word.
+
+2192
+01:49:11,900 --> 01:49:13,770
+Oh, but it's not random enough, honestly.
+
+2193
+01:49:15,880 --> 01:49:16,639
+Random word.
+
+2194
+01:49:18,230 --> 01:49:19,890
+There's random text.
+
+2195
+01:49:23,480 --> 01:49:25,250
+I updated the wrong
+file, I have to redeploy.
+
+2196
+01:49:25,630 --> 01:49:25,990
+It's annoying.
+
+2197
+01:49:31,500 --> 01:49:32,900
+Yeah, there's a random word.
+
+2198
+01:49:33,830 --> 01:49:34,430
+Postman.
+
+2199
+01:49:34,779 --> 01:49:37,460
+Okay, then what's the,
+what's the UUID one?
+
+2200
+01:49:37,460 --> 01:49:38,610
+Let's do that.
+
+2201
+01:49:39,399 --> 01:49:43,430
+UUID is random UUID I'm assuming.
+
+2202
+01:49:43,500 --> 01:49:45,790
+I'm going to search random UUID.
+
+2203
+01:49:45,860 --> 01:49:46,100
+Yeah.
+
+2204
+01:49:47,380 --> 01:49:48,470
+Oh, and I'll pass, right?
+
+2205
+01:49:48,470 --> 01:49:48,899
+Yeah.
+
+2206
+01:49:48,900 --> 01:49:49,180
+Yeah.
+
+2207
+01:49:49,755 --> 01:49:53,445
+Okay, so we'll, we'll save
+that, we'll see if that works.
+
+2208
+01:49:53,455 --> 01:50:01,434
+So we'll be creating a new species, and
+hopefully, it's gonna give us a 200 VEC.
+
+2209
+01:50:01,434 --> 01:50:03,605
+Sorry, I forgot to
+change the status to 201.
+
+2210
+01:50:05,575 --> 01:50:06,835
+Oh, Alan.
+
+2211
+01:50:07,184 --> 01:50:08,005
+You know what I'm gonna do?
+
+2212
+01:50:08,014 --> 01:50:12,655
+While that's deploying, I'm gonna
+change that status to 201, so
+
+2213
+01:50:12,775 --> 01:50:15,755
+you don't, uh, get really mad.
+
+2214
+01:50:17,050 --> 01:50:19,960
+And then next time, when we
+inevitably have to make a change,
+
+2215
+01:50:19,960 --> 01:50:21,540
+that status will be a 201.
+
+2216
+01:50:22,200 --> 01:50:22,850
+Sweet.
+
+2217
+01:50:23,360 --> 01:50:23,720
+Okay.
+
+2218
+01:50:25,679 --> 01:50:26,099
+Ah!
+
+2219
+01:50:27,610 --> 01:50:28,079
+That sucks.
+
+2220
+01:50:28,750 --> 01:50:29,649
+What did we do?
+
+2221
+01:50:34,369 --> 01:50:41,374
+I want to make sure that we actually
+sent Did we actually send a random UUID?
+
+2222
+01:50:45,485 --> 01:50:45,915
+No.
+
+2223
+01:50:46,565 --> 01:50:47,255
+Oh, wait.
+
+2224
+01:50:47,265 --> 01:50:49,865
+These are with Maybe that's
+why I didn't get IntelliSense.
+
+2225
+01:50:50,095 --> 01:50:51,955
+That's why I didn't get IntelliSense.
+
+2226
+01:50:51,965 --> 01:50:53,865
+I was using string interpolation.
+
+2227
+01:50:54,835 --> 01:50:57,315
+But we also got One million is too much.
+
+2228
+01:50:57,365 --> 01:51:00,725
+We got an, uh, integer out of range.
+
+2229
+01:51:00,725 --> 01:51:01,944
+Is
+
+2230
+01:51:05,024 --> 01:51:05,465
+that good?
+
+2231
+01:51:06,354 --> 01:51:07,365
+I guess so.
+
+2232
+01:51:09,685 --> 01:51:11,075
+Can't count zeros that fast.
+
+2233
+01:51:11,075 --> 01:51:11,735
+So let's try it.
+
+2234
+01:51:12,695 --> 01:51:13,525
+One, two, three.
+
+2235
+01:51:13,555 --> 01:51:14,515
+A million is too much.
+
+2236
+01:51:14,515 --> 01:51:16,725
+We Three, two, three, four, five.
+
+2237
+01:51:16,725 --> 01:51:18,945
+I mean, it's not too much
+for integer out of range.
+
+2238
+01:51:19,175 --> 01:51:21,115
+No, no, that, that should work.
+
+2239
+01:51:22,605 --> 01:51:22,885
+Okay.
+
+2240
+01:51:26,525 --> 01:51:31,855
+And on the bright side, you know, I
+probably did that on purpose because now.
+
+2241
+01:51:33,565 --> 01:51:37,644
+It's going to deploy and return the
+201 on create instead of the 200.
+
+2242
+01:51:37,645 --> 01:51:39,695
+I knew that was going to bother you
+and we weren't going to be able to
+
+2243
+01:51:39,785 --> 01:51:46,084
+claim this as a successful test until
+it returned the right status code.
+
+2244
+01:51:47,465 --> 01:51:49,355
+Okay, so that's going to go
+
+2245
+01:51:52,634 --> 01:51:54,175
+I need to just get rid
+of this window, this one.
+
+2246
+01:51:54,425 --> 01:51:55,015
+There we go, okay.
+
+2247
+01:51:58,325 --> 01:52:00,835
+So frustrating to see that
+internal service error.
+
+2248
+01:52:02,795 --> 01:52:04,255
+Will you want to try
+
+2249
+01:52:07,550 --> 01:52:08,500
+Yeah, it's returned the error.
+
+2250
+01:52:10,840 --> 01:52:11,630
+No, it wasn't.
+
+2251
+01:52:11,670 --> 01:52:13,220
+It was neon, right?
+
+2252
+01:52:13,230 --> 01:52:17,909
+Hopefully you have a schema
+validation on your APIs or something.
+
+2253
+01:52:20,320 --> 01:52:20,719
+That's
+
+2254
+01:52:20,719 --> 01:52:21,099
+weird.
+
+2255
+01:52:21,740 --> 01:52:23,410
+That's a good, that's not an integer.
+
+2256
+01:52:23,485 --> 01:52:28,475
+Yeah, now I don't know what to think.
+
+2257
+01:52:28,805 --> 01:52:30,495
+I have no idea what to think now.
+
+2258
+01:52:31,225 --> 01:52:33,164
+Let me look at the neon console.
+
+2259
+01:52:33,164 --> 01:52:34,855
+See what the data looks like.
+
+2260
+01:52:36,735 --> 01:52:37,845
+It was species, right?
+
+2261
+01:52:38,605 --> 01:52:39,065
+Yeah.
+
+2262
+01:52:40,454 --> 01:52:46,885
+Um, assume it's so the species
+name was undefined and we got
+
+2263
+01:52:46,885 --> 01:52:50,265
+5, 2, 4, 4, 4, 9, 3 as the ID
+
+2264
+01:52:50,925 --> 01:52:52,755
+that you're saying we're just passing in.
+
+2265
+01:52:52,755 --> 01:52:52,875
+Okay.
+
+2266
+01:52:53,460 --> 01:52:55,290
+Maybe this is no?
+
+2267
+01:52:57,930 --> 01:53:01,140
+Let me look at the I don't, I don't
+think we're printing the event.
+
+2268
+01:53:06,700 --> 01:53:07,900
+Maybe it's a dollar sign?
+
+2269
+01:53:08,660 --> 01:53:11,420
+Oh, it's yeah, let me check.
+
+2270
+01:53:12,070 --> 01:53:13,940
+This sounds like another skill issue.
+
+2271
+01:53:15,790 --> 01:53:19,160
+It's curly bracket, curly,
+curly bracket, dollar sign.
+
+2272
+01:53:19,250 --> 01:53:19,910
+Yes.
+
+2273
+01:53:20,940 --> 01:53:21,300
+Okay.
+
+2274
+01:53:21,800 --> 01:53:22,850
+Definitely skills.
+
+2275
+01:53:24,850 --> 01:53:25,340
+Thank you.
+
+2276
+01:53:25,880 --> 01:53:26,230
+Thank you.
+
+2277
+01:53:28,060 --> 01:53:28,770
+Hey, I was here.
+
+2278
+01:53:28,770 --> 01:53:29,420
+I didn't catch it.
+
+2279
+01:53:29,430 --> 01:53:32,300
+So I played both of us.
+
+2280
+01:53:33,490 --> 01:53:34,560
+You got an ID though.
+
+2281
+01:53:35,990 --> 01:53:37,190
+We're not doing a null check.
+
+2282
+01:53:37,240 --> 01:53:39,380
+We're not doing a null check
+on the lambda function.
+
+2283
+01:53:40,390 --> 01:53:42,979
+So wait, I'm sorry, did you
+say the ID was an integer?
+
+2284
+01:53:42,990 --> 01:53:44,670
+Did it get parsed to an integer?
+
+2285
+01:53:44,670 --> 01:53:45,560
+Yeah, so the
+
+2286
+01:53:45,610 --> 01:53:47,280
+ID is 524.
+
+2287
+01:53:47,320 --> 01:53:48,750
+It's the first part of that.
+
+2288
+01:53:49,700 --> 01:53:50,090
+Yeah.
+
+2289
+01:53:50,499 --> 01:53:53,060
+And so it didn't error on us
+when we passed that into it.
+
+2290
+01:53:53,110 --> 01:53:53,460
+Okay.
+
+2291
+01:53:53,939 --> 01:53:54,409
+No.
+
+2292
+01:53:54,410 --> 01:53:59,220
+So it actually, I mean, it actually
+saved, but the species name is undefined.
+
+2293
+01:53:59,870 --> 01:54:00,210
+Okay.
+
+2294
+01:54:01,070 --> 01:54:03,380
+So then we'll, we'll update
+this one really quick.
+
+2295
+01:54:04,249 --> 01:54:05,000
+Uh, okay.
+
+2296
+01:54:05,150 --> 01:54:06,060
+Let's send that.
+
+2297
+01:54:07,655 --> 01:54:08,645
+Okay, so we got that.
+
+2298
+01:54:08,655 --> 01:54:10,655
+Let me, let me refresh on my end.
+
+2299
+01:54:12,195 --> 01:54:15,885
+Okay, I'm gonna, I'm gonna
+share your screen real quick.
+
+2300
+01:54:16,655 --> 01:54:17,705
+Oh, I still have mine.
+
+2301
+01:54:18,915 --> 01:54:19,295
+Is it?
+
+2302
+01:54:22,525 --> 01:54:25,075
+But it's still loading, it's putting
+data in there, so we can still test
+
+2303
+01:54:25,075 --> 01:54:29,214
+the, even with our lack of SQL skills.
+
+2304
+01:54:29,734 --> 01:54:30,004
+Of,
+
+2305
+01:54:30,615 --> 01:54:31,154
+of all things.
+
+2306
+01:54:31,244 --> 01:54:36,165
+Well, I, that must be a data issue, or
+like, that's a code issue then, because
+
+2307
+01:54:36,185 --> 01:54:39,955
+it did actually pass, uh, a UUID in there.
+
+2308
+01:54:40,815 --> 01:54:41,095
+Uh,
+
+2309
+01:54:41,385 --> 01:54:46,400
+yeah, nobody, you You don't
+have the post doesn't have a
+
+2310
+01:54:46,400 --> 01:54:48,060
+name and oh, it's in the body.
+
+2311
+01:54:48,060 --> 01:54:49,759
+Oh,
+
+2312
+01:54:51,020 --> 01:54:52,330
+well, honestly, it doesn't matter.
+
+2313
+01:54:52,360 --> 01:54:55,620
+What we want to see is how it handles
+a bunch of rights at the same time.
+
+2314
+01:54:56,140 --> 01:54:57,220
+So let's do that real quick.
+
+2315
+01:54:57,220 --> 01:54:58,790
+And that's probably the
+last thing that we do.
+
+2316
+01:55:00,260 --> 01:55:03,470
+We can do that and then try and
+get nailed down a pulling one.
+
+2317
+01:55:03,500 --> 01:55:04,920
+But if we're out of time, it's fine.
+
+2318
+01:55:06,379 --> 01:55:07,030
+Oh, yeah, we can do that.
+
+2319
+01:55:08,330 --> 01:55:09,220
+All right, let's do this real quick.
+
+2320
+01:55:12,360 --> 01:55:15,760
+All right, postman, break
+it, which is now post.
+
+2321
+01:55:16,650 --> 01:55:18,460
+And we're gonna be passing that in.
+
+2322
+01:55:20,739 --> 01:55:22,190
+Mark says rest purist.
+
+2323
+01:55:22,665 --> 01:55:23,465
+Yeah, that's me.
+
+2324
+01:55:28,035 --> 01:55:29,015
+Okay, runs.
+
+2325
+01:55:29,065 --> 01:55:33,135
+Nope, run performance, uh, fixed.
+
+2326
+01:55:33,415 --> 01:55:36,285
+We'll do 100 again for two minutes.
+
+2327
+01:55:38,935 --> 01:55:39,954
+Let's see what the rides do.
+
+2328
+01:55:40,035 --> 01:55:41,365
+Last one you did a thousand.
+
+2329
+01:55:43,625 --> 01:55:43,955
+No.
+
+2330
+01:55:46,015 --> 01:55:46,385
+Didn't you?
+
+2331
+01:55:46,434 --> 01:55:47,564
+I was pretty sure it was a hundred.
+
+2332
+01:55:48,474 --> 01:55:49,415
+No, I couldn't have been a thousand.
+
+2333
+01:55:50,175 --> 01:55:52,525
+Well, the Lambda function
+executed a thousand times.
+
+2334
+01:55:52,705 --> 01:55:53,255
+Here's the peak.
+
+2335
+01:55:53,515 --> 01:55:56,485
+Let's see what this does.
+
+2336
+01:55:56,875 --> 01:55:58,215
+Let's see if we get a similar result.
+
+2337
+01:55:59,075 --> 01:56:02,075
+And then afterwards, I'm going to
+go back in this recording and watch
+
+2338
+01:56:02,075 --> 01:56:03,089
+it and send it, send the code.
+
+2339
+01:56:03,380 --> 01:56:06,320
+But do you that shows that
+I did a hundred me wrong?
+
+2340
+01:56:07,280 --> 01:56:08,350
+Yeah, I don't know.
+
+2341
+01:56:10,660 --> 01:56:11,000
+Okay.
+
+2342
+01:56:11,000 --> 01:56:13,919
+Let me go back to the neon console
+and I'll keep track of this.
+
+2343
+01:56:14,050 --> 01:56:24,360
+So we started with errors or
+29 we expected is that scaling.
+
+2344
+01:56:25,030 --> 01:56:29,650
+The interesting thing here is Lambda.
+
+2345
+01:56:29,960 --> 01:56:30,890
+Is scaling.
+
+2346
+01:56:32,020 --> 01:56:36,760
+Well, Lambda is preventing us from
+hitting the neon database so much, right?
+
+2347
+01:56:36,760 --> 01:56:38,280
+Because it's taking a while to scale.
+
+2348
+01:56:38,900 --> 01:56:44,360
+So initially neon is fine because
+Lambda is not scaling as fast, but once
+
+2349
+01:56:44,360 --> 01:56:50,950
+Lambda is up, up to scale, would it,
+would now neon be the one that fails?
+
+2350
+01:56:53,839 --> 01:56:54,250
+I don't know.
+
+2351
+01:56:55,240 --> 01:56:58,840
+So this is much, much faster
+than the get, which makes sense.
+
+2352
+01:57:01,835 --> 01:57:04,925
+We're also reusing the connection again,
+I forgot to declare that every time.
+
+2353
+01:57:04,925 --> 01:57:06,316
+I forgot that we had practice.
+
+2354
+01:57:06,316 --> 01:57:07,244
+Oh yeah, I got
+
+2355
+01:57:07,925 --> 01:57:09,045
+8 connections.
+
+2356
+01:57:09,945 --> 01:57:15,434
+Still kind of capping at 10, so it
+feels like we're still Connection
+
+2357
+01:57:15,434 --> 01:57:16,935
+count just went to the bottom.
+
+2358
+01:57:19,475 --> 01:57:20,235
+Did we kill it?
+
+2359
+01:57:21,755 --> 01:57:22,565
+No, it's still going.
+
+2360
+01:57:22,574 --> 01:57:25,385
+It says it has a decent
+amount of time left.
+
+2361
+01:57:25,934 --> 01:57:26,895
+Okay, now it's back up.
+
+2362
+01:57:26,905 --> 01:57:27,475
+Fast.
+
+2363
+01:57:28,265 --> 01:57:28,965
+Real fast.
+
+2364
+01:57:29,730 --> 01:57:30,450
+Do all these inserts.
+
+2365
+01:57:30,450 --> 01:57:30,470
+Woo!
+
+2366
+01:57:30,860 --> 01:57:31,380
+Rose!
+
+2367
+01:57:31,380 --> 01:57:33,940
+Rose spiked in my graph
+if you want to show.
+
+2368
+01:57:36,220 --> 01:57:37,190
+So here's Rose.
+
+2369
+01:57:37,240 --> 01:57:39,060
+We have 2, 910.
+
+2370
+01:57:39,900 --> 01:57:47,149
+Yeah, we've just added 8, 500 species.
+
+2371
+01:57:47,160 --> 01:57:49,869
+Probably all undefined names,
+but just with different IDs.
+
+2372
+01:57:51,060 --> 01:57:53,500
+And let's see the RAM CPU.
+
+2373
+01:57:53,520 --> 01:57:56,460
+This is spiking up a little
+bit too, but not concerning.
+
+2374
+01:58:02,040 --> 01:58:02,830
+I see Mark.
+
+2375
+01:58:03,369 --> 01:58:03,929
+Yes.
+
+2376
+01:58:04,760 --> 01:58:08,790
+Usually I try to hide the 500s and
+return a 200 with the status code.
+
+2377
+01:58:09,005 --> 01:58:11,284
+Um,
+
+2378
+01:58:12,325 --> 01:58:14,915
+I just returned a 400 and
+say, it was probably you.
+
+2379
+01:58:18,215 --> 01:58:21,645
+There should be like a question
+mark, uh, status codes.
+
+2380
+01:58:21,645 --> 01:58:23,185
+Like who was it?
+
+2381
+01:58:23,364 --> 01:58:23,874
+We don't know.
+
+2382
+01:58:25,445 --> 01:58:31,924
+So we're at 5, 000, but everything's
+hopefully in the future.
+
+2383
+01:58:31,925 --> 01:58:35,075
+There's like the, I want to see
+kind of like the Lambda monitoring
+
+2384
+01:58:35,075 --> 01:58:37,665
+where you see throttles and stuff,
+because I don't know if we're actually
+
+2385
+01:58:37,665 --> 01:58:38,905
+going to get throttled or not.
+
+2386
+01:58:39,015 --> 01:58:39,205
+Right.
+
+2387
+01:58:39,205 --> 01:58:40,145
+And I don't know.
+
+2388
+01:58:41,255 --> 01:58:42,575
+He has a spike, probably the max.
+
+2389
+01:58:42,575 --> 01:58:42,705
+Okay.
+
+2390
+01:58:47,215 --> 01:58:49,555
+It's winding down as
+far as connections go.
+
+2391
+01:58:49,555 --> 01:58:50,425
+5, 000.
+
+2392
+01:58:59,575 --> 01:58:59,995
+Is it done?
+
+2393
+01:58:59,995 --> 01:59:01,095
+It handled it really well.
+
+2394
+01:59:01,955 --> 01:59:05,684
+Now granted, it was a rea those were
+really small rows that we were adding.
+
+2395
+01:59:06,715 --> 01:59:07,235
+Yeah.
+
+2396
+01:59:08,425 --> 01:59:08,884
+We're just testing.
+
+2397
+01:59:08,885 --> 01:59:10,555
+But it did, it did handle that.
+
+2398
+01:59:10,555 --> 01:59:11,175
+What were we sending?
+
+2399
+01:59:11,195 --> 01:59:14,904
+We were sending 76 requests
+a second on that write.
+
+2400
+01:59:16,335 --> 01:59:20,545
+I think these, this graph malfunctions
+every now and then, and it shows zero,
+
+2401
+01:59:20,545 --> 01:59:23,620
+it's like I'm like, did it finally die?
+
+2402
+01:59:23,640 --> 01:59:25,730
+And no, I think it handled it well.
+
+2403
+01:59:32,020 --> 01:59:34,320
+Yeah, so the, no new records coming in.
+
+2404
+01:59:38,230 --> 01:59:39,430
+What do you want to do next, Alan?
+
+2405
+01:59:39,480 --> 01:59:42,290
+Do you want to try the, I
+guess we're at two hours now.
+
+2406
+01:59:42,299 --> 01:59:42,440
+Nah, we
+
+2407
+01:59:42,440 --> 01:59:43,430
+gotta, we gotta wrap.
+
+2408
+01:59:44,170 --> 01:59:44,480
+Yeah.
+
+2409
+01:59:44,960 --> 01:59:47,050
+We are, we are at time.
+
+2410
+01:59:47,050 --> 01:59:50,270
+So that was, I think it did really well.
+
+2411
+01:59:50,759 --> 01:59:50,919
+It did.
+
+2412
+01:59:50,919 --> 01:59:53,300
+All things considered,
+like actually using it.
+
+2413
+01:59:54,015 --> 01:59:57,055
+And now granted, we were
+not writing production code.
+
+2414
+01:59:57,085 --> 02:00:02,245
+We weren't even pretending to write
+production code, but as far as like
+
+2415
+02:00:02,255 --> 02:00:07,124
+Lambda is concerned, I really think the
+implementation, maybe we just shoved
+
+2416
+02:00:07,124 --> 02:00:08,634
+that connection string in a secret.
+
+2417
+02:00:09,715 --> 02:00:10,025
+Yeah.
+
+2418
+02:00:10,875 --> 02:00:11,105
+Yeah.
+
+2419
+02:00:11,105 --> 02:00:14,025
+Cause it's giving you everything
+and it's giving you, it's
+
+2420
+02:00:14,035 --> 02:00:15,865
+giving it to you, protect it.
+
+2421
+02:00:15,895 --> 02:00:18,635
+So now you can abstract it secrets.
+
+2422
+02:00:18,815 --> 02:00:19,915
+That's a set for Ram.
+
+2423
+02:00:20,255 --> 02:00:26,355
+Even environment variable if you want
+but that's it to get it into a lambda.
+
+2424
+02:00:26,485 --> 02:00:27,195
+So that's nice.
+
+2425
+02:00:28,265 --> 02:00:35,065
+I agree I I agree and so, you know
+the trade off there Well, that is much
+
+2426
+02:00:35,065 --> 02:00:39,754
+nicer We're gonna say that I've never
+used Aurora But I do know that Aurora
+
+2427
+02:00:39,755 --> 02:00:44,200
+requires a VPC around that lambda
+function to connect to it And that was
+
+2428
+02:00:44,200 --> 02:00:46,110
+a lot easier than setting up a VPC.
+
+2429
+02:00:46,690 --> 02:00:48,530
+So, you know, big fan of that.
+
+2430
+02:00:48,920 --> 02:00:51,060
+Um, it seemed to scale okay.
+
+2431
+02:00:51,070 --> 02:00:54,960
+At least the apps that you and I wrote
+together in years past, we never really
+
+2432
+02:00:54,960 --> 02:00:57,760
+got to 76 requests a second every second.
+
+2433
+02:00:58,490 --> 02:00:59,949
+And we might have peaked past that.
+
+2434
+02:00:59,950 --> 02:01:03,100
+But, you know, uh, on
+average, it was okay.
+
+2435
+02:01:03,820 --> 02:01:12,100
+Um, I, the, I can't, I still can't
+in my heart say that I feel like
+
+2436
+02:01:12,100 --> 02:01:16,415
+it's truly serverless given the
+The way that it's priced and the
+
+2437
+02:01:16,415 --> 02:01:17,745
+rate, the way that it's billed.
+
+2438
+02:01:18,425 --> 02:01:19,945
+Um, but if
+
+2439
+02:01:19,945 --> 02:01:23,705
+you're currently managing a
+database, it's managing more
+
+2440
+02:01:23,735 --> 02:01:25,195
+than what you're used to, right?
+
+2441
+02:01:25,414 --> 02:01:25,704
+Yeah.
+
+2442
+02:01:25,704 --> 02:01:32,064
+And again, the VPC part and all that
+stuff, it's like back to, it's maybe
+
+2443
+02:01:32,065 --> 02:01:36,054
+serverless is strong of a word there, but
+like the open search debacle, it's like,
+
+2444
+02:01:36,054 --> 02:01:40,965
+it's still better, it's still handling
+more, but it's still not full serverless.
+
+2445
+02:01:42,080 --> 02:01:43,030
+It's more managed.
+
+2446
+02:01:43,160 --> 02:01:43,920
+It's what I call those
+
+2447
+02:01:44,940 --> 02:01:45,610
+more managed.
+
+2448
+02:01:45,630 --> 02:01:47,880
+Yeah, that's, that's a
+fair, fair assessment.
+
+2449
+02:01:47,910 --> 02:01:51,780
+You know, I want to see, I want to,
+I want to mess around with it more.
+
+2450
+02:01:51,790 --> 02:01:55,159
+We probably won't do it on the show, but
+I want to mess around with it more and
+
+2451
+02:01:55,159 --> 02:01:59,880
+work with it in a way that's not prone
+to SQL injection attacks, uh, where I'm
+
+2452
+02:01:59,880 --> 02:02:03,690
+not just writing the SQL command and then
+just doing string interpolation of the
+
+2453
+02:02:03,700 --> 02:02:05,260
+things that came in off a query parameter.
+
+2454
+02:02:06,005 --> 02:02:07,715
+Uh, for obvious reasons, right?
+
+2455
+02:02:08,245 --> 02:02:11,075
+Um, I do want to see like
+the right way to do it.
+
+2456
+02:02:11,835 --> 02:02:12,515
+Uh, but
+
+2457
+02:02:12,555 --> 02:02:16,184
+probably, probably stamp some
+observability on top of it and get
+
+2458
+02:02:16,184 --> 02:02:22,284
+the real metrics, uh, around every
+piece of this to see how much truly
+
+2459
+02:02:22,284 --> 02:02:26,545
+is neon versus Lambda cold start
+versus if it's hot, right, just
+
+2460
+02:02:26,755 --> 02:02:28,065
+getting those metrics would be good.
+
+2461
+02:02:30,065 --> 02:02:33,185
+And one of the things that we didn't
+really mess around with, and I don't
+
+2462
+02:02:33,185 --> 02:02:36,554
+even know if it was a thing was the.
+
+2463
+02:02:37,665 --> 02:02:38,885
+access management.
+
+2464
+02:02:39,355 --> 02:02:43,355
+Like, I don't know if we can generate
+different connection strings that
+
+2465
+02:02:43,385 --> 02:02:47,425
+are read only versus write only.
+
+2466
+02:02:48,045 --> 02:02:48,705
+There are roles.
+
+2467
+02:02:49,035 --> 02:02:50,425
+So there is, there is a role.
+
+2468
+02:02:51,035 --> 02:02:59,135
+There are, there is a role portion where
+it's just, I'm trying one route right now.
+
+2469
+02:02:59,304 --> 02:03:02,814
+So just to close that loop, it
+gives you a different password.
+
+2470
+02:03:03,794 --> 02:03:06,734
+Um, and you can download
+it, but it doesn't seem to.
+
+2471
+02:03:07,870 --> 02:03:13,440
+It doesn't seem to give you like
+permissions, just read only versus right.
+
+2472
+02:03:14,470 --> 02:03:15,200
+Um,
+
+2473
+02:03:16,250 --> 02:03:17,290
+it'll probably get there.
+
+2474
+02:03:17,850 --> 02:03:18,290
+Yeah.
+
+2475
+02:03:19,780 --> 02:03:21,369
+Something to take, take a look at.
+
+2476
+02:03:22,009 --> 02:03:22,379
+Yeah.
+
+2477
+02:03:23,770 --> 02:03:28,140
+So overall, would you give it a
+thumbs up or a thumbs down for
+
+2478
+02:03:28,140 --> 02:03:30,329
+the service neon in general?
+
+2479
+02:03:30,340 --> 02:03:31,580
+I, I like it.
+
+2480
+02:03:31,590 --> 02:03:32,390
+It was simple.
+
+2481
+02:03:32,450 --> 02:03:36,710
+You know, I've been out of the relational
+world for a while and sequel and all that.
+
+2482
+02:03:36,710 --> 02:03:38,350
+And then we were able to get.
+
+2483
+02:03:38,965 --> 02:03:40,765
+Up to speed pretty quickly.
+
+2484
+02:03:41,515 --> 02:03:45,505
+Um, and it's all managed for me so I
+can easily, if I wanted to create an app
+
+2485
+02:03:45,685 --> 02:03:47,955
+that uses this, I wouldn't be scared.
+
+2486
+02:03:50,455 --> 02:03:50,875
+Me neither,
+
+2487
+02:03:52,055 --> 02:03:55,625
+which I don't know how I feel
+about myself saying that.
+
+2488
+02:03:56,055 --> 02:03:59,195
+You know, I've just been no
+sequel for, you know, since like
+
+2489
+02:03:59,625 --> 02:04:00,575
+2018 or something like that.
+
+2490
+02:04:01,075 --> 02:04:01,265
+Yeah.
+
+2491
+02:04:01,325 --> 02:04:05,085
+Uh, but it's, it's good to
+know that the tooling and the
+
+2492
+02:04:05,085 --> 02:04:06,984
+services that are available today,
+
+2493
+02:04:09,064 --> 02:04:14,265
+It seems to have a lot of integrations and
+there's a lot of good stuff that can come
+
+2494
+02:04:14,265 --> 02:04:16,255
+out of, for the CI CD pipelines, right?
+
+2495
+02:04:16,255 --> 02:04:19,345
+As we mentioned, you can
+branch out the branching thing.
+
+2496
+02:04:19,355 --> 02:04:19,605
+That's.
+
+2497
+02:04:20,195 --> 02:04:20,945
+Mind blowing for me.
+
+2498
+02:04:20,945 --> 02:04:25,150
+That just seems, I never thought
+about that, but that's pretty
+
+2499
+02:04:25,150 --> 02:04:25,734
+cool.
+
+2500
+02:04:26,015 --> 02:04:26,875
+It is cool.
+
+2501
+02:04:26,905 --> 02:04:27,335
+It is cool.
+
+2502
+02:04:27,335 --> 02:04:30,754
+Somebody said in, in the comments in
+the beginning, when we were fangirling
+
+2503
+02:04:30,754 --> 02:04:32,905
+over it is that it's a snapshot.
+
+2504
+02:04:34,085 --> 02:04:34,955
+That's all it is.
+
+2505
+02:04:35,594 --> 02:04:38,265
+Uh, and I mean, that's
+not, that's not wrong.
+
+2506
+02:04:38,265 --> 02:04:41,595
+It's branded in a much cooler way, which
+made me as a developer, like, yeah,
+
+2507
+02:04:41,745 --> 02:04:42,285
+sweet.
+
+2508
+02:04:42,325 --> 02:04:46,405
+Well, I think it, it's mostly a user
+experience on top of that then, right?
+
+2509
+02:04:46,405 --> 02:04:47,345
+It's, it feels.
+
+2510
+02:04:48,320 --> 02:04:51,750
+Just something that's not foreign to
+me because I use GitHub every day.
+
+2511
+02:04:52,130 --> 02:04:56,399
+I know how to branch my expectations
+from that branch are different
+
+2512
+02:04:56,430 --> 02:04:57,740
+because of GitHub, right?
+
+2513
+02:04:57,770 --> 02:05:01,430
+I was expecting to be able to merge
+that branch that it doesn't go that far.
+
+2514
+02:05:02,500 --> 02:05:04,710
+I guess that's why they say one
+of the two hardest problems in
+
+2515
+02:05:04,710 --> 02:05:06,289
+computer science is naming things.
+
+2516
+02:05:07,299 --> 02:05:09,530
+If you name it the wrong thing,
+then it's like, Oh, it's just.
+
+2517
+02:05:09,630 --> 02:05:11,290
+Snapshot, but name it a branch.
+
+2518
+02:05:11,290 --> 02:05:12,640
+And it's like, Oh, I'm all over that.
+
+2519
+02:05:13,010 --> 02:05:13,400
+Yes.
+
+2520
+02:05:16,180 --> 02:05:16,910
+Okay, cool.
+
+2521
+02:05:16,950 --> 02:05:18,940
+Oh, thank you everybody
+for hanging around.
+
+2522
+02:05:19,320 --> 02:05:21,490
+Uh, this has been, I, I learned a ton.
+
+2523
+02:05:21,510 --> 02:05:23,869
+It's super fun.
+
+2524
+02:05:23,980 --> 02:05:27,170
+A thumbs up for me, for Neon
+and Postgres in general.
+
+2525
+02:05:27,170 --> 02:05:28,199
+I did like that.
+
+2526
+02:05:29,080 --> 02:05:29,620
+That was nice.
+
+2527
+02:05:30,480 --> 02:05:33,040
+Uh, yeah, yes, thumbs, thumbs up.
+
+2528
+02:05:34,080 --> 02:05:34,960
+Alright, cool.
+
+2529
+02:05:34,980 --> 02:05:36,130
+Well, we'll see you guys next week.
+
+2530
+02:05:36,130 --> 02:05:39,140
+Andres and I are gonna do this
+pretty much every Friday, same time.
+
+2531
+02:05:39,250 --> 02:05:44,249
+Uh, one, one o'clock
+central, six o'clock p.
+
+2532
+02:05:44,250 --> 02:05:44,560
+m.
+
+2533
+02:05:45,029 --> 02:05:45,699
+UTC.
+
+2534
+02:05:46,919 --> 02:05:48,479
+Uh, and I think, what
+are we doing next week?
+
+2535
+02:05:48,489 --> 02:05:50,579
+Next week, we're working
+with step functions.
+
+2536
+02:05:50,870 --> 02:05:53,820
+And we're going to be building
+a summer vacation planner.
+
+2537
+02:05:53,820 --> 02:05:58,570
+So we'll fill out a Google form and then
+we'll expect an email, uh, very shortly
+
+2538
+02:05:58,580 --> 02:06:02,289
+after that, that's going to give us our
+itinerary, how much it's going to cost all
+
+2539
+02:06:02,290 --> 02:06:07,570
+that, all that fun stuff using generative
+AI, step function, the HTTP integrations,
+
+2540
+02:06:07,580 --> 02:06:09,079
+all that, all that fun stuff.
+
+2541
+02:06:09,170 --> 02:06:09,740
+I think that'll be good.
+
+2542
+02:06:11,180 --> 02:06:12,220
+All right, cool.
+
+2543
+02:06:12,260 --> 02:06:13,860
+So until then, everybody
+have a good weekend.
+
+2544
+02:06:13,870 --> 02:06:19,000
+Thank you for, uh, Europeans who are
+watching us late on a Friday night.
+
+2545
+02:06:19,730 --> 02:06:22,310
+Or probably really fun to watch
+if you've been drinking, honestly.
+
+2546
+02:06:22,750 --> 02:06:25,400
+Um, but anyway, Thank you.
+
+2547
+02:06:25,420 --> 02:06:25,930
+Thank you.
+
+2548
+02:06:25,970 --> 02:06:29,170
+Uh shout out special to uh,
+serverless guru for letting us
+
+2549
+02:06:29,170 --> 02:06:30,850
+use their dreamyard account.
+
+2550
+02:06:30,860 --> 02:06:33,969
+Appreciate that Uh new sponsor
+of believe in serverless.
+
+2551
+02:06:33,980 --> 02:06:34,880
+So we appreciate you.
+
+2552
+02:06:34,880 --> 02:06:36,719
+Jonathan's been behind
+the scenes the whole time.
+
+2553
+02:06:36,719 --> 02:06:41,065
+You can't see him Me saying his name
+was my attempt to draw him out, but
+
+2554
+02:06:41,065 --> 02:06:42,325
+it doesn't look like that's working.
+
+2555
+02:06:43,245 --> 02:06:44,715
+So, uh, there he is.
+
+2556
+02:06:45,325 --> 02:06:45,975
+There he is.
+
+2557
+02:06:45,975 --> 02:06:47,304
+Yeah,
+
+2558
+02:06:47,305 --> 02:06:47,795
+of course.
+
+2559
+02:06:47,825 --> 02:06:53,825
+I even went to make sure I got my,
+my stole this from my girlfriend.
+
+2560
+02:06:53,865 --> 02:06:55,464
+So, you know, it doesn't even fit me.
+
+2561
+02:06:55,465 --> 02:06:56,544
+I'm not even gonna show
+you the rest of it.
+
+2562
+02:06:56,545 --> 02:06:57,594
+That's like way too tight.
+
+2563
+02:07:01,784 --> 02:07:05,334
+Yeah, I didn't have to mention that,
+but you know, now that we're here.
+
+2564
+02:07:05,675 --> 02:07:05,865
+Yeah.
+
+2565
+02:07:06,235 --> 02:07:06,555
+Yeah.
+
+2566
+02:07:06,795 --> 02:07:07,025
+Yeah.
+
+2567
+02:07:07,025 --> 02:07:08,115
+Thanks a lot, Jonathan.
+
+2568
+02:07:08,275 --> 02:07:08,995
+Of course.
+
+2569
+02:07:09,525 --> 02:07:11,775
+I think it's our first successful one.
+
+2570
+02:07:11,785 --> 02:07:12,285
+We'll see.
+
+2571
+02:07:13,395 --> 02:07:13,645
+Yes.
+
+2572
+02:07:13,895 --> 02:07:14,765
+Very successful.
+
+2573
+02:07:15,475 --> 02:07:15,845
+That's awesome.
+
+2574
+02:07:15,855 --> 02:07:17,165
+I'm looking forward to the next one, guys.
+
+2575
+02:07:17,175 --> 02:07:17,624
+Thank you.
+
+2576
+02:07:18,295 --> 02:07:18,574
+All right.
+
+2577
+02:07:18,575 --> 02:07:18,815
+Yep.
+
+2578
+02:07:18,825 --> 02:07:19,415
+Thank you.
+
+2579
+02:07:19,495 --> 02:07:19,915
+All right.
+
+2580
+02:07:19,995 --> 02:07:20,765
+Until next week.
+
+2581
+02:07:20,915 --> 02:07:21,435
+See you guys.
+
+2582
+02:07:21,955 --> 02:07:22,364
+See ya.
+
+2583
+02:07:22,805 --> 02:07:23,465
+Adios.
+
+2584
+02:07:23,524 --> 02:07:23,884
+Bye.
+

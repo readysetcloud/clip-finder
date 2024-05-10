@@ -1,0 +1,15 @@
+{
+  "name": "clip-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "anthropic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.20.8",
+    "dotenv": "^16.4.5"
+  }
+}

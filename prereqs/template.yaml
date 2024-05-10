@@ -1,0 +1,63 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  Resources necessary for running the app
+
+Parameters:
+  Connection:
+    Type: String
+
+Resources:
+  TestTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: gopher-holes-app-runner
+      AttributeDefinitions:
+        - AttributeName: pk
+          AttributeType: S
+        - AttributeName: sk
+          AttributeType: S
+      KeySchema:
+        - AttributeName: pk
+          KeyType: HASH
+        - AttributeName: sk
+          KeyType: RANGE
+      BillingMode: PAY_PER_REQUEST
+
+  AppRunnerRole:
+    Type: AWS::IAM::Role
+    Properties:
+      AssumeRolePolicyDocument:
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service: ['tasks.apprunner.amazonaws.com']
+            Action: ['sts:AssumeRole']
+      Path: /
+      Policies:
+        - PolicyName: ClipFinderAppRunnerRole
+          PolicyDocument:
+            Statement:
+            - Effect: Allow
+              Action:
+                - dynamodb:GetItem
+                - dynamodb:PutItem
+              Resource:
+                - !GetAtt TestTable.Arn
+
+  AppRunnerService:
+    Type: AWS::AppRunner::Service
+    Properties:
+      SourceConfiguration:
+        AuthenticationConfiguration:
+          ConnectionArn: !Ref Connection
+        AutoDeploymentsEnabled: false
+        CodeRepository:
+          CodeConfiguration:
+            ConfigurationSource: REPOSITORY
+          RepositoryUrl: https://github.com/allenheltondev/app-runner-example
+          SourceCodeVersion:
+            Type: BRANCH
+            Value: main
+      InstanceConfiguration:
+        InstanceRoleArn: !GetAtt AppRunnerRole.Arn
