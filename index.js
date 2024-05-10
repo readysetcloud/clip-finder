@@ -17,7 +17,6 @@ app.post('/videos', async (req, res) => {
     const { url: videoUrl } = req.body;
 
     const videoInfo = await ytdl.getInfo(videoUrl);
-    // make the title safe for an s3 file name
     if (!videoInfo) {
       return res.status(404).send('Invalid video URL');
     }
@@ -28,6 +27,15 @@ app.post('/videos', async (req, res) => {
   } catch (err) {
     console.error('Error:', err);
     res.status(500).send('Something went wrong');
+  }
+});
+
+app.get('/clips', async (req, res) => {
+  // get url from query param
+  const { url: videoUrl } = req.query.url;
+  const videoInfo = await ytdl.getInfo(videoUrl);
+  if (!videoInfo) {
+    return res.status(404).send('Invalid video URL');
   }
 });
 
@@ -50,9 +58,9 @@ async function download(videoUrl, info) {
     }
   });
 
-stream.on('error', (err) => {
-  console.error('Error downloading video:', err);
-});
+  stream.on('error', (err) => {
+    console.error('Error downloading video:', err);
+  });
 }
 
 async function uploadToS3(fileName) {

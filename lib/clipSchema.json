@@ -1,0 +1,29 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Test Stream",
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "Clip title"
+    },
+    "description": {
+      "type": "string",
+      "description": "The description of the contents of the clip"
+    },
+    "startTimeSeconds": {
+      "type": "number",
+      "description": "The start time of the clip in seconds"
+    },
+    "duration": {
+      "type": "number",
+      "description": "The duration of the clip in seconds"
+    }
+  },
+  "required": [
+    "title",
+    "description",
+    "startTimeSeconds",
+    "duration"
+  ]
+}

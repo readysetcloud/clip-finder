@@ -13,7 +13,4 @@ run:
     - name: BUCKET_NAME
       value: clip-finder-clipfinderbucket-0lxm2i1htoed
     - name: ANTHROPIC_API_KEY
-      valueFrom:
-        ssm:
-          name: /clip-finder/anthropic
-          version: 1
+      value-from: arn:aws:ssm:us-east-1:533267431571:parameter/clip-finder/anthropic
