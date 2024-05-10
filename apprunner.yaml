@@ -10,5 +10,10 @@ run:
     port: 8000
     env: MY_APP_PORT
   env:
-    - name: TABLE_NAME
-      value: gopher-holes-app-runner
+    - name: BUCKET_NAME
+      value: clip-finder-clipfinderbucket-0lxm2i1htoed
+    - name: ANTHROPIC_API_KEY
+      valueFrom:
+        ssm:
+          name: /clip-finder/anthropic
+          version: 1

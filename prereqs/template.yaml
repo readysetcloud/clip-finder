@@ -41,6 +41,28 @@ Resources:
                 - transcribe:ListTranscriptionJobs
               Resource: '*'
 
+  TranscribeRole:
+    Type: AWS::IAM::Role
+    Properties:
+      AssumeRolePolicyDocument:
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service: ['transcribe.amazonaws.com']
+            Action: ['sts:AssumeRole']
+      Path: /
+      Policies:
+        - PolicyName: ClipFinderAppRunnerRole
+          PolicyDocument:
+            Statement:
+            - Effect: Allow
+              Action:
+                - s3:GetObject
+                - s3:PutObject
+                - s3:ListBucket
+              Resource:
+                - !Sub ${ClipFinderBucket.Arn}/*
+
   AppRunnerService:
     Type: AWS::AppRunner::Service
     Properties:
