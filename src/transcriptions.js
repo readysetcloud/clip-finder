@@ -12,7 +12,7 @@ const start = async (fileId, taskToken) => {
     console.log(`Begin transcribing: ${fileId}`);
 
     await transcribe.send(new StartTranscriptionJobCommand({
-      TranscriptionJobName: fileId,
+      TranscriptionJobName: `${fileId}-${new Date().toISOString()}`,
       LanguageCode: 'en-US',
       MediaFormat: 'mp4',
       Media: {
