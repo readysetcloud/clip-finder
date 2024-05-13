@@ -1,6 +1,7 @@
 const { TranscribeClient, StartTranscriptionJobCommand, GetTranscriptionJobCommand, OutputLocationType } = require('@aws-sdk/client-transcribe');
 const { SFNClient, SendTaskSuccessCommand } = require('@aws-sdk/client-sfn');
 const { FileManager } = require('./file-manager');
+const ULID = require('ulid');
 
 const transcribe = new TranscribeClient();
 const sfn = new SFNClient();
@@ -12,7 +13,7 @@ const start = async (fileId, taskToken) => {
     console.log(`Begin transcribing: ${fileId}`);
 
     await transcribe.send(new StartTranscriptionJobCommand({
-      TranscriptionJobName: `${fileId}-${new Date().toISOString()}`,
+      TranscriptionJobName: `${fileId}_${ULID.ulid()}`,
       LanguageCode: 'en-US',
       MediaFormat: 'mp4',
       Media: {
