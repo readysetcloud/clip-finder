@@ -63,7 +63,7 @@ const get = async (fileId) => {
     return srtFilename;
 };
 
-const getTranscriptionFilename = () => {
+const getTranscriptionFilename = (fileId) => {
   return fileId.replace('.mp4', '.srt');
 };
 
