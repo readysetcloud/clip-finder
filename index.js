@@ -42,6 +42,9 @@ app.post('/videos', async (req, res) => {
         response.status = 'Completed';
         response.transcription = { location: transcriptionFile };
       }
+      else {
+        Transcriptions.start(fileId);
+      }
 
       res.status(200).json(response);
     } else {

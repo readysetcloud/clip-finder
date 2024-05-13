@@ -32,8 +32,12 @@ Resources:
                 - s3:GetObject
                 - s3:PutObject
               Resource:
-                - !GetAtt ClipFinderBucket.Arn
                 - !Sub ${ClipFinderBucket.Arn}/*
+            - Effect: Allow
+              Action:
+                - s3:ListBucket
+              Resource:
+                - !GetAtt ClipFinderBucket.Arn
             - Effect: Allow
               Action:
                 - transcribe:GetTranscriptionJob
