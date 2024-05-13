@@ -36,10 +36,13 @@ Resources:
                 - !Sub ${ClipFinderBucket.Arn}/*
             - Effect: Allow
               Action:
-                - transcribe:CreateTranscriptionJob
                 - transcribe:GetTranscriptionJob
                 - transcribe:ListTranscriptionJobs
               Resource: '*'
+            - Effect: Allow
+              Action:
+                - transcribe:StartTranscriptionJob
+              Resource: !Sub arn:${AWS::Partition}:transcribe:${AWS::Region}:${AWS::AccountId}:transcription-job/*
 
   TranscribeRole:
     Type: AWS::IAM::Role
@@ -79,4 +82,44 @@ Resources:
             Value: main
       InstanceConfiguration:
         InstanceRoleArn: !GetAtt AppRunnerRole.Arn
+
+  DoTheRestOfItFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: ../functions/generate-email
+      Handler: index.handler
+      Timeout: 300
+      MemorySize: 1024
+      Runtime: nodejs20.x
+      Architectures:
+        - arm64
+      Policies:
+        - AWSLambdaBasicExecutionRole
+        - Version: 2012-10-17
+          Statement:
+            - Effect: Allow
+              Action: bedrock:InvokeModel
+              Resource: '*'
+            - Effect: Allow
+              Action: s3:GetObject
+              Resource: !Sub ${ClipFinderBucket.Arn}/*
+            - Effect: Allow
+              Action: events:PutEvents
+              Resource: !Sub arn:${AWS::Partition}:events:${AWS::Region}:${AWS::AccountId}:event-bus/default
+      Environment:
+        Variables:
+          AWS_NODEJS_CONNECTION_REUSE_ENABLED: 1
+          BUCKET_NAME: !Ref ClipFinderBucket
+      Events:
+        TranscriptionSuccessful:
+          Type: EventBridgeRule
+          Properties:
+            Pattern:
+              source:
+                - aws.transcribe
+              detail-type:
+                - Transcribe Job State Change
+              detail:
+                TranscriptionJobStatus:
+                  - COMPLETED
 
