@@ -12,6 +12,7 @@ const start = async (fileId, taskToken) => {
   try {
     console.log(`Begin transcribing: ${fileId}`);
 
+    const srtFilename = getTranscriptionFilename(fileId);
     await transcribe.send(new StartTranscriptionJobCommand({
       TranscriptionJobName: `${fileId}_${ULID.ulid()}`,
       LanguageCode: 'en-US',
@@ -23,7 +24,7 @@ const start = async (fileId, taskToken) => {
         Formats: ['srt']
       },
       OutputBucketName: process.env.BUCKET_NAME,
-      OutputKey: getTranscriptionFilename(fileId),
+      OutputKey: srtFilename,
       OutputLocationType: OutputLocationType.S3
     }));
 
