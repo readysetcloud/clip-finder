@@ -1,0 +1,159 @@
+{
+  "Comment": "Endpoint handler for processing a YouTube video",
+  "StartAt": "Get Video Record",
+  "States": {
+    "Get Video Record": {
+      "Type": "Task",
+      "Resource": "${DynamodbGetItem}",
+      "Parameters": {
+        "TableName": "${TableName}",
+        "Key": {
+          "pk": {
+            "S.$": "$$.Execution.Input.url"
+          },
+          "sk": {
+            "S": "video"
+          }
+        }
+      },
+      "Next": "Record Exists?"
+    },
+    "Record Exists?": {
+      "Type": "Choice",
+      "Choices": [
+        {
+          "Variable": "$.Item",
+          "IsPresent": true,
+          "Next": "Unmarshall Data"
+        }
+      ],
+      "Default": "DynamoDB PutItem"
+    },
+    "Unmarshall Data": {
+      "Type": "Task",
+      "Resource": "${LambdaInvoke}",
+      "OutputPath": "$.Payload",
+      "Parameters": {
+        "FunctionName": "${UnmarshallData}",
+        "Payload": {
+          "marshall": false,
+          "data.$": "$.Item"
+        }
+      },
+      "Retry": [
+        {
+          "ErrorEquals": [
+            "Lambda.ServiceException",
+            "Lambda.AWSLambdaException",
+            "Lambda.SdkClientException",
+            "Lambda.TooManyRequestsException"
+          ],
+          "IntervalSeconds": 1,
+          "MaxAttempts": 3,
+          "BackoffRate": 2
+        }
+      ],
+      "Next": "Video Status"
+    },
+    "Video Status": {
+      "Type": "Choice",
+      "Choices": [
+        {
+          "Variable": "$.data.status",
+          "StringEquals": "Complete",
+          "Next": "Format OK Response"
+        }
+      ],
+      "Default": "Begin Processing Video"
+    },
+    "Format OK Response": {
+      "Type": "Pass",
+      "End": true,
+      "Parameters": {
+        "statusCode": 200,
+        "title.$": "$.data.title",
+        "clips.$": "$.data.clips"
+      }
+    },
+    "Begin Processing Video": {
+      "Type": "Task",
+      "Resource": "${StepFunctionsStartAsyncExecution}",
+      "Parameters": {
+        "StateMachineArn": "${GetClipsStateMachine}",
+        "Input": {
+          "url.$": "$$.Execution.Input.url",
+          "data.$": "$.data",
+          "AWS_STEP_FUNCTIONS_STARTED_BY_EXECUTION_ID.$": "$$.Execution.Id"
+        }
+      },
+      "Next": "Get Momento Token",
+      "ResultPath": null
+    },
+    "Get Momento Token": {
+      "Type": "Task",
+      "Resource": "${LambdaInvoke}",
+      "Parameters": {
+        "FunctionName": "${GetMomentoToken}",
+        "Payload": {
+          "url.$": "$$.Execution.Input.url"
+        }
+      },
+      "Retry": [
+        {
+          "ErrorEquals": [
+            "Lambda.ServiceException",
+            "Lambda.AWSLambdaException",
+            "Lambda.SdkClientException",
+            "Lambda.TooManyRequestsException"
+          ],
+          "IntervalSeconds": 1,
+          "MaxAttempts": 3,
+          "BackoffRate": 2
+        }
+      ],
+      "ResultPath": "$.momento",
+      "ResultSelector": {
+        "data.$": "$.Payload"
+      },
+      "Next": "Format Accepted Response"
+    },
+    "Format Accepted Response": {
+      "Type": "Pass",
+      "End": true,
+      "Parameters": {
+        "statusCode": 202,
+        "status": "$.data.status",
+        "subscription": {
+          "token.$": "$.momento.data.token"
+        }
+      }
+    },
+    "DynamoDB PutItem": {
+      "Type": "Task",
+      "Resource": "${DynamodbPutItem}",
+      "Parameters": {
+        "TableName": "${TableName}",
+        "Item": {
+          "pk": {
+            "S.$": "$$.Execution.Input.url"
+          },
+          "sk": {
+            "S": "video"
+          },
+          "status": "Pending"
+        }
+      },
+      "Next": "Format New Input",
+      "ResultPath": null
+    },
+    "Format New Input": {
+      "Type": "Pass",
+      "Parameters": {
+        "data": {
+          "status": "Pending"
+        }
+      },
+      "Next": "Begin Processing Video"
+    }
+  }
+}

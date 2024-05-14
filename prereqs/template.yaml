@@ -298,3 +298,34 @@ Resources:
             - Effect: Allow
               Action: dynamodb:UpdateItem
               Resource: !GetAtt ClipFinderTable.Arn
+
+  ProcessVideoStateMachine:
+    Type: AWS::Serverless::StateMachine
+    Properties:
+      Type: EXPRESS
+      DefinitionUri: ../state-machines/process-video.asl.json
+      DefinitionSubstitutions:
+        DynamodbGetItem: !Sub arn:${AWS::Partition}:states:::dynamodb:getItem
+        TableName: !Ref ClipFinderTable
+        LambdaInvoke: !Sub arn:${AWS::Partition}:states:::lambda:invoke
+        UnmarshallData: "{{resolve:ssm:/serverless-toolbox/marshall-unmarshall-data}}"
+        StepFunctionsStartAsyncExecution: !Sub arn:${AWS::Partition}:states:::states:startExecution
+        GetClipsStateMachine: !Ref GetClipsStateMachine
+        GetMomentoToken: !GetAtt GetMomentoTokenFunction.Arn
+        DynamodbPutItem: !Sub arn:${AWS::Partition}:states:::dynamodb:putItem
+      Policies:
+        - Version: 2012-10-17
+          Statement:
+            - Effect: Allow
+              Action:
+                - dynamodb:GetItem
+                - dynamodb:PutItem
+              Resource: !GetAtt ClipFinderTable.Arn
+            - Effect: Allow
+              Action: lambda:InvokeFunction
+              Resource:
+                - !GetAtt GetMomentoTokenFunction.Arn
+                - "{{resolve:ssm:/serverless-toolbox/marshall-unmarshall-data}}"
+            - Effect: Allow
+              Action: states:StartExecution
+              Resource: !Ref GetClipsStateMachine
