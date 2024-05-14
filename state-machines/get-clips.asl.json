@@ -1,0 +1,354 @@
+{
+  "Comment": "Get the best clips from a YouTube video",
+  "StartAt": "Start Transcription Service",
+  "States": {
+    "Start Transcription Service": {
+      "Type": "Task",
+      "Resource": "${StepFunctionsSyncExecute}",
+      "Parameters": {
+        "StateMachineArn": "${ManageAppRunner}",
+        "Input": {
+          "AWS_STEP_FUNCTIONS_STARTED_BY_EXECUTION_ID.$": "$$.Execution.Id"
+        }
+      },
+      "Next": "Call Service Endpoint",
+      "ResultPath": "$.apprunner",
+      "ResultSelector": {
+        "service.$": "$.Output"
+      }
+    },
+    "Call Service Endpoint": {
+      "Type": "Task",
+      "Resource": "${HTTPInvoke}",
+      "Parameters": {
+        "ApiEndpoint.$": "States.Format('https://{}/videos', $.apprunner.service.url)",
+        "Method": "POST",
+        "Authentication": {
+          "ConnectionArn": "${HTTPConnection}"
+        },
+        "RequestBody": {
+          "url.$": "$$.Execution.Input.url"
+        },
+        "Headers": {
+          "task-token": "$$.Task.Token"
+        }
+      },
+      "Retry": [
+        {
+          "ErrorEquals": [
+            "States.ALL"
+          ],
+          "BackoffRate": 2,
+          "IntervalSeconds": 1,
+          "MaxAttempts": 3,
+          "JitterStrategy": "FULL"
+        }
+      ],
+      "Next": "Has Video Been Uploaded Before?"
+    },
+    "Has Video Been Uploaded Before?": {
+      "Type": "Choice",
+      "Choices": [
+        {
+          "Variable": "$.ResponseBody.status",
+          "StringEquals": "Completed",
+          "Next": "Publish Generating Clips From Transcription Status Update"
+        }
+      ],
+      "Default": "Save Transcribing Status Update"
+    },
+    "Publish Generating Clips From Transcription Status Update": {
+      "Type": "Task",
+      "Resource": "${EventBridgePutEvents}",
+      "Parameters": {
+        "Entries": [
+          {
+            "Detail": {
+              "cacheName": "${CacheName}",
+              "topicName.$": "$$.Execution.Input.url",
+              "message": "Generating Clips"
+            },
+            "DetailType": "topicPublish",
+            "Source": "clipfinder"
+          }
+        ]
+      },
+      "Next": "Get Clips From Transcription",
+      "ResultPath": null
+    },
+    "Get Clips From Transcription": {
+      "Type": "Task",
+      "Resource": "${LambdaInvoke}",
+      "OutputPath": "$.Payload",
+      "Parameters": {
+        "FunctionName": "${GetClipLocations}",
+        "Payload": {
+          "srtFilename.$": "$.ResponseBody.transcription.location"
+        }
+      },
+      "Retry": [
+        {
+          "ErrorEquals": [
+            "Lambda.ServiceException",
+            "Lambda.AWSLambdaException",
+            "Lambda.SdkClientException",
+            "Lambda.TooManyRequestsException"
+          ],
+          "IntervalSeconds": 1,
+          "MaxAttempts": 3,
+          "BackoffRate": 2
+        }
+      ],
+      "Next": "Send Email and Update Status"
+    },
+    "Send Email and Update Status": {
+      "Type": "Parallel",
+      "Branches": [
+        {
+          "StartAt": "Format Email",
+          "States": {
+            "Format Email": {
+              "Type": "Task",
+              "Resource": "${LambdaInvoke}",
+              "OutputPath": "$.Payload",
+              "Parameters": {
+                "FunctionName": "${GenerateEmail}",
+                "Payload": {
+                  "clips.$": "$.clips",
+                  "videoUrl.$": "$$.Execution.Input.url"
+                }
+              },
+              "Retry": [
+                {
+                  "ErrorEquals": [
+                    "Lambda.ServiceException",
+                    "Lambda.AWSLambdaException",
+                    "Lambda.SdkClientException",
+                    "Lambda.TooManyRequestsException"
+                  ],
+                  "IntervalSeconds": 1,
+                  "MaxAttempts": 3,
+                  "BackoffRate": 2
+                }
+              ],
+              "Next": "Send Email"
+            },
+            "Send Email": {
+              "Type": "Task",
+              "Resource": "${EventBridgePutEvents}",
+              "Parameters": {
+                "Entries": [
+                  {
+                    "Detail": {
+                      "to": "allenheltondev@gmail.com",
+                      "subject": "Video clip options",
+                      "html.$": "$.html"
+                    },
+                    "DetailType": "Send Email",
+                    "Source": "clipfinder"
+                  }
+                ]
+              },
+              "End": true
+            }
+          }
+        },
+        {
+          "StartAt": "Marshall Clips",
+          "States": {
+            "Marshall Clips": {
+              "Type": "Task",
+              "Resource": "${LambdaInvoke}",
+              "OutputPath": "$.Payload",
+              "Parameters": {
+                "FunctionName": "${MarshallData}",
+                "Payload": {
+                  "marshall": true,
+                  "data": {
+                    "clips.$": "$.clips"
+                  }
+                }
+              },
+              "Retry": [
+                {
+                  "ErrorEquals": [
+                    "Lambda.ServiceException",
+                    "Lambda.AWSLambdaException",
+                    "Lambda.SdkClientException",
+                    "Lambda.TooManyRequestsException"
+                  ],
+                  "IntervalSeconds": 1,
+                  "MaxAttempts": 3,
+                  "BackoffRate": 2
+                }
+              ],
+              "Next": "Save Complete Status Update"
+            },
+            "Save Complete Status Update": {
+              "Type": "Task",
+              "Resource": "${DynamodbUpdateItem}",
+              "Parameters": {
+                "TableName": "${TableName}",
+                "Key": {
+                  "pk": {
+                    "S.$": "$$.Execution.Input.url"
+                  },
+                  "sk": {
+                    "S": "video"
+                  }
+                },
+                "UpdateExpression": "SET #status = :status, #clips = :clips",
+                "ExpressionAttributeNames": {
+                  "#status": "status",
+                  "#clips": "clips"
+                },
+                "ExpressionAttributeValues": {
+                  ":status": {
+                    "S": "Complete"
+                  },
+                  ":clips.$": "$.data.clips"
+                }
+              },
+              "ResultPath": null,
+              "End": true
+            }
+          }
+        }
+      ],
+      "End": true
+    },
+    "Save Transcribing Status Update": {
+      "Type": "Task",
+      "Resource": "${DynamodbUpdateItem}",
+      "Parameters": {
+        "TableName": "${TableName}",
+        "Key": {
+          "pk": {
+            "S.$": "$$.Execution.Input.url"
+          },
+          "sk": {
+            "S": "video"
+          }
+        },
+        "UpdateExpression": "SET #status = :status",
+        "ExpressionAttributeNames": {
+          "#status": "status"
+        },
+        "ExpressionAttributeValues": {
+          ":status": {
+            "S": "Transcribing"
+          }
+        }
+      },
+      "Next": "Publish Transcribing Status Update",
+      "ResultPath": null
+    },
+    "Publish Transcribing Status Update": {
+      "Type": "Task",
+      "Resource": "${EventBridgePutEventsAndWait}",
+      "Parameters": {
+        "Entries": [
+          {
+            "Detail": {
+              "cacheName": "${CacheName}",
+              "topicName.$": "$$.Execution.Input.url",
+              "message": "Transcribing"
+            },
+            "DetailType": "topicPublish",
+            "Source": "clipfinder"
+          }
+        ]
+      },
+      "Next": "Transcription Succeeded?",
+      "ResultPath": null
+    },
+    "Transcription Succeeded?": {
+      "Type": "Choice",
+      "Choices": [
+        {
+          "Variable": "$.status",
+          "StringEquals": "SUCCEEDED",
+          "Next": "Save Transcribed Status Update"
+        }
+      ],
+      "Default": "Transcription Failed"
+    },
+    "Save Transcribed Status Update": {
+      "Type": "Task",
+      "Resource": "${DynamodbUpdateItem}",
+      "Parameters": {
+        "TableName": "${TableName}",
+        "Key": {
+          "pk": {
+            "S.$": "$$.Execution.Input.url"
+          },
+          "sk": {
+            "S": "video"
+          }
+        },
+        "UpdateExpression": "SET #status = :status, #transcription = :transcription",
+        "ExpressionAttributeNames": {
+          "#status": "status",
+          "#transcription": "transcription"
+        },
+        "ExpressionAttributeValues": {
+          ":status": {
+            "S": "Transcribed"
+          },
+          ":transcription": {
+            "S.$": "$.srtFilename"
+          }
+        }
+      },
+      "Next": "Publish Generating Clips Status Update",
+      "ResultPath": null
+    },
+    "Publish Generating Clips Status Update": {
+      "Type": "Task",
+      "Resource": "${EventBridgePutEvents}",
+      "Parameters": {
+        "Entries": [
+          {
+            "Detail": {
+              "cacheName": "${CacheName}",
+              "topicName.$": "$$.Execution.Input.url",
+              "message": "Generating Clips"
+            },
+            "DetailType": "topicPublish",
+            "Source": "clipfinder"
+          }
+        ]
+      },
+      "Next": "Get Clips After Transcription",
+      "ResultPath": null
+    },
+    "Get Clips After Transcription": {
+      "Type": "Task",
+      "Resource": "${LambdaInvoke}",
+      "OutputPath": "$.Payload",
+      "Parameters": {
+        "FunctionName": "${GetClipLocations}",
+        "Payload": {
+          "srtFilename.$": "$.srtFilename"
+        }
+      },
+      "Retry": [
+        {
+          "ErrorEquals": [
+            "Lambda.ServiceException",
+            "Lambda.AWSLambdaException",
+            "Lambda.SdkClientException",
+            "Lambda.TooManyRequestsException"
+          ],
+          "IntervalSeconds": 1,
+          "MaxAttempts": 3,
+          "BackoffRate": 2
+        }
+      ],
+      "Next": "Send Email and Update Status"
+    },
+    "Transcription Failed": {
+      "Type": "Fail"
+    }
+  }
+}

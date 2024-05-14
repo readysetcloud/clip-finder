@@ -1,0 +1,138 @@
+{
+  "Comment": "Manage App Runner Service",
+  "StartAt": "Get App Runner Service Details",
+  "States": {
+    "Get App Runner Service Details": {
+      "Type": "Task",
+      "Parameters": {
+        "ServiceArn": "${AppRunnerService}"
+      },
+      "Resource": "${AppRunnerDescribeService}",
+      "Next": "Is Service Running?"
+    },
+    "Is Service Running?": {
+      "Type": "Choice",
+      "Choices": [
+        {
+          "Variable": "$.Service.Status",
+          "StringEquals": "RUNNING",
+          "Next": "Get Shut-off Time"
+        },
+        {
+          "Variable": "$.Service.Status",
+          "StringEquals": "OPERATION_IN_PROGRESS",
+          "Next": "Wait For Service Status Update"
+        }
+      ],
+      "Default": "Start Service"
+    },
+    "Get Shut-off Time": {
+      "Type": "Task",
+      "Resource": "${LambdaInvoke}",
+      "Parameters": {
+        "FunctionName": "${GetShutoffTime}",
+        "Payload": {
+          "minutes": 10
+        }
+      },
+      "Retry": [
+        {
+          "ErrorEquals": [
+            "Lambda.ServiceException",
+            "Lambda.AWSLambdaException",
+            "Lambda.SdkClientException",
+            "Lambda.TooManyRequestsException"
+          ],
+          "IntervalSeconds": 1,
+          "MaxAttempts": 3,
+          "BackoffRate": 2
+        }
+      ],
+      "Next": "Is Service Shut-off Timer Enabled?",
+      "ResultPath": "$.shutoff"
+    },
+    "Is Service Shut-off Timer Enabled?": {
+      "Type": "Task",
+      "Next": "Update Service Shut-off Timer",
+      "Parameters": {
+        "Name": "service-timer",
+        "GroupName": "clipfinder"
+      },
+      "Resource": "${SchedulerGetSchedule}",
+      "ResultPath": null,
+      "Catch": [
+        {
+          "ErrorEquals": [
+            "Scheduler.ResourceNotFoundException"
+          ],
+          "Next": "Set Service Shut-off Timer",
+          "ResultPath": null
+        }
+      ]
+    },
+    "Update Service Shut-off Timer": {
+      "Type": "Task",
+      "Next": "Format Output",
+      "Parameters": {
+        "ActionAfterCompletion": "DELETE",
+        "FlexibleTimeWindow": {
+          "Mode": "OFF"
+        },
+        "GroupName": "clipfinder",
+        "Name": "service-timer",
+        "ScheduleExpression.$": "States.Format('at({})', $.shutoff.Payload.shutoffTime)",
+        "Target": {
+          "Arn": "${PauseAppRunnerService}",
+          "RoleArn": "${PauseAppRunnerRole}",
+          "Input": {
+            "ServiceArn": "${AppRunnerService}"
+          }
+        }
+      },
+      "Resource": "${SchedulerUpdateSchedule}",
+      "ResultPath": null
+    },
+    "Set Service Shut-off Timer": {
+      "Type": "Task",
+      "Next": "Format Output",
+      "Parameters": {
+        "ActionAfterCompletion": "DELETE",
+        "FlexibleTimeWindow": {
+          "Mode": "OFF"
+        },
+        "GroupName": "clipfinder",
+        "Name": "service-timer",
+        "ScheduleExpression.$": "States.Format('at({})', $.shutoff.Payload.shutoffTime)",
+        "Target": {
+          "Arn": "${PauseAppRunnerService}",
+          "RoleArn": "${PauseAppRunnerRole}",
+          "Input": {
+            "ServiceArn": "${AppRunnerService}"
+          }
+        }
+      },
+      "Resource": "${SchedulerCreateSchedule}",
+      "ResultPath": null
+    },
+    "Start Service": {
+      "Type": "Task",
+      "Parameters": {
+        "ServiceArn": "${AppRunnerService}"
+      },
+      "Resource": "${AppRunnerResumeService}",
+      "Next": "Wait For Service Status Update"
+    },
+    "Wait For Service Status Update": {
+      "Type": "Wait",
+      "Seconds": 20,
+      "Next": "Get App Runner Service Details"
+    },
+    "Format Output": {
+      "Type": "Pass",
+      "Parameters": {
+        "url.$": "$.Service.ServiceUrl"
+      },
+      "End": true
+    }
+  }
+}

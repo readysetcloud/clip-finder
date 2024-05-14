@@ -6,8 +6,39 @@ Description: >
 Parameters:
   Connection:
     Type: String
+  CacheName:
+    Type: String
+    Default: clip-finder
+
+Globals:
+  Function:
+    Runtime: nodejs20.x
+    Architectures:
+      - arm64
+    Tracing: Active
+    Timeout: 15
+    MemorySize: 1024
+    Handler: index.handler
+    Environment:
+      Variables:
+        AWS_NODEJS_CONNECTION_REUSE_ENABLED: 1
 
 Resources:
+  ClipFinderTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      BillingMode: PAY_PER_REQUEST
+      KeySchema:
+        - AttributeName: pk
+          KeyType: HASH
+        - AttributeName: sk
+          KeyType: RANGE
+      AttributeDefinitions:
+        - AttributeName: pk
+          AttributeType: S
+        - AttributeName: sk
+          AttributeType: S
+
   ClipFinderBucket:
     Type: AWS::S3::Bucket
     Properties:
@@ -87,16 +118,11 @@ Resources:
       InstanceConfiguration:
         InstanceRoleArn: !GetAtt AppRunnerRole.Arn
 
-  DoTheRestOfItFunction:
+  GetClipLocationsFunction:
     Type: AWS::Serverless::Function
     Properties:
-      CodeUri: ../functions/generate-email
-      Handler: index.handler
+      CodeUri: ../functions/get-clip-locations
       Timeout: 300
-      MemorySize: 1024
-      Runtime: nodejs20.x
-      Architectures:
-        - arm64
       Policies:
         - AWSLambdaBasicExecutionRole
         - Version: 2012-10-17
@@ -107,23 +133,168 @@ Resources:
             - Effect: Allow
               Action: s3:GetObject
               Resource: !Sub ${ClipFinderBucket.Arn}/*
+      Environment:
+        Variables:
+          BUCKET_NAME: !Ref ClipFinderBucket
+
+  GenerateEmailFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: ../functions/generate-email
+      Policies:
+        - AWSLambdaBasicExecutionRole
+
+  GetShutoffTimeFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: ../functions/get-shutoff-time
+      Policies:
+        - AWSLambdaBasicExecutionRole
+
+  GetMomentoTokenFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: ../functions/get-momento-token
+      Policies:
+        - AWSLambdaBasicExecutionRole
+        - Version: 2012-10-17
+          Statement:
+            - Effect: Allow
+              Action: secretsmanager:GetSecretValue
+              Resource: "{{resolve:ssm:/serverless-toolbox/secrets}}"
+      Environment:
+        Variables:
+          SECRET_ID: "{{resolve:ssm:/serverless-toolbox/secrets}}"
+          CACHE_NAME: !Ref CacheName
+
+  AppRunnerServiceConnection:
+    Type: AWS::Events::Connection
+    Properties:
+      AuthorizationType: API_KEY
+      AuthParameters:
+        ApiKeyAuthParameters:
+          ApiKeyName: x-api-key
+          ApiKeyValue: Unused
+      Name: AppRunnerServiceConnection
+
+  PauseAppRunnerSchedulerRole:
+    Type: AWS::IAM::Role
+    Properties:
+      AssumeRolePolicyDocument:
+        Version: 2012-10-17
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service:
+                - scheduler.amazonaws.com
+            Action: sts:AssumeRole
+      Policies:
+        - PolicyName: PauseAppRunnerSchedulerPolicy
+          PolicyDocument:
+            Version: 2012-10-17
+            Statement:
+              - Effect: Allow
+                Action: apprunner:PauseService
+                Resource: !GetAtt AppRunnerService.ServiceArn
+
+  ClipFinderScheduleGroup:
+    Type: AWS::Scheduler::ScheduleGroup
+    Properties:
+      Name: clipfinder
+
+  ManageAppRunnerStateMachine:
+    Type: AWS::Serverless::StateMachine
+    Properties:
+      Type: STANDARD
+      DefinitionUri: ../state-machines/manage-app-runner.asl.json
+      DefinitionSubstitutions:
+        AppRunnerDescribeService: !Sub arn:${AWS::Partition}:states:::aws-sdk:apprunner:describeService
+        AppRunnerService: !GetAtt AppRunnerService.ServiceArn
+        LambdaInvoke: !Sub arn:${AWS::Partition}:states:::lambda:invoke
+        GetShutoffTime: !GetAtt GetShutoffTimeFunction.Arn
+        AppRunnerResumeService: !Sub arn:${AWS::Partition}:states:::aws-sdk:apprunner:resumeService
+        SchedulerCreateSchedule: !Sub arn:${AWS::Partition}:states:::aws-sdk:scheduler:createSchedule
+        SchedulerGetSchedule: !Sub arn:${AWS::Partition}:states:::aws-sdk:scheduler:getSchedule
+        SchedulerUpdateSchedule: !Sub arn:${AWS::Partition}:states:::aws-sdk:scheduler:updateSchedule
+        PauseAppRunnerRole: !GetAtt PauseAppRunnerSchedulerRole.Arn
+        PauseAppRunnerService: !Sub arn:${AWS::Partition}:scheduler:::aws-sdk:apprunner:pauseService
+      Policies:
+        - Version: 2012-10-17
+          Statement:
+            - Effect: Allow
+              Action:
+                - apprunner:DescribeService
+                - apprunner:ResumeService
+              Resource: !GetAtt AppRunnerService.ServiceArn
+            - Effect: Allow
+              Action: lambda:InvokeFunction
+              Resource: !GetAtt GetShutoffTimeFunction.Arn
+            - Effect: Allow
+              Action:
+                - scheduler:CreateSchedule
+                - scheduler:GetSchedule
+                - scheduler:UpdateSchedule
+              Resource: !Sub arn:${AWS::Partition}:scheduler:${AWS::Region}:${AWS::AccountId}:schedule/clipfinder/service-timer
+            - Effect: Allow
+              Action: iam:PassRole
+              Resource: !GetAtt PauseAppRunnerSchedulerRole.Arn
+
+  GetClipsStateMachine:
+    Type: AWS::Serverless::StateMachine
+    Properties:
+      Type: STANDARD
+      DefinitionUri: ../state-machines/get-clips.asl.json
+      DefinitionSubstitutions:
+        StepFunctionsSyncExecute: !Sub arn:${AWS::Partition}:states:::states:startExecution.sync:2
+        ManageAppRunner: !GetAtt ManageAppRunnerStateMachine.Arn
+        HTTPInvoke: !Sub arn:${AWS::Partition}:states:::http:invoke
+        HTTPConnection: !GetAtt AppRunnerServiceConnection.Arn
+        LambdaInvoke: !Sub arn:${AWS::Partition}:states:::lambda:invoke
+        GetClipLocations: !GetAtt GetClipLocationsFunction.Arn
+        GenerateEmail: !GetAtt GenerateEmailFunction.Arn
+        EventBridgePutEvents: !Sub arn:${AWS::Partition}:states:::events:putEvents
+        EventBridgePutEventsAndWait: !Sub arn:${AWS::Partition}:states:::events:putEvents.waitForTaskToken
+        CacheName: !Ref CacheName
+        DynamodbUpdateItem: !Sub arn:${AWS::Partition}:states:::dynamodb:updateItem
+        TableName: !Ref ClipFinderTable
+        MarshallData: "{{resolve:ssm:/serverless-toolbox/marshall-unmarshall-data}}"
+      Policies:
+        - Version: 2012-10-17
+          Statement:
             - Effect: Allow
               Action: events:PutEvents
               Resource: !Sub arn:${AWS::Partition}:events:${AWS::Region}:${AWS::AccountId}:event-bus/default
-      Environment:
-        Variables:
-          AWS_NODEJS_CONNECTION_REUSE_ENABLED: 1
-          BUCKET_NAME: !Ref ClipFinderBucket
-      Events:
-        TranscriptionSuccessful:
-          Type: EventBridgeRule
-          Properties:
-            Pattern:
-              source:
-                - aws.transcribe
-              detail-type:
-                - Transcribe Job State Change
-              detail:
-                TranscriptionJobStatus:
-                  - COMPLETED
-
+            - Effect: Allow
+              Action: states:InvokeHTTPEndpoint
+              Resource: '*'
+            - Effect: Allow
+              Action:
+                - secretsmanager:DescribeSecret
+                - secretsmanager:GetSecretValue
+              Resource: !Sub arn:${AWS::Partition}:secretsmanager:${AWS::Region}:${AWS::AccountId}:secret:events!connection/*
+            - Effect: Allow
+              Action: events:RetrieveConnectionCredentials
+              Resource: !Sub arn:${AWS::Partition}:events:${AWS::Region}:${AWS::AccountId}:connection/*
+            - Effect: Allow
+              Action: lambda:InvokeFunction
+              Resource:
+                - !GetAtt GetClipLocationsFunction.Arn
+                - !GetAtt GenerateEmailFunction.Arn
+                - "{{resolve:ssm:/serverless-toolbox/marshall-unmarshall-data}}"
+            - Effect: Allow
+              Action: states:StartExecution
+              Resource: !GetAtt ManageAppRunnerStateMachine.Arn
+            - Effect: Allow
+              Action:
+                - states:DescribeExecution
+                - states:StopExecution
+              Resource: !Sub arn:${AWS::Partition}:states:${AWS::Region}:${AWS::AccountId}:execution:${ManageAppRunnerStateMachine.Name}:*
+            - Effect: Allow
+              Action:
+                - events:PutTargets
+                - events:PutRule
+                - events:DescribeRule
+              Resource: !Sub arn:${AWS::Partition}:events:${AWS::Region}:${AWS::AccountId}:rule/StepFunctionsGetEventsForStepFunctionsExecutionRule
+            - Effect: Allow
+              Action: dynamodb:UpdateItem
+              Resource: !GetAtt ClipFinderTable.Arn
